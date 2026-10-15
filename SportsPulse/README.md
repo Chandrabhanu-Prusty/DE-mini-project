@@ -1,69 +1,246 @@
-# SportsPulse
+﻿# ⚡ SportsPulse: End-to-End IPL Sports Analytics Data Engineering Pipeline
 
-An end-to-end Data Engineering pipeline for sports analytics (IPL match and ball-by-ball data) built using a Medallion Architecture (Bronze -> Silver -> Gold).
+> **VESIT — Semester 5 Data Engineering Mini Project**  
+> An end-to-end Lakehouse and Data Engineering pipeline built on a **Medallion Architecture (Bronze ➔ Silver ➔ Gold)** for processing, cleansing, and serving granular IPL match and ball-by-ball telemetry (1,245+ historical matches).
 
-## Project Structure
+---
+
+## 📌 Project Overview
+
+**SportsPulse** is an automated data engineering platform designed to ingest raw, nested JSON match files from historical Indian Premier League (IPL) matches, validate schemas, cleanse and normalize delivery-level records into relational entities, compute business-level aggregates (player efficiency, death-over economy, match momentum), load them into an analytical data warehouse, and present actionable insights through an interactive **Streamlit** dashboard.
+
+---
+
+## 🚦 Project Status & Task Progress
+
+| Phase | Module | Tasks & Deliverables | Status | Completion |
+| :--- | :--- | :--- | :---: | :---: |
+| **01. Setup** | **Project Scaffolding** | Repository structure, virtual environment, Git setup, directory skeletons | ✅ Done | 100% |
+| **02. Data Ingestion** | **Bronze Layer** | Ingestion of 1,245+ raw IPL match JSON datasets into `data/bronze/ipl` | ✅ Done | 100% |
+| **03. Validation** | **Quality & Schema** | JSON schema enforcement, null-check validations, corrupted record quarantine | 🔄 In Progress | 60% |
+| **04. Processing** | **Silver Layer** | Parsing nested JSON to relational entities (`dim_matches`, `dim_players`, `fact_deliveries`) | 🔄 In Progress | 50% |
+| **05. Aggregations** | **Gold Layer** | Metric models: Strike rates, economy rates, partnership stats, venue/toss trends | 🔄 In Progress | 30% |
+| **06. Warehouse** | **Storage & Serving** | PostgreSQL DDL setup, indexing, table loading scripts (`load_warehouse.py`) | 🟡 Up Next | 20% |
+| **07. Dashboard** | **Streamlit UI** | Interactive match explorer, player performance radar, and live charts | 🟡 Up Next | 15% |
+| **08. Orchestration** | **Airflow DAG** | Automated scheduled pipeline runs & data quality reporting | 🟡 Up Next | 10% |
+
+---
+
+## 🏗️ Data Pipeline Architecture (Medallion Pattern)
+
+The project implements a modern **Medallion Lakehouse Architecture** to guarantee data quality, idempotence, and high analytical query performance:
 
 ```
+[ Raw Sources ]
+ 1,245+ IPL Match JSONs (Ball-by-Ball)
+       │
+       ▼
+┌────────────────────────────────────────────────────────┐
+│  🥉 BRONZE LAYER (Raw Ingestion)                      │
+│  - Raw file registration with metadata & timestamps    │
+│  - Immutable append-only ingestion                    │
+│  - Path: data/bronze/ipl/*.json                       │
+└────────────────────────────────────────────────────────┘
+       │
+       ├───► [ Schema Validation & Pydantic Checks ]
+       │            │
+       │            ├───► Failed ──► 🚨 QUARANTINE (`data/quarantine/`)
+       ▼            ▼
+┌────────────────────────────────────────────────────────┐
+│  🥈 SILVER LAYER (Cleaned & Normalized)               │
+│  - Flattens nested innings and ball-by-ball deliveries │
+│  - Standardizes player, team, and venue naming         │
+│  - Enforces data types & handles extras/wickets        │
+│  - Tables: dim_matches, dim_players, fact_deliveries   │
+│  - Path: data/silver/*.parquet                         │
+└────────────────────────────────────────────────────────┘
+       │
+       ▼
+┌────────────────────────────────────────────────────────┐
+│  🥇 GOLD LAYER (Curated Business Marts)               │
+│  - Batting performance (Strike Rate, Boundary %, Form) │
+│  - Bowling metrics (Economy, Dot Ball %, Death Overs)  │
+│  - Venue trends (Toss decision vs Match Outcome)       │
+│  - Path: data/gold/*.parquet                           │
+└────────────────────────────────────────────────────────┘
+       │
+       ├───► 🗄️ Analytical Warehouse (PostgreSQL)
+       └───► 📊 Streamlit Interactive Analytics Dashboard
+```
+
+### Pipeline Breakdown
+1. **Bronze Layer (`data/bronze/ipl`)**: Stores untouched, raw JSON files directly as ingested. Serves as single source of truth for replayability.
+2. **Data Quarantine (`data/quarantine/`)**: Isolates unparseable or corrupted JSON files without breaking downstream execution.
+3. **Silver Layer (`data/silver/`)**: De-nests complex JSON hierarchy (info, innings, overs, deliveries, extras, wickets) into cleaned, typed dimensional and fact data structures.
+4. **Gold Layer (`data/gold/`)**: Pre-computes heavy analytical queries and rolling window aggregations for sub-second dashboard performance.
+5. **Serving Layer**: Syncs Gold metrics to PostgreSQL and exposes them to the visualization layer.
+
+---
+
+## 🖥️ Dashboard Wireframe & Visual Preview
+
+The frontend is built with **Streamlit** to give cricket analysts, coaches, and enthusiasts deep match intelligence.
+
+```
+========================================================================================
+ 🏏 SportsPulse — Real-Time IPL Analytics & Telemetry Engine
+========================================================================================
+ [ Filter Match: CSK vs MI (2023) ▼ ]  [ Season: 2023 ▼ ]  [ Venue: Wankhede Stadium ▼ ]
+----------------------------------------------------------------------------------------
+ 📊 KPI CARDS
+ ┌──────────────────┐  ┌──────────────────┐  ┌──────────────────┐  ┌──────────────────┐
+ │ Total Matches    │  │ Balls Bowled     │  │ Total Runs       │  │ Sixes Hit        │
+ │ 1,245            │  │ 290,412          │  │ 384,120          │  │ 12,840           │
+ └──────────────────┘  └──────────────────┘  └──────────────────┘  └──────────────────┘
+----------------------------------------------------------------------------------------
+ 📈 TAB 1: MATCH COMPARISON & MOMENTUM (WORM GRAPH)
+  Runs
+   220 ┤                                                ╭── CSK: 215/5 (20.0)
+   180 ┤                                      ╭─────────╯
+   140 ┤                         ╭────────────╯  * Wicket (MS Dhoni)
+   100 ┤              ╭──────────╯......... MI: 198/8 (20.0)
+    60 ┤   ╭──────────╯
+    20 ┤───╯
+     0 └─────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────► Overs
+             2      4      6      8     10     12     14     16     18     20
+----------------------------------------------------------------------------------------
+ 🎯 TAB 2: PLAYER BATTING & BOWLING DEEP-DIVE
+  ┌─────────────────────────────────────────┐  ┌───────────────────────────────────────┐
+  │ 🏏 Batting Strike Rate vs Bowling Type  │  │ 🎯 Bowling Economy by Match Phase     │
+  │ Pace:  148.5 SR  [██████████████░░░░]   │  │ Powerplay (Overs 1-6):   6.8 RPO      │
+  │ Spin:  162.1 SR  [████████████████░░]   │  │ Middle Overs (7-15):     7.4 RPO      │
+  │ Left-Arm: 135.0  [████████████░░░░░░]   │  │ Death Overs (16-20):    10.2 RPO      │
+  └─────────────────────────────────────────┘  └───────────────────────────────────────┘
+----------------------------------------------------------------------------------------
+ 🏟️ TAB 3: VENUE & TOSS DYNAMICS           ⚙️ TAB 4: DATA PIPELINE TELEMETRY
+  - Toss Winner Win Rate: 54.2%              - Raw Files Ingested: 1,245 / 1,245
+  - Batting 1st Avg Score: 172               - Schema Validation Pass Rate: 99.8%
+  - Batting 2nd Avg Score: 164               - Pipeline Status: 🟢 Healthy (0 Errors)
+========================================================================================
+```
+
+---
+
+## 🚀 How to Clone & Run Locally
+
+Follow these steps to set up the project on your local machine:
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Chandrabhanu-Prusty/DE-mini-project.git
+cd DE-mini-project/SportsPulse
+```
+
+### 2. Set Up Python Virtual Environment
+We recommend **Python 3.11**. You can use standard `venv` or `uv`:
+
+```powershell
+# Using Python Launcher
+py -3.11 -m venv .venv
+
+# Activate on Windows (PowerShell)
+.\.venv\Scripts\Activate.ps1
+
+# Activate on macOS/Linux
+source .venv/bin/activate
+```
+
+### 3. Install Dependencies
+```bash
+pip install --upgrade pip
+pip install -r requirements.txt
+```
+
+### 4. Configure Environment Variables
+Verify or update the configuration in `.env`:
+```ini
+ENVIRONMENT=development
+LOG_LEVEL=INFO
+
+DATA_BRONZE_DIR=data/bronze/ipl
+DATA_SILVER_DIR=data/silver
+DATA_GOLD_DIR=data/gold
+DATA_QUARANTINE_DIR=data/quarantine
+LOG_DIR=logs
+REPORT_DIR=reports
+
+DATABASE_URL=postgresql+psycopg2://postgres:<password>@localhost:5432/sportspulse
+```
+
+### 5. Execute the Data Pipeline
+Run the modular pipeline components sequentially:
+
+```powershell
+# Step 1: Register and ingest raw match JSONs into Bronze
+python -m src.ingestion.acquire_data
+
+# Step 2: Validate schema and check data quality
+python -m src.validation.validate_schema
+
+# Step 3: Transform & normalize into Silver tables
+python -m src.processing.build_silver
+
+# Step 4: Generate Gold metrics and aggregates
+python -m src.processing.build_gold
+
+# Step 5: Load tables into PostgreSQL warehouse
+python -m src.warehouse.load_warehouse
+```
+
+### 6. Launch the Streamlit Dashboard
+```bash
+streamlit run dashboard/app.py
+```
+Open your browser at `http://localhost:8501` to view the interactive dashboard.
+
+---
+
+## 📁 Repository Directory Structure
+
+```text
 SportsPulse/
-│
 ├── data/
-│   ├── bronze/          # Raw ingested data (IPL JSON files)
-│   │   └── ipl/
-│   ├── silver/          # Cleansed, normalized and typed tables
-│   ├── gold/            # Curated business-level aggregates & metrics
-│   └── quarantine/      # Records failing validation checks
-│
+│   ├── bronze/ipl/          # Raw 1,245+ ingested IPL match JSON files
+│   ├── silver/              # Cleansed, normalized dimensional and fact Parquet tables
+│   ├── gold/                # Curated analytical aggregates and metrics
+│   └── quarantine/          # Malformed or corrupted match files
 ├── src/
-│   ├── ingestion/       # Data acquisition and raw file registration
+│   ├── ingestion/           # Data acquisition and raw file registration
 │   │   ├── acquire_data.py
 │   │   └── register_files.py
-│   │
-│   ├── validation/      # Schema enforcement and data quality checks
+│   ├── validation/          # Schema enforcement and data quality checks
 │   │   ├── validate_schema.py
 │   │   └── quality_check.py
-│   │
-│   ├── processing/      # Transformations across Medallion layers
+│   ├── processing/          # Transformations across Medallion layers
 │   │   ├── parse_matches.py
 │   │   ├── normalize_entities.py
 │   │   ├── build_silver.py
 │   │   └── build_gold.py
-│   │
-│   ├── warehouse/       # Loading processed data to analytics store
+│   ├── warehouse/           # Analytical store loading
 │   │   └── load_warehouse.py
-│   │
-│   └── reporting/       # Metrics refresh and quality reporting
+│   └── reporting/           # Dashboard data refresh and quality reports
 │       ├── refresh_dashboard_tables.py
 │       └── publish_quality_report.py
-│
-├── dashboard/           # Visualization application
+├── dashboard/               # Streamlit web application
 │   └── app.py
-│
-├── dags/                # Airflow / Orchestration DAG definitions
+├── dags/                    # Apache Airflow orchestration DAGs
 │   └── sportspulse_pipeline.py
-│
-├── models/              # ML/analytics models
-├── notebooks/           # Exploratory notebooks
-├── tests/               # Unit and integration tests
-├── logs/                # Execution logs
-├── reports/             # Generated HTML/PDF data quality reports
-├── sql/                 # Ad-hoc & analytical queries
-│
-├── .env                 # Environment configuration
-├── .gitignore
-├── requirements.txt
-└── README.md
+├── models/                  # Analytical & statistical modeling scripts
+├── notebooks/               # Exploratory data analysis (Jupyter)
+├── reports/                 # Automated data quality & pipeline audit reports
+├── sql/                     # PostgreSQL DDLs, analytical queries, and views
+├── tests/                   # Automated unit and integration tests
+├── .env                     # Local environment settings
+├── .gitignore               # Git ignore rules
+├── requirements.txt         # Project Python dependencies
+└── README.md                # Project documentation
 ```
 
-## Setup & Getting Started
+---
 
-1. **Create and activate a virtual environment**:
-   ```powershell
-   uv venv --python 3.11 .venv
-   .\.venv\Scripts\Activate.ps1
-   ```
+## 👨‍💻 Author & Acknowledgements
 
-2. **Install dependencies**:
-   ```powershell
-   pip install -r requirements.txt
-   ```
+- **Chandrabhanu Prusty**  
+- **Institution**: Vivekanand Education Society's Institute of Technology (VESIT)  
+- **Program**: B.E. Computer Engineering / Data Engineering (Semester 5)  
+- **GitHub**: [@Chandrabhanu-Prusty](https://github.com/Chandrabhanu-Prusty)
