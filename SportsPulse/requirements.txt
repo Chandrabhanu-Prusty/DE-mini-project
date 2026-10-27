@@ -1,0 +1,8 @@
+# SportsPulse - Core Python Dependencies
+pandas>=2.0.0
+pyarrow>=14.0.0
+SQLAlchemy>=2.0.0
+psycopg2-binary>=2.9.0
+python-dotenv>=1.0.0
+streamlit>=1.30.0
+plotly>=5.0.0

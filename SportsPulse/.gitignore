@@ -1,10 +1,12 @@
-# Python
+# Python bytecode and caches
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
 .Python
-env/
+.pytest_cache/
+
+# Distribution and packaging
 build/
 develop-eggs/
 dist/
@@ -25,21 +27,32 @@ wheels/
 .venv/
 venv/
 ENV/
+env/
 env.bak/
 venv.bak/
 
-# Environment Variables
+# Environment Variables & Secrets
 .env
-.env.local
+.env.*
+!.env.example
+.streamlit/secrets.toml
 
-# IDE
+# IDE & Editor specific
 .vscode/
 .idea/
 *.swp
 *.swo
 
-# Project Data & Logs (keep directories via .gitkeep)
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Project Logs
+*.log
 logs/*.log
+
+# Project Data (keep folder structure via .gitkeep)
 data/bronze/*
 !data/bronze/ipl/.gitkeep
 !data/bronze/.gitkeep
@@ -49,5 +62,7 @@ data/gold/*
 !data/gold/.gitkeep
 data/quarantine/*
 !data/quarantine/.gitkeep
+
+# Generated Reports (ephemeral outputs)
 reports/*.html
 reports/*.pdf
