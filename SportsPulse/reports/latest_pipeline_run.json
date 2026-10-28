@@ -1,0 +1,145 @@
+{
+  "run_id": "run_20261027_174437",
+  "timestamp_utc": "2026-10-27T17:46:33.076900+00:00",
+  "overall_status": "SUCCESS",
+  "total_duration_seconds": 112.58,
+  "config": {
+    "project_root": "C:\\Users\\Chandrabhanu\\Downloads\\VESIT\\Sem 5\\DE\\Mini Project\\SportsPulse",
+    "skip_warehouse": false,
+    "strict_mode": false,
+    "dry_run": false
+  },
+  "stages": [
+    {
+      "number": 1,
+      "id": "bronze_register",
+      "name": "Register Source Files",
+      "module": "src.ingestion.register_files",
+      "status": "SUCCESS",
+      "start_time_utc": "2026-10-27T17:44:37.813752+00:00",
+      "end_time_utc": "2026-10-27T17:44:39.574504+00:00",
+      "duration_seconds": 1.76,
+      "exit_code": 0,
+      "error_details": null
+    },
+    {
+      "number": 2,
+      "id": "schema_validate",
+      "name": "Validate Schemas",
+      "module": "src.validation.validate_schema",
+      "status": "SUCCESS",
+      "start_time_utc": "2026-10-27T17:44:39.575893+00:00",
+      "end_time_utc": "2026-10-27T17:44:41.580019+00:00",
+      "duration_seconds": 2.0,
+      "exit_code": 0,
+      "error_details": null
+    },
+    {
+      "number": 3,
+      "id": "quality_check",
+      "name": "Data Quality Checks",
+      "module": "src.validation.quality_check",
+      "status": "SUCCESS",
+      "start_time_utc": "2026-10-27T17:44:41.580019+00:00",
+      "end_time_utc": "2026-10-27T17:44:44.122180+00:00",
+      "duration_seconds": 2.54,
+      "exit_code": 0,
+      "error_details": null
+    },
+    {
+      "number": 4,
+      "id": "silver_parse",
+      "name": "Parse Matches to Silver",
+      "module": "src.processing.parse_matches",
+      "status": "SUCCESS",
+      "start_time_utc": "2026-10-27T17:44:44.122180+00:00",
+      "end_time_utc": "2026-10-27T17:44:52.620725+00:00",
+      "duration_seconds": 8.5,
+      "exit_code": 0,
+      "error_details": null
+    },
+    {
+      "number": 5,
+      "id": "silver_normalize",
+      "name": "Normalize Entities",
+      "module": "src.processing.normalize_entities",
+      "status": "SUCCESS",
+      "start_time_utc": "2026-10-27T17:44:52.620725+00:00",
+      "end_time_utc": "2026-10-27T17:44:55.152249+00:00",
+      "duration_seconds": 2.53,
+      "exit_code": 0,
+      "error_details": null
+    },
+    {
+      "number": 6,
+      "id": "gold_build",
+      "name": "Build Gold Datasets",
+      "module": "src.processing.build_gold",
+      "status": "SUCCESS",
+      "start_time_utc": "2026-10-27T17:44:55.153525+00:00",
+      "end_time_utc": "2026-10-27T17:46:24.090801+00:00",
+      "duration_seconds": 88.94,
+      "exit_code": 0,
+      "error_details": null
+    },
+    {
+      "number": 7,
+      "id": "warehouse_load",
+      "name": "Load PostgreSQL Warehouse",
+      "module": "src.warehouse.load_warehouse",
+      "status": "SUCCESS",
+      "start_time_utc": "2026-10-27T17:46:24.091845+00:00",
+      "end_time_utc": "2026-10-27T17:46:30.391646+00:00",
+      "duration_seconds": 6.3,
+      "exit_code": 0,
+      "error_details": null
+    }
+  ],
+  "metrics": {
+    "bronze": {
+      "manifest_path": "reports\\file_manifest.csv",
+      "total_files_discovered": 1243,
+      "registered_count": 1243,
+      "error_count": 0
+    },
+    "validation": {
+      "report_path": "reports\\schema_validation_report.csv",
+      "total_checked": 1243,
+      "valid_count": 1243,
+      "invalid_count": 0,
+      "error_count": 0
+    },
+    "quality": {
+      "report_path": "reports\\data_quality_report.csv",
+      "total_issues": 0,
+      "errors": 0,
+      "warnings": 0,
+      "affected_files": 0
+    },
+    "silver": {
+      "matches": 1243,
+      "innings": 2514,
+      "deliveries": 295732,
+      "dim_teams": 19,
+      "dim_players": 807
+    },
+    "gold": {
+      "player_batting": 738,
+      "player_bowling": 577,
+      "team_performance": 19,
+      "match_summary": 1243,
+      "innings_summary": 2480
+    },
+    "warehouse": {
+      "status": "connected",
+      "table_counts": {
+        "dim_teams": 19,
+        "dim_players": 807,
+        "fact_matches": 1243,
+        "fact_player_batting": 738,
+        "fact_player_bowling": 577
+      }
+    }
+  },
+  "report_file": "pipeline_run_20261027_174437.json"
+}

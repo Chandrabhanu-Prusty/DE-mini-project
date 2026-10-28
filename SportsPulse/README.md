@@ -165,7 +165,37 @@ SportsPulse uses ball-by-ball match telemetry from [Cricsheet](https://cricsheet
 
 ## ⚙️ Running the Data Pipeline
 
-Execute the pipeline stages sequentially from the `SportsPulse` directory:
+### Option A: Complete End-to-End Pipeline Runner (Recommended)
+
+Run all Medallion stages (Bronze registration ➔ validation ➔ quality audit ➔ Silver parsing ➔ entity normalization ➔ Gold marts ➔ PostgreSQL warehouse ➔ final execution report) with a single command:
+
+```powershell
+# From the SportsPulse directory (or repository root):
+python run_pipeline.py
+```
+
+#### Execution Options & Flags:
+```powershell
+# Run Bronze -> Silver -> Gold without requiring a local PostgreSQL database:
+python run_pipeline.py --skip-warehouse
+
+# Enforce strict zero-warning policy (exits with non-zero if quality warnings exist):
+python run_pipeline.py --strict
+
+# Perform a dry-run to validate all runner stages without processing datasets:
+python run_pipeline.py --dry-run
+```
+
+Each run produces:
+- A timestamped execution audit report: `reports/pipeline_run_<TIMESTAMP>.json`
+- A latest run pointer: `reports/latest_pipeline_run.json`
+- An append-only historical run ledger: `reports/pipeline_runs_history.csv`
+
+---
+
+### Option B: Modular Stage-by-Stage Execution
+
+You can also run individual modular components independently for development or targeted debugging:
 
 ```powershell
 # Step 1: Register Bronze raw match files & compute SHA-256 manifest

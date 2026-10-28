@@ -66,3 +66,4 @@ data/quarantine/*
 # Generated Reports (ephemeral outputs)
 reports/*.html
 reports/*.pdf
+reports/pipeline_run_*.json
