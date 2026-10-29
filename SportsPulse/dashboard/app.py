@@ -8,6 +8,16 @@ import streamlit as st
 from dotenv import load_dotenv
 from sqlalchemy import create_engine, text
 
+try:
+    from dashboard.pipeline_control import render_pipeline_control_center
+except ImportError:
+    from pipeline_control import render_pipeline_control_center
+
+try:
+    from dashboard.architecture import render_system_architecture_page
+except ImportError:
+    from architecture import render_system_architecture_page
+
 
 # ============================================================
 # CONFIGURATION
@@ -54,19 +64,52 @@ st.markdown(
 
 
 # ============================================================
-# DATABASE CONNECTION
+# SIDEBAR NAVIGATION
 # ============================================================
 
-if not DATABASE_URL:
-    st.error(
-        "DATABASE_URL is missing. Check the .env file in your "
-        "SportsPulse project root."
-    )
+page = st.sidebar.radio(
+    "Navigation",
+    [
+        "Overview",
+        "Batting Analytics",
+        "Bowling Analytics",
+        "Team Analytics",
+        "Match Explorer",
+        "Pipeline Control",
+        "System Architecture",
+    ],
+)
+
+st.sidebar.divider()
+st.sidebar.caption("SportsPulse · IPL Analytics")
+st.sidebar.caption("Warehouse: PostgreSQL")
+
+
+# ============================================================
+# STANDALONE CONTROL & ARCHITECTURE DISPATCH
+# ============================================================
+
+if page == "Pipeline Control":
+    render_pipeline_control_center(ROOT)
+    st.divider()
+    st.caption("SportsPulse | Cricket Data Engineering & Analytics Pipeline")
+    st.stop()
+
+if page == "System Architecture":
+    render_system_architecture_page(ROOT)
+    st.divider()
+    st.caption("SportsPulse | Cricket Data Engineering & Analytics Pipeline")
     st.stop()
 
 
+# ============================================================
+# DATABASE CONNECTION & LOADING (FOR ANALYTICS PAGES)
+# ============================================================
+
 @st.cache_resource
 def get_db_engine():
+    if not DATABASE_URL:
+        raise ValueError("DATABASE_URL is missing. Check .env file.")
     return create_engine(DATABASE_URL, pool_pre_ping=True)
 
 
@@ -169,11 +212,12 @@ st.caption("IPL Data Engineering & Analytics Platform")
 try:
     data = load_data()
 except Exception as exc:
-    st.error(f"Could not load dashboard data: {exc}")
+    st.error(f"Could not load dashboard data from PostgreSQL: {exc}")
     st.info(
         "Check that PostgreSQL is running, the .env file is correct, "
         "the warehouse loader completed successfully, and the Gold "
-        "Parquet files exist."
+        "Parquet files exist. Tip: You can execute or inspect the pipeline "
+        "from the **Pipeline Control** page in the sidebar."
     )
     st.stop()
 
@@ -227,24 +271,6 @@ for frame, columns in [
             frame[column] = frame[column].fillna("Unknown")
 
 
-# ============================================================
-# SIDEBAR NAVIGATION
-# ============================================================
-
-page = st.sidebar.radio(
-    "Navigation",
-    [
-        "Overview",
-        "Batting Analytics",
-        "Bowling Analytics",
-        "Team Analytics",
-        "Match Explorer",
-    ],
-)
-
-st.sidebar.divider()
-st.sidebar.caption("SportsPulse · IPL Analytics")
-st.sidebar.caption("Warehouse: PostgreSQL")
 
 
 # ============================================================

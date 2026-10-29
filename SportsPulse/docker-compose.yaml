@@ -1,0 +1,44 @@
+services:
+  airflow:
+    image: apache/airflow:2.8.1-python3.11
+    container_name: sportspulse-airflow
+    restart: unless-stopped
+    ports:
+      - "8080:8080"
+    environment:
+      # Airflow Configuration
+      AIRFLOW__CORE__LOAD_EXAMPLES: "false"
+      AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION: "false"
+      AIRFLOW__CORE__DEFAULT_TIMEZONE: "utc"
+      AIRFLOW__WEBSERVER__EXPOSE_CONFIG: "false"
+      AIRFLOW__WEBSERVER__RBAC: "true"
+      
+      # SportsPulse Pipeline Configuration
+      SPORTSPULSE_HOME: "/opt/airflow/sportspulse"
+      PYTHONPATH: "/opt/airflow/sportspulse"
+      
+      # PostgreSQL Connection: On Docker for Windows, host.docker.internal routes to the Windows host
+      # Overridable via .env without altering compose file
+      DATABASE_URL: "${DATABASE_URL_DOCKER:-postgresql+psycopg2://${POSTGRES_USER:-postgres}:${POSTGRES_PASSWORD:-postgres}@host.docker.internal:5432/${POSTGRES_DB:-sportspulse}}"
+      
+      # Additional pipeline runtime dependencies
+      _PIP_ADDITIONAL_REQUIREMENTS: "SQLAlchemy==1.4.51 pandas==2.1.4 pyarrow==14.0.2 python-dotenv==1.0.1 psycopg2-binary"
+
+    extra_hosts:
+      # Allows the container to communicate with PostgreSQL running on the Windows host
+      - "host.docker.internal:host-gateway"
+
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - .:/opt/airflow/sportspulse
+      - ./logs:/opt/airflow/logs
+      - ./reports:/opt/airflow/sportspulse/reports
+
+    command: standalone
+
+    healthcheck:
+      test: ["CMD", "curl", "--fail", "http://localhost:8080/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 60s

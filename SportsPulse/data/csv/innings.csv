@@ -1,0 +1,2515 @@
+﻿match_id,season,match_date,innings_number,batting_team,overs_recorded,target_runs,target_overs,super_over,declared,forfeited,innings_end_over,innings_outcome
+1082591,2017,2017-04-05,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1082591,2017,2017-04-05,2,Royal Challengers Bangalore,20,208.0,20.0,False,False,False,19,{}
+1082592,2017,2017-04-06,1,Mumbai Indians,20,,,False,False,False,19,{}
+1082592,2017,2017-04-06,2,Rising Pune Supergiant,20,185.0,20.0,False,False,False,19,{}
+1082593,2017,2017-04-07,1,Gujarat Lions,20,,,False,False,False,19,{}
+1082593,2017,2017-04-07,2,Kolkata Knight Riders,15,184.0,20.0,False,False,False,14,{}
+1082594,2017,2017-04-08,1,Rising Pune Supergiant,20,,,False,False,False,19,{}
+1082594,2017,2017-04-08,2,Kings XI Punjab,19,164.0,20.0,False,False,False,18,{}
+1082595,2017,2017-04-08,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1082595,2017,2017-04-08,2,Delhi Daredevils,20,158.0,20.0,False,False,False,19,{}
+1082596,2017,2017-04-09,1,Gujarat Lions,20,,,False,False,False,19,{}
+1082596,2017,2017-04-09,2,Sunrisers Hyderabad,16,136.0,20.0,False,False,False,15,{}
+1082597,2017,2017-04-09,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1082597,2017,2017-04-09,2,Mumbai Indians,20,179.0,20.0,False,False,False,19,{}
+1082598,2017,2017-04-10,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1082598,2017,2017-04-10,2,Kings XI Punjab,15,149.0,20.0,False,False,False,14,{}
+1082599,2017,2017-04-11,1,Delhi Daredevils,20,,,False,False,False,19,{}
+1082599,2017,2017-04-11,2,Rising Pune Supergiant,17,206.0,20.0,False,False,False,16,{}
+1082600,2017,2017-04-12,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1082600,2017,2017-04-12,2,Mumbai Indians,19,159.0,20.0,False,False,False,18,{}
+1082601,2017,2017-04-13,1,Kings XI Punjab,20,,,False,False,False,19,{}
+1082601,2017,2017-04-13,2,Kolkata Knight Riders,17,171.0,20.0,False,False,False,16,{}
+1082602,2017,2017-04-14,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1082602,2017,2017-04-14,2,Mumbai Indians,19,143.0,20.0,False,False,False,18,{}
+1082603,2017,2017-04-14,1,Rising Pune Supergiant,20,,,False,False,False,19,{}
+1082603,2017,2017-04-14,2,Gujarat Lions,18,172.0,20.0,False,False,False,17,{}
+1082604,2017,2017-04-15,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1082604,2017,2017-04-15,2,Sunrisers Hyderabad,20,173.0,20.0,False,False,False,19,{}
+1082605,2017,2017-04-15,1,Delhi Daredevils,20,,,False,False,False,19,{}
+1082605,2017,2017-04-15,2,Kings XI Punjab,20,189.0,20.0,False,False,False,19,{}
+1082606,2017,2017-04-16,1,Gujarat Lions,20,,,False,False,False,19,{}
+1082606,2017,2017-04-16,2,Mumbai Indians,20,177.0,20.0,False,False,False,19,{}
+1082607,2017,2017-04-16,1,Rising Pune Supergiant,20,,,False,False,False,19,{}
+1082607,2017,2017-04-16,2,Royal Challengers Bangalore,20,162.0,20.0,False,False,False,19,{}
+1082608,2017,2017-04-17,1,Delhi Daredevils,20,,,False,False,False,19,{}
+1082608,2017,2017-04-17,2,Kolkata Knight Riders,20,169.0,20.0,False,False,False,19,{}
+1082609,2017,2017-04-17,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1082609,2017,2017-04-17,2,Kings XI Punjab,20,160.0,20.0,False,False,False,19,{}
+1082610,2017,2017-04-18,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1082610,2017,2017-04-18,2,Gujarat Lions,20,214.0,20.0,False,False,False,19,{}
+1082611,2017,2017-04-19,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1082611,2017,2017-04-19,2,Delhi Daredevils,20,192.0,20.0,False,False,False,19,{}
+1082612,2017,2017-04-20,1,Kings XI Punjab,20,,,False,False,False,19,{}
+1082612,2017,2017-04-20,2,Mumbai Indians,16,199.0,20.0,False,False,False,15,{}
+1082613,2017,2017-04-21,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1082613,2017,2017-04-21,2,Gujarat Lions,19,188.0,20.0,False,False,False,18,{}
+1082614,2017,2017-04-22,1,Mumbai Indians,20,,,False,False,False,19,{}
+1082614,2017,2017-04-22,2,Delhi Daredevils,20,143.0,20.0,False,False,False,19,{}
+1082615,2017,2017-04-22,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1082615,2017,2017-04-22,2,Rising Pune Supergiant,20,177.0,20.0,False,False,False,19,{}
+1082616,2017,2017-04-23,1,Kings XI Punjab,20,,,False,False,False,19,{}
+1082616,2017,2017-04-23,2,Gujarat Lions,20,189.0,20.0,False,False,False,19,{}
+1082617,2017,2017-04-23,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1082617,2017,2017-04-23,2,Royal Challengers Bangalore,10,132.0,20.0,False,False,False,9,{}
+1082618,2017,2017-04-24,1,Rising Pune Supergiant,20,,,False,False,False,19,{}
+1082618,2017,2017-04-24,2,Mumbai Indians,20,161.0,20.0,False,False,False,19,{}
+1082620,2017,2017-04-26,1,Rising Pune Supergiant,20,,,False,False,False,19,{}
+1082620,2017,2017-04-26,2,Kolkata Knight Riders,19,183.0,20.0,False,False,False,18,{}
+1082621,2017,2017-04-27,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1082621,2017,2017-04-27,2,Gujarat Lions,14,135.0,20.0,False,False,False,13,{}
+1082622,2017,2017-04-28,1,Delhi Daredevils,20,,,False,False,False,19,{}
+1082622,2017,2017-04-28,2,Kolkata Knight Riders,17,161.0,20.0,False,False,False,16,{}
+1082623,2017,2017-04-28,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1082623,2017,2017-04-28,2,Kings XI Punjab,20,208.0,20.0,False,False,False,19,{}
+1082624,2017,2017-04-29,1,Rising Pune Supergiant,20,,,False,False,False,19,{}
+1082624,2017,2017-04-29,2,Royal Challengers Bangalore,20,158.0,20.0,False,False,False,19,{}
+1082625,2017,2017-04-29,1,Gujarat Lions,20,,,False,False,False,19,{}
+1082625,2017,2017-04-29,2,Mumbai Indians,20,154.0,20.0,False,False,False,19,{}
+1082625,2017,2017-04-29,3,Mumbai Indians,1,,,True,False,False,0,{}
+1082625,2017,2017-04-29,4,Gujarat Lions,1,,,True,False,False,0,{}
+1082626,2017,2017-04-30,1,Delhi Daredevils,18,,,False,False,False,17,{}
+1082626,2017,2017-04-30,2,Kings XI Punjab,8,68.0,20.0,False,False,False,7,{}
+1082627,2017,2017-04-30,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1082627,2017,2017-04-30,2,Kolkata Knight Riders,20,210.0,20.0,False,False,False,19,{}
+1082628,2017,2017-05-01,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1082628,2017,2017-05-01,2,Mumbai Indians,20,163.0,20.0,False,False,False,19,{}
+1082629,2017,2017-05-01,1,Gujarat Lions,20,,,False,False,False,19,{}
+1082629,2017,2017-05-01,2,Rising Pune Supergiant,20,162.0,20.0,False,False,False,19,{}
+1082630,2017,2017-05-02,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1082630,2017,2017-05-02,2,Delhi Daredevils,20,186.0,20.0,False,False,False,19,{}
+1082631,2017,2017-05-03,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1082631,2017,2017-05-03,2,Rising Pune Supergiant,20,156.0,20.0,False,False,False,19,{}
+1082632,2017,2017-05-04,1,Gujarat Lions,20,,,False,False,False,19,{}
+1082632,2017,2017-05-04,2,Delhi Daredevils,18,209.0,20.0,False,False,False,17,{}
+1082633,2017,2017-05-05,1,Kings XI Punjab,20,,,False,False,False,19,{}
+1082633,2017,2017-05-05,2,Royal Challengers Bangalore,19,139.0,20.0,False,False,False,18,{}
+1082634,2017,2017-05-06,1,Rising Pune Supergiant,20,,,False,False,False,19,{}
+1082634,2017,2017-05-06,2,Sunrisers Hyderabad,20,149.0,20.0,False,False,False,19,{}
+1082635,2017,2017-05-06,1,Mumbai Indians,20,,,False,False,False,19,{}
+1082635,2017,2017-05-06,2,Delhi Daredevils,14,213.0,20.0,False,False,False,13,{}
+1082636,2017,2017-05-07,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1082636,2017,2017-05-07,2,Kolkata Knight Riders,16,159.0,20.0,False,False,False,15,{}
+1082637,2017,2017-05-07,1,Kings XI Punjab,20,,,False,False,False,19,{}
+1082637,2017,2017-05-07,2,Gujarat Lions,20,190.0,20.0,False,False,False,19,{}
+1082638,2017,2017-05-08,1,Mumbai Indians,20,,,False,False,False,19,{}
+1082638,2017,2017-05-08,2,Sunrisers Hyderabad,19,139.0,20.0,False,False,False,18,{}
+1082639,2017,2017-05-09,1,Kings XI Punjab,20,,,False,False,False,19,{}
+1082639,2017,2017-05-09,2,Kolkata Knight Riders,20,168.0,20.0,False,False,False,19,{}
+1082640,2017,2017-05-10,1,Gujarat Lions,20,,,False,False,False,19,{}
+1082640,2017,2017-05-10,2,Delhi Daredevils,20,196.0,20.0,False,False,False,19,{}
+1082641,2017,2017-05-11,1,Kings XI Punjab,20,,,False,False,False,19,{}
+1082641,2017,2017-05-11,2,Mumbai Indians,20,231.0,20.0,False,False,False,19,{}
+1082642,2017,2017-05-12,1,Delhi Daredevils,20,,,False,False,False,19,{}
+1082642,2017,2017-05-12,2,Rising Pune Supergiant,20,169.0,20.0,False,False,False,19,{}
+1082643,2017,2017-05-13,1,Gujarat Lions,20,,,False,False,False,19,{}
+1082643,2017,2017-05-13,2,Sunrisers Hyderabad,19,155.0,20.0,False,False,False,18,{}
+1082644,2017,2017-05-13,1,Mumbai Indians,20,,,False,False,False,19,{}
+1082644,2017,2017-05-13,2,Kolkata Knight Riders,20,174.0,20.0,False,False,False,19,{}
+1082645,2017,2017-05-14,1,Kings XI Punjab,16,,,False,False,False,15,{}
+1082645,2017,2017-05-14,2,Rising Pune Supergiant,12,74.0,20.0,False,False,False,11,{}
+1082646,2017,2017-05-14,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1082646,2017,2017-05-14,2,Delhi Daredevils,20,162.0,20.0,False,False,False,19,{}
+1082647,2017,2017-05-16,1,Rising Pune Supergiant,20,,,False,False,False,19,{}
+1082647,2017,2017-05-16,2,Mumbai Indians,20,163.0,20.0,False,False,False,19,{}
+1082648,2017,2017-05-17,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1082648,2017,2017-05-17,2,Kolkata Knight Riders,6,48.0,6.0,False,False,False,5,{}
+1082649,2017,2017-05-19,1,Kolkata Knight Riders,19,,,False,False,False,18,{}
+1082649,2017,2017-05-19,2,Mumbai Indians,15,108.0,20.0,False,False,False,14,{}
+1082650,2017,2017-05-21,1,Mumbai Indians,20,,,False,False,False,19,{}
+1082650,2017,2017-05-21,2,Rising Pune Supergiant,20,130.0,20.0,False,False,False,19,{}
+1136561,2018,2018-04-07,1,Mumbai Indians,20,,,False,False,False,19,{}
+1136561,2018,2018-04-07,2,Chennai Super Kings,20,166.0,20.0,False,False,False,19,{}
+1136562,2018,2018-04-08,1,Delhi Daredevils,20,,,False,False,False,19,{}
+1136562,2018,2018-04-08,2,Kings XI Punjab,19,167.0,20.0,False,False,False,18,{}
+1136563,2018,2018-04-08,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1136563,2018,2018-04-08,2,Kolkata Knight Riders,19,177.0,20.0,False,False,False,18,{}
+1136564,2018,2018-04-09,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1136564,2018,2018-04-09,2,Sunrisers Hyderabad,16,126.0,20.0,False,False,False,15,{}
+1136565,2018,2018-04-10,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1136565,2018,2018-04-10,2,Chennai Super Kings,20,203.0,20.0,False,False,False,19,{}
+1136566,2018,2018-04-11,1,Rajasthan Royals,18,,,False,False,False,17,{}
+1136566,2018,2018-04-11,2,Delhi Daredevils,6,71.0,6.0,False,False,False,5,{}
+1136567,2018,2018-04-12,1,Mumbai Indians,20,,,False,False,False,19,{}
+1136567,2018,2018-04-12,2,Sunrisers Hyderabad,20,148.0,20.0,False,False,False,19,{}
+1136568,2018,2018-04-13,1,Kings XI Punjab,20,,,False,False,False,19,{}
+1136568,2018,2018-04-13,2,Royal Challengers Bangalore,20,156.0,20.0,False,False,False,19,{}
+1136569,2018,2018-04-14,1,Mumbai Indians,20,,,False,False,False,19,{}
+1136569,2018,2018-04-14,2,Delhi Daredevils,20,195.0,20.0,False,False,False,19,{}
+1136570,2018,2018-04-14,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1136570,2018,2018-04-14,2,Sunrisers Hyderabad,19,139.0,20.0,False,False,False,18,{}
+1136571,2018,2018-04-15,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1136571,2018,2018-04-15,2,Royal Challengers Bangalore,20,218.0,20.0,False,False,False,19,{}
+1136572,2018,2018-04-15,1,Kings XI Punjab,20,,,False,False,False,19,{}
+1136572,2018,2018-04-15,2,Chennai Super Kings,20,198.0,20.0,False,False,False,19,{}
+1136573,2018,2018-04-16,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1136573,2018,2018-04-16,2,Delhi Daredevils,15,201.0,20.0,False,False,False,14,{}
+1136574,2018,2018-04-17,1,Mumbai Indians,20,,,False,False,False,19,{}
+1136574,2018,2018-04-17,2,Royal Challengers Bangalore,20,214.0,20.0,False,False,False,19,{}
+1136575,2018,2018-04-18,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1136575,2018,2018-04-18,2,Kolkata Knight Riders,19,161.0,20.0,False,False,False,18,{}
+1136576,2018,2018-04-19,1,Kings XI Punjab,20,,,False,False,False,19,{}
+1136576,2018,2018-04-19,2,Sunrisers Hyderabad,20,194.0,20.0,False,False,False,19,{}
+1136577,2018,2018-04-20,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1136577,2018,2018-04-20,2,Rajasthan Royals,19,205.0,20.0,False,False,False,18,{}
+1136578,2018,2018-04-21,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1136578,2018,2018-04-21,2,Kings XI Punjab,12,125.0,13.0,False,False,False,11,{}
+1136579,2018,2018-04-21,1,Delhi Daredevils,20,,,False,False,False,19,{}
+1136579,2018,2018-04-21,2,Royal Challengers Bangalore,18,175.0,20.0,False,False,False,17,{}
+1136580,2018,2018-04-22,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1136580,2018,2018-04-22,2,Sunrisers Hyderabad,20,183.0,20.0,False,False,False,19,{}
+1136581,2018,2018-04-22,1,Mumbai Indians,20,,,False,False,False,19,{}
+1136581,2018,2018-04-22,2,Rajasthan Royals,20,168.0,20.0,False,False,False,19,{}
+1136582,2018,2018-04-23,1,Kings XI Punjab,20,,,False,False,False,19,{}
+1136582,2018,2018-04-23,2,Delhi Daredevils,20,144.0,20.0,False,False,False,19,{}
+1136583,2018,2018-04-24,1,Sunrisers Hyderabad,19,,,False,False,False,18,{}
+1136583,2018,2018-04-24,2,Mumbai Indians,19,119.0,20.0,False,False,False,18,{}
+1136584,2018,2018-04-25,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1136584,2018,2018-04-25,2,Chennai Super Kings,20,206.0,20.0,False,False,False,19,{}
+1136585,2018,2018-04-26,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1136585,2018,2018-04-26,2,Kings XI Punjab,20,133.0,20.0,False,False,False,19,{}
+1136586,2018,2018-04-27,1,Delhi Daredevils,20,,,False,False,False,19,{}
+1136586,2018,2018-04-27,2,Kolkata Knight Riders,20,220.0,20.0,False,False,False,19,{}
+1136587,2018,2018-04-28,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1136587,2018,2018-04-28,2,Mumbai Indians,20,170.0,20.0,False,False,False,19,{}
+1136588,2018,2018-04-29,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1136588,2018,2018-04-29,2,Rajasthan Royals,20,152.0,20.0,False,False,False,19,{}
+1136589,2018,2018-04-29,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1136589,2018,2018-04-29,2,Kolkata Knight Riders,20,176.0,20.0,False,False,False,19,{}
+1136590,2018,2018-04-30,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1136590,2018,2018-04-30,2,Delhi Daredevils,20,212.0,20.0,False,False,False,19,{}
+1136591,2018,2018-05-01,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1136591,2018,2018-05-01,2,Mumbai Indians,20,168.0,20.0,False,False,False,19,{}
+1136592,2018,2018-05-02,1,Delhi Daredevils,18,,,False,False,False,17,{}
+1136592,2018,2018-05-02,2,Rajasthan Royals,12,151.0,12.0,False,False,False,11,{}
+1136593,2018,2018-05-03,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1136593,2018,2018-05-03,2,Kolkata Knight Riders,18,178.0,20.0,False,False,False,17,{}
+1136594,2018,2018-05-04,1,Kings XI Punjab,20,,,False,False,False,19,{}
+1136594,2018,2018-05-04,2,Mumbai Indians,19,175.0,20.0,False,False,False,18,{}
+1136595,2018,2018-05-05,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1136595,2018,2018-05-05,2,Chennai Super Kings,18,128.0,20.0,False,False,False,17,{}
+1136596,2018,2018-05-05,1,Delhi Daredevils,20,,,False,False,False,19,{}
+1136596,2018,2018-05-05,2,Sunrisers Hyderabad,20,164.0,20.0,False,False,False,19,{}
+1136597,2018,2018-05-06,1,Mumbai Indians,20,,,False,False,False,19,{}
+1136597,2018,2018-05-06,2,Kolkata Knight Riders,20,182.0,20.0,False,False,False,19,{}
+1136598,2018,2018-05-06,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1136598,2018,2018-05-06,2,Kings XI Punjab,19,153.0,20.0,False,False,False,18,{}
+1136599,2018,2018-05-07,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1136599,2018,2018-05-07,2,Royal Challengers Bangalore,20,147.0,20.0,False,False,False,19,{}
+1136600,2018,2018-05-08,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1136600,2018,2018-05-08,2,Kings XI Punjab,20,159.0,20.0,False,False,False,19,{}
+1136601,2018,2018-05-09,1,Mumbai Indians,20,,,False,False,False,19,{}
+1136601,2018,2018-05-09,2,Kolkata Knight Riders,19,211.0,20.0,False,False,False,18,{}
+1136602,2018,2018-05-10,1,Delhi Daredevils,20,,,False,False,False,19,{}
+1136602,2018,2018-05-10,2,Sunrisers Hyderabad,19,188.0,20.0,False,False,False,18,{}
+1136603,2018,2018-05-11,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1136603,2018,2018-05-11,2,Rajasthan Royals,20,177.0,20.0,False,False,False,19,{}
+1136604,2018,2018-05-12,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1136604,2018,2018-05-12,2,Kings XI Punjab,20,246.0,20.0,False,False,False,19,{}
+1136605,2018,2018-05-12,1,Delhi Daredevils,20,,,False,False,False,19,{}
+1136605,2018,2018-05-12,2,Royal Challengers Bangalore,19,182.0,20.0,False,False,False,18,{}
+1136606,2018,2018-05-13,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1136606,2018,2018-05-13,2,Chennai Super Kings,19,180.0,20.0,False,False,False,18,{}
+1136607,2018,2018-05-13,1,Mumbai Indians,20,,,False,False,False,19,{}
+1136607,2018,2018-05-13,2,Rajasthan Royals,18,169.0,20.0,False,False,False,17,{}
+1136608,2018,2018-05-14,1,Kings XI Punjab,16,,,False,False,False,15,{}
+1136608,2018,2018-05-14,2,Royal Challengers Bangalore,9,89.0,20.0,False,False,False,8,{}
+1136609,2018,2018-05-15,1,Rajasthan Royals,19,,,False,False,False,18,{}
+1136609,2018,2018-05-15,2,Kolkata Knight Riders,18,143.0,20.0,False,False,False,17,{}
+1136610,2018,2018-05-16,1,Mumbai Indians,20,,,False,False,False,19,{}
+1136610,2018,2018-05-16,2,Kings XI Punjab,20,187.0,20.0,False,False,False,19,{}
+1136611,2018,2018-05-17,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1136611,2018,2018-05-17,2,Sunrisers Hyderabad,20,219.0,20.0,False,False,False,19,{}
+1136612,2018,2018-05-18,1,Delhi Daredevils,20,,,False,False,False,19,{}
+1136612,2018,2018-05-18,2,Chennai Super Kings,20,163.0,20.0,False,False,False,19,{}
+1136613,2018,2018-05-19,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1136613,2018,2018-05-19,2,Royal Challengers Bangalore,20,165.0,20.0,False,False,False,19,{}
+1136614,2018,2018-05-19,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1136614,2018,2018-05-19,2,Kolkata Knight Riders,20,173.0,20.0,False,False,False,19,{}
+1136615,2018,2018-05-20,1,Delhi Daredevils,20,,,False,False,False,19,{}
+1136615,2018,2018-05-20,2,Mumbai Indians,20,175.0,20.0,False,False,False,19,{}
+1136616,2018,2018-05-20,1,Kings XI Punjab,20,,,False,False,False,19,{}
+1136616,2018,2018-05-20,2,Chennai Super Kings,20,154.0,20.0,False,False,False,19,{}
+1136617,2018,2018-05-22,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1136617,2018,2018-05-22,2,Chennai Super Kings,20,140.0,20.0,False,False,False,19,{}
+1136618,2018,2018-05-23,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1136618,2018,2018-05-23,2,Rajasthan Royals,20,170.0,20.0,False,False,False,19,{}
+1136619,2018,2018-05-25,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1136619,2018,2018-05-25,2,Kolkata Knight Riders,20,175.0,20.0,False,False,False,19,{}
+1136620,2018,2018-05-27,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1136620,2018,2018-05-27,2,Chennai Super Kings,19,179.0,20.0,False,False,False,18,{}
+1175356,2019,2019-03-23,1,Royal Challengers Bangalore,18,,,False,False,False,17,{}
+1175356,2019,2019-03-23,2,Chennai Super Kings,18,71.0,20.0,False,False,False,17,{}
+1175357,2019,2019-03-24,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1175357,2019,2019-03-24,2,Kolkata Knight Riders,20,182.0,20.0,False,False,False,19,{}
+1175358,2019,2019-03-24,1,Delhi Capitals,20,,,False,False,False,19,{}
+1175358,2019,2019-03-24,2,Mumbai Indians,20,214.0,20.0,False,False,False,19,{}
+1175359,2019,2019-03-25,1,Kings XI Punjab,20,,,False,False,False,19,{}
+1175359,2019,2019-03-25,2,Rajasthan Royals,20,185.0,20.0,False,False,False,19,{}
+1175360,2019,2019-03-26,1,Delhi Capitals,20,,,False,False,False,19,{}
+1175360,2019,2019-03-26,2,Chennai Super Kings,20,148.0,20.0,False,False,False,19,{}
+1175361,2019,2019-03-27,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1175361,2019,2019-03-27,2,Kings XI Punjab,20,219.0,20.0,False,False,False,19,{}
+1175362,2019,2019-03-28,1,Mumbai Indians,20,,,False,False,False,19,{}
+1175362,2019,2019-03-28,2,Royal Challengers Bangalore,20,188.0,20.0,False,False,False,19,{}
+1175363,2019,2019-03-29,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1175363,2019,2019-03-29,2,Sunrisers Hyderabad,19,199.0,20.0,False,False,False,18,{}
+1175364,2019,2019-03-30,1,Mumbai Indians,20,,,False,False,False,19,{}
+1175364,2019,2019-03-30,2,Kings XI Punjab,19,177.0,20.0,False,False,False,18,{}
+1175365,2019,2019-03-30,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1175365,2019,2019-03-30,2,Delhi Capitals,20,186.0,20.0,False,False,False,19,{}
+1175365,2019,2019-03-30,3,Delhi Capitals,1,,,True,False,False,0,{}
+1175365,2019,2019-03-30,4,Kolkata Knight Riders,1,,,True,False,False,0,{}
+1175366,2019,2019-03-31,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1175366,2019,2019-03-31,2,Royal Challengers Bangalore,20,232.0,20.0,False,False,False,19,{}
+1175367,2019,2019-03-31,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1175367,2019,2019-03-31,2,Rajasthan Royals,20,176.0,20.0,False,False,False,19,{}
+1175368,2019,2019-04-01,1,Kings XI Punjab,20,,,False,False,False,19,{}
+1175368,2019,2019-04-01,2,Delhi Capitals,20,167.0,20.0,False,False,False,19,{}
+1175369,2019,2019-04-02,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1175369,2019,2019-04-02,2,Rajasthan Royals,20,159.0,20.0,False,False,False,19,{}
+1175370,2019,2019-04-03,1,Mumbai Indians,20,,,False,False,False,19,{}
+1175370,2019,2019-04-03,2,Chennai Super Kings,20,171.0,20.0,False,False,False,19,{}
+1175371,2019,2019-04-04,1,Delhi Capitals,20,,,False,False,False,19,{}
+1175371,2019,2019-04-04,2,Sunrisers Hyderabad,19,130.0,20.0,False,False,False,18,{}
+1175372,2019,2019-04-05,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1175372,2019,2019-04-05,2,Kolkata Knight Riders,20,206.0,20.0,False,False,False,19,{}
+1178393,2019,2019-04-06,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1178393,2019,2019-04-06,2,Kings XI Punjab,20,161.0,20.0,False,False,False,19,{}
+1178394,2019,2019-04-06,1,Mumbai Indians,20,,,False,False,False,19,{}
+1178394,2019,2019-04-06,2,Sunrisers Hyderabad,18,137.0,20.0,False,False,False,17,{}
+1178395,2019,2019-04-07,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1178395,2019,2019-04-07,2,Delhi Capitals,19,150.0,20.0,False,False,False,18,{}
+1178396,2019,2019-04-07,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1178396,2019,2019-04-07,2,Kolkata Knight Riders,14,140.0,20.0,False,False,False,13,{}
+1178397,2019,2019-04-08,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1178397,2019,2019-04-08,2,Kings XI Punjab,20,151.0,20.0,False,False,False,19,{}
+1178398,2019,2019-04-09,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1178398,2019,2019-04-09,2,Chennai Super Kings,18,109.0,20.0,False,False,False,17,{}
+1178399,2019,2019-04-10,1,Kings XI Punjab,20,,,False,False,False,19,{}
+1178399,2019,2019-04-10,2,Mumbai Indians,20,198.0,20.0,False,False,False,19,{}
+1178400,2019,2019-04-11,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1178400,2019,2019-04-11,2,Chennai Super Kings,20,152.0,20.0,False,False,False,19,{}
+1178401,2019,2019-04-12,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1178401,2019,2019-04-12,2,Delhi Capitals,19,179.0,20.0,False,False,False,18,{}
+1178402,2019,2019-04-13,1,Mumbai Indians,20,,,False,False,False,19,{}
+1178402,2019,2019-04-13,2,Rajasthan Royals,20,188.0,20.0,False,False,False,19,{}
+1178403,2019,2019-04-13,1,Kings XI Punjab,20,,,False,False,False,19,{}
+1178403,2019,2019-04-13,2,Royal Challengers Bangalore,20,174.0,20.0,False,False,False,19,{}
+1178404,2019,2019-04-14,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1178404,2019,2019-04-14,2,Chennai Super Kings,20,162.0,20.0,False,False,False,19,{}
+1178405,2019,2019-04-14,1,Delhi Capitals,20,,,False,False,False,19,{}
+1178405,2019,2019-04-14,2,Sunrisers Hyderabad,19,156.0,20.0,False,False,False,18,{}
+1178406,2019,2019-04-15,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1178406,2019,2019-04-15,2,Mumbai Indians,19,172.0,20.0,False,False,False,18,{}
+1178407,2019,2019-04-16,1,Kings XI Punjab,20,,,False,False,False,19,{}
+1178407,2019,2019-04-16,2,Rajasthan Royals,20,183.0,20.0,False,False,False,19,{}
+1178408,2019,2019-04-17,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1178408,2019,2019-04-17,2,Sunrisers Hyderabad,17,133.0,20.0,False,False,False,16,{}
+1178409,2019,2019-04-18,1,Mumbai Indians,20,,,False,False,False,19,{}
+1178409,2019,2019-04-18,2,Delhi Capitals,20,169.0,20.0,False,False,False,19,{}
+1178410,2019,2019-04-19,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1178410,2019,2019-04-19,2,Kolkata Knight Riders,20,214.0,20.0,False,False,False,19,{}
+1178411,2019,2019-04-20,1,Mumbai Indians,20,,,False,False,False,19,{}
+1178411,2019,2019-04-20,2,Rajasthan Royals,20,162.0,20.0,False,False,False,19,{}
+1178412,2019,2019-04-20,1,Kings XI Punjab,20,,,False,False,False,19,{}
+1178412,2019,2019-04-20,2,Delhi Capitals,20,164.0,20.0,False,False,False,19,{}
+1178413,2019,2019-04-21,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1178413,2019,2019-04-21,2,Sunrisers Hyderabad,15,160.0,20.0,False,False,False,14,{}
+1178414,2019,2019-04-21,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1178414,2019,2019-04-21,2,Chennai Super Kings,20,162.0,20.0,False,False,False,19,{}
+1178415,2019,2019-04-22,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1178415,2019,2019-04-22,2,Delhi Capitals,20,192.0,20.0,False,False,False,19,{}
+1178416,2019,2019-04-23,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1178416,2019,2019-04-23,2,Chennai Super Kings,20,176.0,20.0,False,False,False,19,{}
+1178417,2019,2019-04-24,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1178417,2019,2019-04-24,2,Kings XI Punjab,20,203.0,20.0,False,False,False,19,{}
+1178418,2019,2019-04-25,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1178418,2019,2019-04-25,2,Rajasthan Royals,20,176.0,20.0,False,False,False,19,{}
+1178419,2019,2019-04-26,1,Mumbai Indians,20,,,False,False,False,19,{}
+1178419,2019,2019-04-26,2,Chennai Super Kings,18,156.0,20.0,False,False,False,17,{}
+1178420,2019,2019-04-27,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1178420,2019,2019-04-27,2,Rajasthan Royals,20,161.0,20.0,False,False,False,19,{}
+1178421,2019,2019-04-28,1,Delhi Capitals,20,,,False,False,False,19,{}
+1178421,2019,2019-04-28,2,Royal Challengers Bangalore,20,188.0,20.0,False,False,False,19,{}
+1178422,2019,2019-04-28,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1178422,2019,2019-04-28,2,Mumbai Indians,20,233.0,20.0,False,False,False,19,{}
+1178423,2019,2019-04-29,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1178423,2019,2019-04-29,2,Kings XI Punjab,20,213.0,20.0,False,False,False,19,{}
+1178424,2019,2019-04-30,1,Royal Challengers Bangalore,5,,,False,False,False,4,{}
+1178424,2019,2019-04-30,2,Rajasthan Royals,4,63.0,5.0,False,False,False,3,{}
+1178425,2019,2019-05-01,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1178425,2019,2019-05-01,2,Delhi Capitals,17,180.0,20.0,False,False,False,16,{}
+1178426,2019,2019-05-02,1,Mumbai Indians,20,,,False,False,False,19,{}
+1178426,2019,2019-05-02,2,Sunrisers Hyderabad,20,163.0,20.0,False,False,False,19,{}
+1178426,2019,2019-05-02,3,Sunrisers Hyderabad,1,,,True,False,False,0,{}
+1178426,2019,2019-05-02,4,Mumbai Indians,1,,,True,False,False,0,{}
+1178427,2019,2019-05-03,1,Kings XI Punjab,20,,,False,False,False,19,{}
+1178427,2019,2019-05-03,2,Kolkata Knight Riders,18,184.0,20.0,False,False,False,17,{}
+1178428,2019,2019-05-04,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1178428,2019,2019-05-04,2,Delhi Capitals,17,116.0,20.0,False,False,False,16,{}
+1178429,2019,2019-05-04,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1178429,2019,2019-05-04,2,Royal Challengers Bangalore,20,176.0,20.0,False,False,False,19,{}
+1178430,2019,2019-05-05,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1178430,2019,2019-05-05,2,Kings XI Punjab,18,171.0,20.0,False,False,False,17,{}
+1178431,2019,2019-05-05,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1178431,2019,2019-05-05,2,Mumbai Indians,17,134.0,20.0,False,False,False,16,{}
+1181764,2019,2019-05-07,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1181764,2019,2019-05-07,2,Mumbai Indians,19,132.0,20.0,False,False,False,18,{}
+1181766,2019,2019-05-08,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1181766,2019,2019-05-08,2,Delhi Capitals,20,163.0,20.0,False,False,False,19,{}
+1181767,2019,2019-05-10,1,Delhi Capitals,20,,,False,False,False,19,{}
+1181767,2019,2019-05-10,2,Chennai Super Kings,19,148.0,20.0,False,False,False,18,{}
+1181768,2019,2019-05-12,1,Mumbai Indians,20,,,False,False,False,19,{}
+1181768,2019,2019-05-12,2,Chennai Super Kings,20,150.0,20.0,False,False,False,19,{}
+1216492,2020/21,2020-09-19,1,Mumbai Indians,20,,,False,False,False,19,{}
+1216492,2020/21,2020-09-19,2,Chennai Super Kings,20,163.0,20.0,False,False,False,19,{}
+1216493,2020/21,2020-09-20,1,Delhi Capitals,20,,,False,False,False,19,{}
+1216493,2020/21,2020-09-20,2,Kings XI Punjab,20,158.0,20.0,False,False,False,19,{}
+1216493,2020/21,2020-09-20,3,Kings XI Punjab,1,,,True,False,False,0,{}
+1216493,2020/21,2020-09-20,4,Delhi Capitals,1,,,True,False,False,0,{}
+1216494,2020/21,2020-10-21,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1216494,2020/21,2020-10-21,2,Royal Challengers Bangalore,14,85.0,20.0,False,False,False,13,{}
+1216495,2020/21,2020-11-03,1,Mumbai Indians,20,,,False,False,False,19,{}
+1216495,2020/21,2020-11-03,2,Sunrisers Hyderabad,18,150.0,20.0,False,False,False,17,{}
+1216496,2020/21,2020-09-22,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1216496,2020/21,2020-09-22,2,Chennai Super Kings,20,217.0,20.0,False,False,False,19,{}
+1216497,2020/21,2020-10-24,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1216497,2020/21,2020-10-24,2,Delhi Capitals,20,195.0,20.0,False,False,False,19,{}
+1216498,2020/21,2020-10-24,1,Kings XI Punjab,20,,,False,False,False,19,{}
+1216498,2020/21,2020-10-24,2,Sunrisers Hyderabad,20,127.0,20.0,False,False,False,19,{}
+1216499,2020/21,2020-10-28,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1216499,2020/21,2020-10-28,2,Mumbai Indians,20,165.0,20.0,False,False,False,19,{}
+1216500,2020/21,2020-10-09,1,Delhi Capitals,20,,,False,False,False,19,{}
+1216500,2020/21,2020-10-09,2,Rajasthan Royals,20,185.0,20.0,False,False,False,19,{}
+1216501,2020/21,2020-10-07,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1216501,2020/21,2020-10-07,2,Chennai Super Kings,20,168.0,20.0,False,False,False,19,{}
+1216502,2020/21,2020-10-31,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1216502,2020/21,2020-10-31,2,Sunrisers Hyderabad,15,121.0,20.0,False,False,False,14,{}
+1216503,2020/21,2020-10-01,1,Mumbai Indians,20,,,False,False,False,19,{}
+1216503,2020/21,2020-10-01,2,Kings XI Punjab,20,192.0,20.0,False,False,False,19,{}
+1216504,2020/21,2020-09-30,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1216504,2020/21,2020-09-30,2,Rajasthan Royals,20,175.0,20.0,False,False,False,19,{}
+1216505,2020/21,2020-11-02,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1216505,2020/21,2020-11-02,2,Delhi Capitals,19,153.0,20.0,False,False,False,18,{}
+1216506,2020/21,2020-11-01,1,Kings XI Punjab,20,,,False,False,False,19,{}
+1216506,2020/21,2020-11-01,2,Chennai Super Kings,19,154.0,20.0,False,False,False,18,{}
+1216507,2020/21,2020-10-11,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1216507,2020/21,2020-10-11,2,Rajasthan Royals,20,159.0,20.0,False,False,False,19,{}
+1216508,2020/21,2020-09-23,1,Mumbai Indians,20,,,False,False,False,19,{}
+1216508,2020/21,2020-09-23,2,Kolkata Knight Riders,20,196.0,20.0,False,False,False,19,{}
+1216509,2020/21,2020-10-17,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1216509,2020/21,2020-10-17,2,Delhi Capitals,20,180.0,20.0,False,False,False,19,{}
+1216510,2020/21,2020-09-24,1,Kings XI Punjab,20,,,False,False,False,19,{}
+1216510,2020/21,2020-09-24,2,Royal Challengers Bangalore,17,207.0,20.0,False,False,False,16,{}
+1216511,2020/21,2020-10-06,1,Mumbai Indians,20,,,False,False,False,19,{}
+1216511,2020/21,2020-10-06,2,Rajasthan Royals,19,194.0,20.0,False,False,False,18,{}
+1216512,2020/21,2020-10-18,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1216512,2020/21,2020-10-18,2,Sunrisers Hyderabad,20,164.0,20.0,False,False,False,19,{}
+1216512,2020/21,2020-10-18,3,Sunrisers Hyderabad,1,,,True,False,False,0,{}
+1216512,2020/21,2020-10-18,4,Kolkata Knight Riders,1,,,True,False,False,0,{}
+1216513,2020/21,2020-10-04,1,Kings XI Punjab,20,,,False,False,False,19,{}
+1216513,2020/21,2020-10-04,2,Chennai Super Kings,18,179.0,20.0,False,False,False,17,{}
+1216514,2020/21,2020-10-03,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1216514,2020/21,2020-10-03,2,Royal Challengers Bangalore,20,155.0,20.0,False,False,False,19,{}
+1216515,2020/21,2020-10-03,1,Delhi Capitals,20,,,False,False,False,19,{}
+1216515,2020/21,2020-10-03,2,Kolkata Knight Riders,20,229.0,20.0,False,False,False,19,{}
+1216516,2020/21,2020-10-02,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1216516,2020/21,2020-10-02,2,Chennai Super Kings,20,165.0,20.0,False,False,False,19,{}
+1216517,2020/21,2020-10-18,1,Mumbai Indians,20,,,False,False,False,19,{}
+1216517,2020/21,2020-10-18,2,Kings XI Punjab,20,177.0,20.0,False,False,False,19,{}
+1216517,2020/21,2020-10-18,3,Kings XI Punjab,1,,,True,False,False,0,{}
+1216517,2020/21,2020-10-18,4,Mumbai Indians,1,,,True,False,False,0,{}
+1216517,2020/21,2020-10-18,5,Mumbai Indians,1,,,True,False,False,0,{}
+1216517,2020/21,2020-10-18,6,Kings XI Punjab,1,,,True,False,False,0,{}
+1216518,2020/21,2020-10-22,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1216518,2020/21,2020-10-22,2,Sunrisers Hyderabad,19,155.0,20.0,False,False,False,18,{}
+1216519,2020/21,2020-10-05,1,Delhi Capitals,20,,,False,False,False,19,{}
+1216519,2020/21,2020-10-05,2,Royal Challengers Bangalore,20,197.0,20.0,False,False,False,19,{}
+1216520,2020/21,2020-10-26,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1216520,2020/21,2020-10-26,2,Kings XI Punjab,19,150.0,20.0,False,False,False,18,{}
+1216521,2020/21,2020-10-23,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1216521,2020/21,2020-10-23,2,Mumbai Indians,13,115.0,20.0,False,False,False,12,{}
+1216522,2020/21,2020-10-17,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1216522,2020/21,2020-10-17,2,Royal Challengers Bangalore,20,178.0,20.0,False,False,False,19,{}
+1216523,2020/21,2020-10-10,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1216523,2020/21,2020-10-10,2,Kings XI Punjab,20,165.0,20.0,False,False,False,19,{}
+1216524,2020/21,2020-10-27,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1216524,2020/21,2020-10-27,2,Delhi Capitals,19,220.0,20.0,False,False,False,18,{}
+1216525,2020/21,2020-10-10,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1216525,2020/21,2020-10-10,2,Chennai Super Kings,20,170.0,20.0,False,False,False,19,{}
+1216526,2020/21,2020-10-16,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1216526,2020/21,2020-10-16,2,Mumbai Indians,17,149.0,20.0,False,False,False,16,{}
+1216527,2020/21,2020-09-27,1,Kings XI Punjab,20,,,False,False,False,19,{}
+1216527,2020/21,2020-09-27,2,Rajasthan Royals,20,224.0,20.0,False,False,False,19,{}
+1216528,2020/21,2020-10-13,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1216528,2020/21,2020-10-13,2,Sunrisers Hyderabad,20,168.0,20.0,False,False,False,19,{}
+1216529,2020/21,2020-10-11,1,Delhi Capitals,20,,,False,False,False,19,{}
+1216529,2020/21,2020-10-11,2,Mumbai Indians,20,163.0,20.0,False,False,False,19,{}
+1216530,2020/21,2020-11-01,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1216530,2020/21,2020-11-01,2,Rajasthan Royals,20,192.0,20.0,False,False,False,19,{}
+1216531,2020/21,2020-10-15,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1216531,2020/21,2020-10-15,2,Kings XI Punjab,20,172.0,20.0,False,False,False,19,{}
+1216532,2020/21,2020-09-29,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1216532,2020/21,2020-09-29,2,Delhi Capitals,20,163.0,20.0,False,False,False,19,{}
+1216533,2020/21,2020-10-19,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1216533,2020/21,2020-10-19,2,Rajasthan Royals,18,126.0,20.0,False,False,False,17,{}
+1216534,2020/21,2020-09-21,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1216534,2020/21,2020-09-21,2,Sunrisers Hyderabad,20,164.0,20.0,False,False,False,19,{}
+1216535,2020/21,2020-10-31,1,Delhi Capitals,20,,,False,False,False,19,{}
+1216535,2020/21,2020-10-31,2,Mumbai Indians,15,111.0,20.0,False,False,False,14,{}
+1216536,2020/21,2020-10-29,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1216536,2020/21,2020-10-29,2,Chennai Super Kings,20,173.0,20.0,False,False,False,19,{}
+1216537,2020/21,2020-10-30,1,Kings XI Punjab,20,,,False,False,False,19,{}
+1216537,2020/21,2020-10-30,2,Rajasthan Royals,18,186.0,20.0,False,False,False,17,{}
+1216538,2020/21,2020-10-04,1,Mumbai Indians,20,,,False,False,False,19,{}
+1216538,2020/21,2020-10-04,2,Sunrisers Hyderabad,20,209.0,20.0,False,False,False,19,{}
+1216539,2020/21,2020-09-25,1,Delhi Capitals,20,,,False,False,False,19,{}
+1216539,2020/21,2020-09-25,2,Chennai Super Kings,20,176.0,20.0,False,False,False,19,{}
+1216540,2020/21,2020-10-12,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1216540,2020/21,2020-10-12,2,Kolkata Knight Riders,20,195.0,20.0,False,False,False,19,{}
+1216541,2020/21,2020-10-25,1,Mumbai Indians,20,,,False,False,False,19,{}
+1216541,2020/21,2020-10-25,2,Rajasthan Royals,19,196.0,20.0,False,False,False,18,{}
+1216542,2020/21,2020-10-08,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1216542,2020/21,2020-10-08,2,Kings XI Punjab,17,202.0,20.0,False,False,False,16,{}
+1216543,2020/21,2020-10-14,1,Delhi Capitals,20,,,False,False,False,19,{}
+1216543,2020/21,2020-10-14,2,Rajasthan Royals,20,162.0,20.0,False,False,False,19,{}
+1216544,2020/21,2020-10-25,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1216544,2020/21,2020-10-25,2,Chennai Super Kings,19,146.0,20.0,False,False,False,18,{}
+1216545,2020/21,2020-09-26,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1216545,2020/21,2020-09-26,2,Kolkata Knight Riders,18,143.0,20.0,False,False,False,17,{}
+1216546,2020/21,2020-10-20,1,Delhi Capitals,20,,,False,False,False,19,{}
+1216546,2020/21,2020-10-20,2,Kings XI Punjab,19,165.0,20.0,False,False,False,18,{}
+1216547,2020/21,2020-09-28,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1216547,2020/21,2020-09-28,2,Mumbai Indians,20,202.0,20.0,False,False,False,19,{}
+1216547,2020/21,2020-09-28,3,Mumbai Indians,1,,,True,False,False,0,{}
+1216547,2020/21,2020-09-28,4,Royal Challengers Bangalore,1,,,True,False,False,0,{}
+1237177,2020/21,2020-11-05,1,Mumbai Indians,20,,,False,False,False,19,{}
+1237177,2020/21,2020-11-05,2,Delhi Capitals,20,201.0,20.0,False,False,False,19,{}
+1237178,2020/21,2020-11-06,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1237178,2020/21,2020-11-06,2,Sunrisers Hyderabad,20,132.0,20.0,False,False,False,19,{}
+1237180,2020/21,2020-11-08,1,Delhi Capitals,20,,,False,False,False,19,{}
+1237180,2020/21,2020-11-08,2,Sunrisers Hyderabad,20,190.0,20.0,False,False,False,19,{}
+1237181,2020/21,2020-11-10,1,Delhi Capitals,20,,,False,False,False,19,{}
+1237181,2020/21,2020-11-10,2,Mumbai Indians,19,157.0,20.0,False,False,False,18,{}
+1254058,2021,2021-04-09,1,Mumbai Indians,20,,,False,False,False,19,{}
+1254058,2021,2021-04-09,2,Royal Challengers Bangalore,20,160.0,20.0,False,False,False,19,{}
+1254059,2021,2021-04-10,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1254059,2021,2021-04-10,2,Delhi Capitals,19,189.0,20.0,False,False,False,18,{}
+1254060,2021,2021-04-11,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1254060,2021,2021-04-11,2,Sunrisers Hyderabad,20,188.0,20.0,False,False,False,19,{}
+1254061,2021,2021-04-12,1,Punjab Kings,20,,,False,False,False,19,{}
+1254061,2021,2021-04-12,2,Rajasthan Royals,20,222.0,20.0,False,False,False,19,{}
+1254062,2021,2021-04-13,1,Mumbai Indians,20,,,False,False,False,19,{}
+1254062,2021,2021-04-13,2,Kolkata Knight Riders,20,153.0,20.0,False,False,False,19,{}
+1254063,2021,2021-04-14,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1254063,2021,2021-04-14,2,Sunrisers Hyderabad,20,150.0,20.0,False,False,False,19,{}
+1254064,2021,2021-04-15,1,Delhi Capitals,20,,,False,False,False,19,{}
+1254064,2021,2021-04-15,2,Rajasthan Royals,20,148.0,20.0,False,False,False,19,{}
+1254065,2021,2021-04-16,1,Punjab Kings,20,,,False,False,False,19,{}
+1254065,2021,2021-04-16,2,Chennai Super Kings,16,107.0,20.0,False,False,False,15,{}
+1254066,2021,2021-04-17,1,Mumbai Indians,20,,,False,False,False,19,{}
+1254066,2021,2021-04-17,2,Sunrisers Hyderabad,20,151.0,20.0,False,False,False,19,{}
+1254067,2021,2021-04-18,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1254067,2021,2021-04-18,2,Kolkata Knight Riders,20,205.0,20.0,False,False,False,19,{}
+1254068,2021,2021-04-18,1,Punjab Kings,20,,,False,False,False,19,{}
+1254068,2021,2021-04-18,2,Delhi Capitals,19,196.0,20.0,False,False,False,18,{}
+1254069,2021,2021-04-19,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1254069,2021,2021-04-19,2,Rajasthan Royals,20,189.0,20.0,False,False,False,19,{}
+1254070,2021,2021-04-20,1,Mumbai Indians,20,,,False,False,False,19,{}
+1254070,2021,2021-04-20,2,Delhi Capitals,20,138.0,20.0,False,False,False,19,{}
+1254071,2021,2021-04-21,1,Punjab Kings,20,,,False,False,False,19,{}
+1254071,2021,2021-04-21,2,Sunrisers Hyderabad,19,121.0,20.0,False,False,False,18,{}
+1254072,2021,2021-04-21,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1254072,2021,2021-04-21,2,Kolkata Knight Riders,20,221.0,20.0,False,False,False,19,{}
+1254073,2021,2021-04-22,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1254073,2021,2021-04-22,2,Royal Challengers Bangalore,17,178.0,20.0,False,False,False,16,{}
+1254074,2021,2021-04-23,1,Mumbai Indians,20,,,False,False,False,19,{}
+1254074,2021,2021-04-23,2,Punjab Kings,18,132.0,20.0,False,False,False,17,{}
+1254075,2021,2021-04-24,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1254075,2021,2021-04-24,2,Rajasthan Royals,19,134.0,20.0,False,False,False,18,{}
+1254076,2021,2021-04-25,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1254076,2021,2021-04-25,2,Royal Challengers Bangalore,20,192.0,20.0,False,False,False,19,{}
+1254077,2021,2021-04-25,1,Delhi Capitals,20,,,False,False,False,19,{}
+1254077,2021,2021-04-25,2,Sunrisers Hyderabad,20,160.0,20.0,False,False,False,19,{}
+1254077,2021,2021-04-25,3,Sunrisers Hyderabad,1,,,True,False,False,0,{}
+1254077,2021,2021-04-25,4,Delhi Capitals,1,,,True,False,False,0,{}
+1254078,2021,2021-04-26,1,Punjab Kings,20,,,False,False,False,19,{}
+1254078,2021,2021-04-26,2,Kolkata Knight Riders,17,124.0,20.0,False,False,False,16,{}
+1254079,2021,2021-04-27,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1254079,2021,2021-04-27,2,Delhi Capitals,20,172.0,20.0,False,False,False,19,{}
+1254080,2021,2021-04-28,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1254080,2021,2021-04-28,2,Chennai Super Kings,19,172.0,20.0,False,False,False,18,{}
+1254081,2021,2021-04-29,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1254081,2021,2021-04-29,2,Mumbai Indians,19,172.0,20.0,False,False,False,18,{}
+1254082,2021,2021-04-29,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1254082,2021,2021-04-29,2,Delhi Capitals,17,155.0,20.0,False,False,False,16,{}
+1254083,2021,2021-04-30,1,Punjab Kings,20,,,False,False,False,19,{}
+1254083,2021,2021-04-30,2,Royal Challengers Bangalore,20,180.0,20.0,False,False,False,19,{}
+1254084,2021,2021-05-01,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1254084,2021,2021-05-01,2,Mumbai Indians,20,219.0,20.0,False,False,False,19,{}
+1254085,2021,2021-05-02,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1254085,2021,2021-05-02,2,Sunrisers Hyderabad,20,221.0,20.0,False,False,False,19,{}
+1254086,2021,2021-05-02,1,Punjab Kings,20,,,False,False,False,19,{}
+1254086,2021,2021-05-02,2,Delhi Capitals,18,167.0,20.0,False,False,False,17,{}
+1254087,2021,2021-09-20,1,Royal Challengers Bangalore,19,,,False,False,False,18,{}
+1254087,2021,2021-09-20,2,Kolkata Knight Riders,10,93.0,20.0,False,False,False,9,{}
+1254088,2021,2021-10-08,1,Mumbai Indians,20,,,False,False,False,19,{}
+1254088,2021,2021-10-08,2,Sunrisers Hyderabad,20,236.0,20.0,False,False,False,19,{}
+1254089,2021,2021-10-02,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1254089,2021,2021-10-02,2,Rajasthan Royals,18,190.0,20.0,False,False,False,17,{}
+1254090,2021,2021-10-03,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1254090,2021,2021-10-03,2,Punjab Kings,20,165.0,20.0,False,False,False,19,{}
+1254091,2021,2021-09-30,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1254091,2021,2021-09-30,2,Chennai Super Kings,20,135.0,20.0,False,False,False,19,{}
+1254092,2021,2021-09-28,1,Delhi Capitals,20,,,False,False,False,19,{}
+1254092,2021,2021-09-28,2,Kolkata Knight Riders,19,128.0,20.0,False,False,False,18,{}
+1254093,2021,2021-10-05,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1254093,2021,2021-10-05,2,Mumbai Indians,9,91.0,20.0,False,False,False,8,{}
+1254094,2021,2021-10-07,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1254094,2021,2021-10-07,2,Punjab Kings,13,135.0,20.0,False,False,False,12,{}
+1254095,2021,2021-10-06,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1254095,2021,2021-10-06,2,Royal Challengers Bangalore,20,142.0,20.0,False,False,False,19,{}
+1254096,2021,2021-09-23,1,Mumbai Indians,20,,,False,False,False,19,{}
+1254096,2021,2021-09-23,2,Kolkata Knight Riders,16,156.0,20.0,False,False,False,15,{}
+1254097,2021,2021-09-25,1,Delhi Capitals,20,,,False,False,False,19,{}
+1254097,2021,2021-09-25,2,Rajasthan Royals,20,155.0,20.0,False,False,False,19,{}
+1254098,2021,2021-09-26,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1254098,2021,2021-09-26,2,Chennai Super Kings,20,172.0,20.0,False,False,False,19,{}
+1254099,2021,2021-09-28,1,Punjab Kings,20,,,False,False,False,19,{}
+1254099,2021,2021-09-28,2,Mumbai Indians,19,136.0,20.0,False,False,False,18,{}
+1254100,2021,2021-09-27,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1254100,2021,2021-09-27,2,Sunrisers Hyderabad,19,165.0,20.0,False,False,False,18,{}
+1254101,2021,2021-10-08,1,Delhi Capitals,20,,,False,False,False,19,{}
+1254101,2021,2021-10-08,2,Royal Challengers Bangalore,20,165.0,20.0,False,False,False,19,{}
+1254102,2021,2021-10-01,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1254102,2021,2021-10-01,2,Punjab Kings,20,166.0,20.0,False,False,False,19,{}
+1254103,2021,2021-09-29,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1254103,2021,2021-09-29,2,Royal Challengers Bangalore,18,150.0,20.0,False,False,False,17,{}
+1254104,2021,2021-09-19,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1254104,2021,2021-09-19,2,Mumbai Indians,20,157.0,20.0,False,False,False,19,{}
+1254105,2021,2021-09-22,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1254105,2021,2021-09-22,2,Delhi Capitals,18,135.0,20.0,False,False,False,17,{}
+1254106,2021,2021-10-07,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1254106,2021,2021-10-07,2,Rajasthan Royals,17,172.0,20.0,False,False,False,16,{}
+1254107,2021,2021-09-25,1,Punjab Kings,20,,,False,False,False,19,{}
+1254107,2021,2021-09-25,2,Sunrisers Hyderabad,20,126.0,20.0,False,False,False,19,{}
+1254108,2021,2021-09-26,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1254108,2021,2021-09-26,2,Mumbai Indians,19,166.0,20.0,False,False,False,18,{}
+1254109,2021,2021-10-03,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1254109,2021,2021-10-03,2,Kolkata Knight Riders,20,116.0,20.0,False,False,False,19,{}
+1254110,2021,2021-10-04,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1254110,2021,2021-10-04,2,Delhi Capitals,20,137.0,20.0,False,False,False,19,{}
+1254111,2021,2021-09-21,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1254111,2021,2021-09-21,2,Punjab Kings,20,186.0,20.0,False,False,False,19,{}
+1254112,2021,2021-10-02,1,Mumbai Indians,20,,,False,False,False,19,{}
+1254112,2021,2021-10-02,2,Delhi Capitals,20,130.0,20.0,False,False,False,19,{}
+1254113,2021,2021-09-24,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1254113,2021,2021-09-24,2,Chennai Super Kings,19,157.0,20.0,False,False,False,18,{}
+1254114,2021,2021-10-10,1,Delhi Capitals,20,,,False,False,False,19,{}
+1254114,2021,2021-10-10,2,Chennai Super Kings,20,173.0,20.0,False,False,False,19,{}
+1254115,2021,2021-10-11,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1254115,2021,2021-10-11,2,Kolkata Knight Riders,20,139.0,20.0,False,False,False,19,{}
+1254116,2021,2021-10-13,1,Delhi Capitals,20,,,False,False,False,19,{}
+1254116,2021,2021-10-13,2,Kolkata Knight Riders,20,136.0,20.0,False,False,False,19,{}
+1254117,2021,2021-10-15,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1254117,2021,2021-10-15,2,Kolkata Knight Riders,20,193.0,20.0,False,False,False,19,{}
+1304047,2022,2022-03-26,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1304047,2022,2022-03-26,2,Kolkata Knight Riders,19,132.0,20.0,False,False,False,18,{}
+1304048,2022,2022-03-27,1,Mumbai Indians,20,,,False,False,False,19,{}
+1304048,2022,2022-03-27,2,Delhi Capitals,19,178.0,20.0,False,False,False,18,{}
+1304049,2022,2022-03-27,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1304049,2022,2022-03-27,2,Punjab Kings,19,206.0,20.0,False,False,False,18,{}
+1304050,2022,2022-03-28,1,Lucknow Super Giants,20,,,False,False,False,19,{}
+1304050,2022,2022-03-28,2,Gujarat Titans,20,159.0,20.0,False,False,False,19,{}
+1304051,2022,2022-03-29,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1304051,2022,2022-03-29,2,Sunrisers Hyderabad,20,211.0,20.0,False,False,False,19,{}
+1304052,2022,2022-03-30,1,Kolkata Knight Riders,19,,,False,False,False,18,{}
+1304052,2022,2022-03-30,2,Royal Challengers Bangalore,20,129.0,20.0,False,False,False,19,{}
+1304053,2022,2022-03-31,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1304053,2022,2022-03-31,2,Lucknow Super Giants,20,211.0,20.0,False,False,False,19,{}
+1304054,2022,2022-04-01,1,Punjab Kings,19,,,False,False,False,18,{}
+1304054,2022,2022-04-01,2,Kolkata Knight Riders,15,138.0,20.0,False,False,False,14,{}
+1304055,2022,2022-04-02,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1304055,2022,2022-04-02,2,Mumbai Indians,20,194.0,20.0,False,False,False,19,{}
+1304056,2022,2022-04-02,1,Gujarat Titans,20,,,False,False,False,19,{}
+1304056,2022,2022-04-02,2,Delhi Capitals,20,172.0,20.0,False,False,False,19,{}
+1304057,2022,2022-04-03,1,Punjab Kings,20,,,False,False,False,19,{}
+1304057,2022,2022-04-03,2,Chennai Super Kings,18,181.0,20.0,False,False,False,17,{}
+1304058,2022,2022-04-04,1,Lucknow Super Giants,20,,,False,False,False,19,{}
+1304058,2022,2022-04-04,2,Sunrisers Hyderabad,20,170.0,20.0,False,False,False,19,{}
+1304059,2022,2022-04-05,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1304059,2022,2022-04-05,2,Royal Challengers Bangalore,20,170.0,20.0,False,False,False,19,{}
+1304060,2022,2022-04-06,1,Mumbai Indians,20,,,False,False,False,19,{}
+1304060,2022,2022-04-06,2,Kolkata Knight Riders,16,162.0,20.0,False,False,False,15,{}
+1304061,2022,2022-04-07,1,Delhi Capitals,20,,,False,False,False,19,{}
+1304061,2022,2022-04-07,2,Lucknow Super Giants,20,150.0,20.0,False,False,False,19,{}
+1304062,2022,2022-04-08,1,Punjab Kings,20,,,False,False,False,19,{}
+1304062,2022,2022-04-08,2,Gujarat Titans,20,190.0,20.0,False,False,False,19,{}
+1304063,2022,2022-04-09,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1304063,2022,2022-04-09,2,Sunrisers Hyderabad,18,155.0,20.0,False,False,False,17,{}
+1304064,2022,2022-04-09,1,Mumbai Indians,20,,,False,False,False,19,{}
+1304064,2022,2022-04-09,2,Royal Challengers Bangalore,19,152.0,20.0,False,False,False,18,{}
+1304065,2022,2022-04-10,1,Delhi Capitals,20,,,False,False,False,19,{}
+1304065,2022,2022-04-10,2,Kolkata Knight Riders,20,216.0,20.0,False,False,False,19,{}
+1304066,2022,2022-04-10,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1304066,2022,2022-04-10,2,Lucknow Super Giants,20,166.0,20.0,False,False,False,19,{}
+1304067,2022,2022-04-11,1,Gujarat Titans,20,,,False,False,False,19,{}
+1304067,2022,2022-04-11,2,Sunrisers Hyderabad,20,163.0,20.0,False,False,False,19,{}
+1304068,2022,2022-04-12,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1304068,2022,2022-04-12,2,Royal Challengers Bangalore,20,217.0,20.0,False,False,False,19,{}
+1304069,2022,2022-04-13,1,Punjab Kings,20,,,False,False,False,19,{}
+1304069,2022,2022-04-13,2,Mumbai Indians,20,199.0,20.0,False,False,False,19,{}
+1304070,2022,2022-04-14,1,Gujarat Titans,20,,,False,False,False,19,{}
+1304070,2022,2022-04-14,2,Rajasthan Royals,20,193.0,20.0,False,False,False,19,{}
+1304071,2022,2022-04-15,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1304071,2022,2022-04-15,2,Sunrisers Hyderabad,18,176.0,20.0,False,False,False,17,{}
+1304072,2022,2022-04-16,1,Lucknow Super Giants,20,,,False,False,False,19,{}
+1304072,2022,2022-04-16,2,Mumbai Indians,20,200.0,20.0,False,False,False,19,{}
+1304073,2022,2022-04-16,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1304073,2022,2022-04-16,2,Delhi Capitals,20,190.0,20.0,False,False,False,19,{}
+1304074,2022,2022-04-17,1,Punjab Kings,20,,,False,False,False,19,{}
+1304074,2022,2022-04-17,2,Sunrisers Hyderabad,19,152.0,20.0,False,False,False,18,{}
+1304075,2022,2022-04-17,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1304075,2022,2022-04-17,2,Gujarat Titans,20,170.0,20.0,False,False,False,19,{}
+1304076,2022,2022-04-18,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1304076,2022,2022-04-18,2,Kolkata Knight Riders,20,218.0,20.0,False,False,False,19,{}
+1304077,2022,2022-04-19,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1304077,2022,2022-04-19,2,Lucknow Super Giants,20,182.0,20.0,False,False,False,19,{}
+1304078,2022,2022-04-20,1,Punjab Kings,20,,,False,False,False,19,{}
+1304078,2022,2022-04-20,2,Delhi Capitals,11,116.0,20.0,False,False,False,10,{}
+1304079,2022,2022-04-21,1,Mumbai Indians,20,,,False,False,False,19,{}
+1304079,2022,2022-04-21,2,Chennai Super Kings,20,156.0,20.0,False,False,False,19,{}
+1304080,2022,2022-04-22,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1304080,2022,2022-04-22,2,Delhi Capitals,20,223.0,20.0,False,False,False,19,{}
+1304081,2022,2022-04-23,1,Gujarat Titans,20,,,False,False,False,19,{}
+1304081,2022,2022-04-23,2,Kolkata Knight Riders,20,157.0,20.0,False,False,False,19,{}
+1304082,2022,2022-04-23,1,Royal Challengers Bangalore,17,,,False,False,False,16,{}
+1304082,2022,2022-04-23,2,Sunrisers Hyderabad,8,69.0,20.0,False,False,False,7,{}
+1304083,2022,2022-04-24,1,Lucknow Super Giants,20,,,False,False,False,19,{}
+1304083,2022,2022-04-24,2,Mumbai Indians,20,169.0,20.0,False,False,False,19,{}
+1304084,2022,2022-04-25,1,Punjab Kings,20,,,False,False,False,19,{}
+1304084,2022,2022-04-25,2,Chennai Super Kings,20,188.0,20.0,False,False,False,19,{}
+1304085,2022,2022-04-26,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1304085,2022,2022-04-26,2,Royal Challengers Bangalore,20,145.0,20.0,False,False,False,19,{}
+1304086,2022,2022-04-27,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1304086,2022,2022-04-27,2,Gujarat Titans,20,196.0,20.0,False,False,False,19,{}
+1304087,2022,2022-04-28,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1304087,2022,2022-04-28,2,Delhi Capitals,19,147.0,20.0,False,False,False,18,{}
+1304088,2022,2022-04-29,1,Lucknow Super Giants,20,,,False,False,False,19,{}
+1304088,2022,2022-04-29,2,Punjab Kings,20,154.0,20.0,False,False,False,19,{}
+1304089,2022,2022-04-30,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1304089,2022,2022-04-30,2,Gujarat Titans,20,171.0,20.0,False,False,False,19,{}
+1304090,2022,2022-04-30,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1304090,2022,2022-04-30,2,Mumbai Indians,20,159.0,20.0,False,False,False,19,{}
+1304091,2022,2022-05-01,1,Lucknow Super Giants,20,,,False,False,False,19,{}
+1304091,2022,2022-05-01,2,Delhi Capitals,20,196.0,20.0,False,False,False,19,{}
+1304092,2022,2022-05-01,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1304092,2022,2022-05-01,2,Sunrisers Hyderabad,20,203.0,20.0,False,False,False,19,{}
+1304093,2022,2022-05-02,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1304093,2022,2022-05-02,2,Kolkata Knight Riders,20,153.0,20.0,False,False,False,19,{}
+1304094,2022,2022-05-03,1,Gujarat Titans,20,,,False,False,False,19,{}
+1304094,2022,2022-05-03,2,Punjab Kings,16,144.0,20.0,False,False,False,15,{}
+1304095,2022,2022-05-04,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1304095,2022,2022-05-04,2,Chennai Super Kings,20,174.0,20.0,False,False,False,19,{}
+1304096,2022,2022-05-05,1,Delhi Capitals,20,,,False,False,False,19,{}
+1304096,2022,2022-05-05,2,Sunrisers Hyderabad,20,208.0,20.0,False,False,False,19,{}
+1304097,2022,2022-05-06,1,Mumbai Indians,20,,,False,False,False,19,{}
+1304097,2022,2022-05-06,2,Gujarat Titans,20,178.0,20.0,False,False,False,19,{}
+1304098,2022,2022-05-07,1,Punjab Kings,20,,,False,False,False,19,{}
+1304098,2022,2022-05-07,2,Rajasthan Royals,20,190.0,20.0,False,False,False,19,{}
+1304099,2022,2022-05-07,1,Lucknow Super Giants,20,,,False,False,False,19,{}
+1304099,2022,2022-05-07,2,Kolkata Knight Riders,15,177.0,20.0,False,False,False,14,{}
+1304100,2022,2022-05-08,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1304100,2022,2022-05-08,2,Sunrisers Hyderabad,20,193.0,20.0,False,False,False,19,{}
+1304101,2022,2022-05-08,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1304101,2022,2022-05-08,2,Delhi Capitals,18,209.0,20.0,False,False,False,17,{}
+1304102,2022,2022-05-09,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1304102,2022,2022-05-09,2,Mumbai Indians,18,166.0,20.0,False,False,False,17,{}
+1304103,2022,2022-05-10,1,Gujarat Titans,20,,,False,False,False,19,{}
+1304103,2022,2022-05-10,2,Lucknow Super Giants,14,145.0,20.0,False,False,False,13,{}
+1304104,2022,2022-05-11,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1304104,2022,2022-05-11,2,Delhi Capitals,19,161.0,20.0,False,False,False,18,{}
+1304105,2022,2022-05-12,1,Chennai Super Kings,16,,,False,False,False,15,{}
+1304105,2022,2022-05-12,2,Mumbai Indians,15,98.0,20.0,False,False,False,14,{}
+1304106,2022,2022-05-13,1,Punjab Kings,20,,,False,False,False,19,{}
+1304106,2022,2022-05-13,2,Royal Challengers Bangalore,20,210.0,20.0,False,False,False,19,{}
+1304107,2022,2022-05-14,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1304107,2022,2022-05-14,2,Sunrisers Hyderabad,20,178.0,20.0,False,False,False,19,{}
+1304108,2022,2022-05-15,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1304108,2022,2022-05-15,2,Gujarat Titans,20,134.0,20.0,False,False,False,19,{}
+1304109,2022,2022-05-15,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1304109,2022,2022-05-15,2,Lucknow Super Giants,20,179.0,20.0,False,False,False,19,{}
+1304110,2022,2022-05-16,1,Delhi Capitals,20,,,False,False,False,19,{}
+1304110,2022,2022-05-16,2,Punjab Kings,20,160.0,20.0,False,False,False,19,{}
+1304111,2022,2022-05-17,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1304111,2022,2022-05-17,2,Mumbai Indians,20,194.0,20.0,False,False,False,19,{}
+1304112,2022,2022-05-18,1,Lucknow Super Giants,20,,,False,False,False,19,{}
+1304112,2022,2022-05-18,2,Kolkata Knight Riders,20,211.0,20.0,False,False,False,19,{}
+1304113,2022,2022-05-19,1,Gujarat Titans,20,,,False,False,False,19,{}
+1304113,2022,2022-05-19,2,Royal Challengers Bangalore,19,169.0,20.0,False,False,False,18,{}
+1304114,2022,2022-05-20,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1304114,2022,2022-05-20,2,Rajasthan Royals,20,151.0,20.0,False,False,False,19,{}
+1304115,2022,2022-05-21,1,Delhi Capitals,20,,,False,False,False,19,{}
+1304115,2022,2022-05-21,2,Mumbai Indians,20,160.0,20.0,False,False,False,19,{}
+1304116,2022,2022-05-22,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1304116,2022,2022-05-22,2,Punjab Kings,16,158.0,20.0,False,False,False,15,{}
+1312197,2022,2022-05-24,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1312197,2022,2022-05-24,2,Gujarat Titans,20,189.0,20.0,False,False,False,19,{}
+1312198,2022,2022-05-25,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1312198,2022,2022-05-25,2,Lucknow Super Giants,20,208.0,20.0,False,False,False,19,{}
+1312199,2022,2022-05-27,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1312199,2022,2022-05-27,2,Rajasthan Royals,19,158.0,20.0,False,False,False,18,{}
+1312200,2022,2022-05-29,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1312200,2022,2022-05-29,2,Gujarat Titans,19,131.0,20.0,False,False,False,18,{}
+1359475,2023,2023-03-31,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1359475,2023,2023-03-31,2,Gujarat Titans,20,179.0,20.0,False,False,False,19,{}
+1359476,2023,2023-04-01,1,Punjab Kings,20,,,False,False,False,19,{}
+1359476,2023,2023-04-01,2,Kolkata Knight Riders,16,154.0,16.0,False,False,False,15,{}
+1359477,2023,2023-04-01,1,Lucknow Super Giants,20,,,False,False,False,19,{}
+1359477,2023,2023-04-01,2,Delhi Capitals,20,194.0,20.0,False,False,False,19,{}
+1359478,2023,2023-04-02,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1359478,2023,2023-04-02,2,Sunrisers Hyderabad,20,204.0,20.0,False,False,False,19,{}
+1359479,2023,2023-04-02,1,Mumbai Indians,20,,,False,False,False,19,{}
+1359479,2023,2023-04-02,2,Royal Challengers Bangalore,17,172.0,20.0,False,False,False,16,{}
+1359480,2023,2023-04-03,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1359480,2023,2023-04-03,2,Lucknow Super Giants,20,218.0,20.0,False,False,False,19,{}
+1359481,2023,2023-04-04,1,Delhi Capitals,20,,,False,False,False,19,{}
+1359481,2023,2023-04-04,2,Gujarat Titans,19,163.0,20.0,False,False,False,18,{}
+1359482,2023,2023-04-05,1,Punjab Kings,20,,,False,False,False,19,{}
+1359482,2023,2023-04-05,2,Rajasthan Royals,20,198.0,20.0,False,False,False,19,{}
+1359483,2023,2023-04-06,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1359483,2023,2023-04-06,2,Royal Challengers Bangalore,18,205.0,20.0,False,False,False,17,{}
+1359484,2023,2023-04-07,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1359484,2023,2023-04-07,2,Lucknow Super Giants,16,122.0,20.0,False,False,False,15,{}
+1359485,2023,2023-04-08,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1359485,2023,2023-04-08,2,Delhi Capitals,20,200.0,20.0,False,False,False,19,{}
+1359486,2023,2023-04-08,1,Mumbai Indians,20,,,False,False,False,19,{}
+1359486,2023,2023-04-08,2,Chennai Super Kings,19,158.0,20.0,False,False,False,18,{}
+1359487,2023,2023-04-09,1,Gujarat Titans,20,,,False,False,False,19,{}
+1359487,2023,2023-04-09,2,Kolkata Knight Riders,20,205.0,20.0,False,False,False,19,{}
+1359488,2023,2023-04-09,1,Punjab Kings,20,,,False,False,False,19,{}
+1359488,2023,2023-04-09,2,Sunrisers Hyderabad,18,144.0,20.0,False,False,False,17,{}
+1359489,2023,2023-04-10,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1359489,2023,2023-04-10,2,Lucknow Super Giants,20,213.0,20.0,False,False,False,19,{}
+1359490,2023,2023-04-11,1,Delhi Capitals,20,,,False,False,False,19,{}
+1359490,2023,2023-04-11,2,Mumbai Indians,20,173.0,20.0,False,False,False,19,{}
+1359491,2023,2023-04-12,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1359491,2023,2023-04-12,2,Chennai Super Kings,20,176.0,20.0,False,False,False,19,{}
+1359492,2023,2023-04-13,1,Punjab Kings,20,,,False,False,False,19,{}
+1359492,2023,2023-04-13,2,Gujarat Titans,20,154.0,20.0,False,False,False,19,{}
+1359493,2023,2023-04-14,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1359493,2023,2023-04-14,2,Kolkata Knight Riders,20,229.0,20.0,False,False,False,19,{}
+1359494,2023,2023-04-15,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1359494,2023,2023-04-15,2,Delhi Capitals,20,175.0,20.0,False,False,False,19,{}
+1359495,2023,2023-04-15,1,Lucknow Super Giants,20,,,False,False,False,19,{}
+1359495,2023,2023-04-15,2,Punjab Kings,20,160.0,20.0,False,False,False,19,{}
+1359496,2023,2023-04-16,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1359496,2023,2023-04-16,2,Mumbai Indians,18,186.0,20.0,False,False,False,17,{}
+1359497,2023,2023-04-16,1,Gujarat Titans,20,,,False,False,False,19,{}
+1359497,2023,2023-04-16,2,Rajasthan Royals,20,178.0,20.0,False,False,False,19,{}
+1359498,2023,2023-04-17,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1359498,2023,2023-04-17,2,Royal Challengers Bangalore,20,227.0,20.0,False,False,False,19,{}
+1359499,2023,2023-04-18,1,Mumbai Indians,20,,,False,False,False,19,{}
+1359499,2023,2023-04-18,2,Sunrisers Hyderabad,20,193.0,20.0,False,False,False,19,{}
+1359500,2023,2023-04-19,1,Lucknow Super Giants,20,,,False,False,False,19,{}
+1359500,2023,2023-04-19,2,Rajasthan Royals,20,155.0,20.0,False,False,False,19,{}
+1359501,2023,2023-04-20,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1359501,2023,2023-04-20,2,Punjab Kings,19,175.0,20.0,False,False,False,18,{}
+1359502,2023,2023-04-20,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1359502,2023,2023-04-20,2,Delhi Capitals,20,128.0,20.0,False,False,False,19,{}
+1359503,2023,2023-04-21,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1359503,2023,2023-04-21,2,Chennai Super Kings,19,135.0,20.0,False,False,False,18,{}
+1359504,2023,2023-04-22,1,Gujarat Titans,20,,,False,False,False,19,{}
+1359504,2023,2023-04-22,2,Lucknow Super Giants,20,136.0,20.0,False,False,False,19,{}
+1359505,2023,2023-04-22,1,Punjab Kings,20,,,False,False,False,19,{}
+1359505,2023,2023-04-22,2,Mumbai Indians,20,215.0,20.0,False,False,False,19,{}
+1359506,2023,2023-04-23,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1359506,2023,2023-04-23,2,Rajasthan Royals,20,190.0,20.0,False,False,False,19,{}
+1359507,2023,2023-04-23,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1359507,2023,2023-04-23,2,Kolkata Knight Riders,20,236.0,20.0,False,False,False,19,{}
+1359508,2023,2023-04-24,1,Delhi Capitals,20,,,False,False,False,19,{}
+1359508,2023,2023-04-24,2,Sunrisers Hyderabad,20,145.0,20.0,False,False,False,19,{}
+1359509,2023,2023-04-25,1,Gujarat Titans,20,,,False,False,False,19,{}
+1359509,2023,2023-04-25,2,Mumbai Indians,20,208.0,20.0,False,False,False,19,{}
+1359510,2023,2023-04-26,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1359510,2023,2023-04-26,2,Royal Challengers Bangalore,20,201.0,20.0,False,False,False,19,{}
+1359511,2023,2023-04-27,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1359511,2023,2023-04-27,2,Chennai Super Kings,20,203.0,20.0,False,False,False,19,{}
+1359512,2023,2023-04-28,1,Lucknow Super Giants,20,,,False,False,False,19,{}
+1359512,2023,2023-04-28,2,Punjab Kings,20,258.0,20.0,False,False,False,19,{}
+1359513,2023,2023-04-29,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1359513,2023,2023-04-29,2,Gujarat Titans,18,180.0,20.0,False,False,False,17,{}
+1359514,2023,2023-04-29,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1359514,2023,2023-04-29,2,Delhi Capitals,20,198.0,20.0,False,False,False,19,{}
+1359515,2023,2023-04-30,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1359515,2023,2023-04-30,2,Punjab Kings,20,201.0,20.0,False,False,False,19,{}
+1359516,2023,2023-04-30,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1359516,2023,2023-04-30,2,Mumbai Indians,20,213.0,20.0,False,False,False,19,{}
+1359517,2023,2023-05-01,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1359517,2023,2023-05-01,2,Lucknow Super Giants,20,127.0,20.0,False,False,False,19,{}
+1359518,2023,2023-05-02,1,Delhi Capitals,20,,,False,False,False,19,{}
+1359518,2023,2023-05-02,2,Gujarat Titans,20,131.0,20.0,False,False,False,19,{}
+1359519,2023,2023-05-03,1,Lucknow Super Giants,20,,,False,False,False,19,{}
+1359520,2023,2023-05-03,1,Punjab Kings,20,,,False,False,False,19,{}
+1359520,2023,2023-05-03,2,Mumbai Indians,19,215.0,20.0,False,False,False,18,{}
+1359521,2023,2023-05-04,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1359521,2023,2023-05-04,2,Sunrisers Hyderabad,20,172.0,20.0,False,False,False,19,{}
+1359522,2023,2023-05-05,1,Rajasthan Royals,18,,,False,False,False,17,{}
+1359522,2023,2023-05-05,2,Gujarat Titans,14,119.0,20.0,False,False,False,13,{}
+1359523,2023,2023-05-06,1,Mumbai Indians,20,,,False,False,False,19,{}
+1359523,2023,2023-05-06,2,Chennai Super Kings,18,140.0,20.0,False,False,False,17,{}
+1359524,2023,2023-05-06,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1359524,2023,2023-05-06,2,Delhi Capitals,17,182.0,20.0,False,False,False,16,{}
+1359525,2023,2023-05-07,1,Gujarat Titans,20,,,False,False,False,19,{}
+1359525,2023,2023-05-07,2,Lucknow Super Giants,20,228.0,20.0,False,False,False,19,{}
+1359526,2023,2023-05-07,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1359526,2023,2023-05-07,2,Sunrisers Hyderabad,20,215.0,20.0,False,False,False,19,{}
+1359527,2023,2023-05-08,1,Punjab Kings,20,,,False,False,False,19,{}
+1359527,2023,2023-05-08,2,Kolkata Knight Riders,20,180.0,20.0,False,False,False,19,{}
+1359528,2023,2023-05-09,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1359528,2023,2023-05-09,2,Mumbai Indians,17,200.0,20.0,False,False,False,16,{}
+1359529,2023,2023-05-10,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1359529,2023,2023-05-10,2,Delhi Capitals,20,168.0,20.0,False,False,False,19,{}
+1359530,2023,2023-05-11,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1359530,2023,2023-05-11,2,Rajasthan Royals,14,150.0,20.0,False,False,False,13,{}
+1359531,2023,2023-05-12,1,Mumbai Indians,20,,,False,False,False,19,{}
+1359531,2023,2023-05-12,2,Gujarat Titans,20,219.0,20.0,False,False,False,19,{}
+1359532,2023,2023-05-13,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1359532,2023,2023-05-13,2,Lucknow Super Giants,20,183.0,20.0,False,False,False,19,{}
+1359533,2023,2023-05-13,1,Punjab Kings,20,,,False,False,False,19,{}
+1359533,2023,2023-05-13,2,Delhi Capitals,20,168.0,20.0,False,False,False,19,{}
+1359534,2023,2023-05-14,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1359534,2023,2023-05-14,2,Rajasthan Royals,11,172.0,20.0,False,False,False,10,{}
+1359535,2023,2023-05-14,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1359535,2023,2023-05-14,2,Kolkata Knight Riders,19,145.0,20.0,False,False,False,18,{}
+1359536,2023,2023-05-15,1,Gujarat Titans,20,,,False,False,False,19,{}
+1359536,2023,2023-05-15,2,Sunrisers Hyderabad,20,189.0,20.0,False,False,False,19,{}
+1359537,2023,2023-05-16,1,Lucknow Super Giants,20,,,False,False,False,19,{}
+1359537,2023,2023-05-16,2,Mumbai Indians,20,178.0,20.0,False,False,False,19,{}
+1359538,2023,2023-05-17,1,Delhi Capitals,20,,,False,False,False,19,{}
+1359538,2023,2023-05-17,2,Punjab Kings,20,214.0,20.0,False,False,False,19,{}
+1359539,2023,2023-05-18,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1359539,2023,2023-05-18,2,Royal Challengers Bangalore,20,187.0,20.0,False,False,False,19,{}
+1359540,2023,2023-05-19,1,Punjab Kings,20,,,False,False,False,19,{}
+1359540,2023,2023-05-19,2,Rajasthan Royals,20,188.0,20.0,False,False,False,19,{}
+1359541,2023,2023-05-20,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1359541,2023,2023-05-20,2,Delhi Capitals,20,224.0,20.0,False,False,False,19,{}
+1359542,2023,2023-05-20,1,Lucknow Super Giants,20,,,False,False,False,19,{}
+1359542,2023,2023-05-20,2,Kolkata Knight Riders,20,177.0,20.0,False,False,False,19,{}
+1359543,2023,2023-05-21,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1359543,2023,2023-05-21,2,Mumbai Indians,18,201.0,20.0,False,False,False,17,{}
+1359544,2023,2023-05-21,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+1359544,2023,2023-05-21,2,Gujarat Titans,20,198.0,20.0,False,False,False,19,{}
+1370350,2023,2023-05-23,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1370350,2023,2023-05-23,2,Gujarat Titans,20,173.0,20.0,False,False,False,19,{}
+1370351,2023,2023-05-24,1,Mumbai Indians,20,,,False,False,False,19,{}
+1370351,2023,2023-05-24,2,Lucknow Super Giants,17,183.0,20.0,False,False,False,16,{}
+1370352,2023,2023-05-26,1,Gujarat Titans,20,,,False,False,False,19,{}
+1370352,2023,2023-05-26,2,Mumbai Indians,19,234.0,20.0,False,False,False,18,{}
+1370353,2023,2023-05-29,1,Gujarat Titans,20,,,False,False,False,19,{}
+1370353,2023,2023-05-29,2,Chennai Super Kings,15,171.0,15.0,False,False,False,14,{}
+1422119,2024,2024-03-22,1,Royal Challengers Bengaluru,20,,,False,False,False,19,{}
+1422119,2024,2024-03-22,2,Chennai Super Kings,19,174.0,20.0,False,False,False,18,{}
+1422120,2024,2024-03-23,1,Delhi Capitals,20,,,False,False,False,19,{}
+1422120,2024,2024-03-23,2,Punjab Kings,20,175.0,20.0,False,False,False,19,{}
+1422121,2024,2024-03-23,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1422121,2024,2024-03-23,2,Sunrisers Hyderabad,20,209.0,20.0,False,False,False,19,{}
+1422122,2024,2024-03-24,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1422122,2024,2024-03-24,2,Lucknow Super Giants,20,194.0,20.0,False,False,False,19,{}
+1422123,2024,2024-03-24,1,Gujarat Titans,20,,,False,False,False,19,{}
+1422123,2024,2024-03-24,2,Mumbai Indians,20,169.0,20.0,False,False,False,19,{}
+1422124,2024,2024-03-25,1,Punjab Kings,20,,,False,False,False,19,{}
+1422124,2024,2024-03-25,2,Royal Challengers Bengaluru,20,177.0,20.0,False,False,False,19,{}
+1422125,2024,2024-03-26,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1422125,2024,2024-03-26,2,Gujarat Titans,20,207.0,20.0,False,False,False,19,{}
+1422126,2024,2024-03-27,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1422126,2024,2024-03-27,2,Mumbai Indians,20,278.0,20.0,False,False,False,19,{}
+1422127,2024,2024-03-28,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1422127,2024,2024-03-28,2,Delhi Capitals,20,186.0,20.0,False,False,False,19,{}
+1422128,2024,2024-03-29,1,Royal Challengers Bengaluru,20,,,False,False,False,19,{}
+1422128,2024,2024-03-29,2,Kolkata Knight Riders,17,183.0,20.0,False,False,False,16,{}
+1422129,2024,2024-03-30,1,Lucknow Super Giants,20,,,False,False,False,19,{}
+1422129,2024,2024-03-30,2,Punjab Kings,20,200.0,20.0,False,False,False,19,{}
+1422130,2024,2024-03-31,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1422130,2024,2024-03-31,2,Gujarat Titans,20,163.0,20.0,False,False,False,19,{}
+1422131,2024,2024-03-31,1,Delhi Capitals,20,,,False,False,False,19,{}
+1422131,2024,2024-03-31,2,Chennai Super Kings,20,192.0,20.0,False,False,False,19,{}
+1422132,2024,2024-04-01,1,Mumbai Indians,20,,,False,False,False,19,{}
+1422132,2024,2024-04-01,2,Rajasthan Royals,16,126.0,20.0,False,False,False,15,{}
+1422133,2024,2024-04-02,1,Lucknow Super Giants,20,,,False,False,False,19,{}
+1422133,2024,2024-04-02,2,Royal Challengers Bengaluru,20,182.0,20.0,False,False,False,19,{}
+1422134,2024,2024-04-03,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1422134,2024,2024-04-03,2,Delhi Capitals,18,273.0,20.0,False,False,False,17,{}
+1422135,2024,2024-04-04,1,Gujarat Titans,20,,,False,False,False,19,{}
+1422135,2024,2024-04-04,2,Punjab Kings,20,200.0,20.0,False,False,False,19,{}
+1422136,2024,2024-04-05,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1422136,2024,2024-04-05,2,Sunrisers Hyderabad,19,166.0,20.0,False,False,False,18,{}
+1422137,2024,2024-04-06,1,Royal Challengers Bengaluru,20,,,False,False,False,19,{}
+1422137,2024,2024-04-06,2,Rajasthan Royals,20,184.0,20.0,False,False,False,19,{}
+1422138,2024,2024-04-07,1,Mumbai Indians,20,,,False,False,False,19,{}
+1422138,2024,2024-04-07,2,Delhi Capitals,20,235.0,20.0,False,False,False,19,{}
+1422139,2024,2024-04-07,1,Lucknow Super Giants,20,,,False,False,False,19,{}
+1422139,2024,2024-04-07,2,Gujarat Titans,19,164.0,20.0,False,False,False,18,{}
+1426260,2024,2024-04-08,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1426260,2024,2024-04-08,2,Chennai Super Kings,18,138.0,20.0,False,False,False,17,{}
+1426261,2024,2024-04-09,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1426261,2024,2024-04-09,2,Punjab Kings,20,183.0,20.0,False,False,False,19,{}
+1426262,2024,2024-04-10,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1426262,2024,2024-04-10,2,Gujarat Titans,20,197.0,20.0,False,False,False,19,{}
+1426263,2024,2024-04-11,1,Royal Challengers Bengaluru,20,,,False,False,False,19,{}
+1426263,2024,2024-04-11,2,Mumbai Indians,16,197.0,20.0,False,False,False,15,{}
+1426264,2024,2024-04-12,1,Lucknow Super Giants,20,,,False,False,False,19,{}
+1426264,2024,2024-04-12,2,Delhi Capitals,19,168.0,20.0,False,False,False,18,{}
+1426265,2024,2024-04-13,1,Punjab Kings,20,,,False,False,False,19,{}
+1426265,2024,2024-04-13,2,Rajasthan Royals,20,148.0,20.0,False,False,False,19,{}
+1426266,2024,2024-04-14,1,Lucknow Super Giants,20,,,False,False,False,19,{}
+1426266,2024,2024-04-14,2,Kolkata Knight Riders,16,162.0,20.0,False,False,False,15,{}
+1426267,2024,2024-04-14,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1426267,2024,2024-04-14,2,Mumbai Indians,20,207.0,20.0,False,False,False,19,{}
+1426268,2024,2024-04-15,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1426268,2024,2024-04-15,2,Royal Challengers Bengaluru,20,288.0,20.0,False,False,False,19,{}
+1426269,2024,2024-04-16,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1426269,2024,2024-04-16,2,Rajasthan Royals,20,224.0,20.0,False,False,False,19,{}
+1426270,2024,2024-04-17,1,Gujarat Titans,18,,,False,False,False,17,{}
+1426270,2024,2024-04-17,2,Delhi Capitals,9,90.0,20.0,False,False,False,8,{}
+1426271,2024,2024-04-18,1,Mumbai Indians,20,,,False,False,False,19,{}
+1426271,2024,2024-04-18,2,Punjab Kings,20,193.0,20.0,False,False,False,19,{}
+1426272,2024,2024-04-19,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1426272,2024,2024-04-19,2,Lucknow Super Giants,19,177.0,20.0,False,False,False,18,{}
+1426273,2024,2024-04-20,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1426273,2024,2024-04-20,2,Delhi Capitals,20,267.0,20.0,False,False,False,19,{}
+1426274,2024,2024-04-21,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1426274,2024,2024-04-21,2,Royal Challengers Bengaluru,20,223.0,20.0,False,False,False,19,{}
+1426275,2024,2024-04-21,1,Punjab Kings,20,,,False,False,False,19,{}
+1426275,2024,2024-04-21,2,Gujarat Titans,20,143.0,20.0,False,False,False,19,{}
+1426276,2024,2024-04-22,1,Mumbai Indians,20,,,False,False,False,19,{}
+1426276,2024,2024-04-22,2,Rajasthan Royals,19,180.0,20.0,False,False,False,18,{}
+1426277,2024,2024-04-23,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1426277,2024,2024-04-23,2,Lucknow Super Giants,20,211.0,20.0,False,False,False,19,{}
+1426278,2024,2024-04-24,1,Delhi Capitals,20,,,False,False,False,19,{}
+1426278,2024,2024-04-24,2,Gujarat Titans,20,225.0,20.0,False,False,False,19,{}
+1426279,2024,2024-04-25,1,Royal Challengers Bengaluru,20,,,False,False,False,19,{}
+1426279,2024,2024-04-25,2,Sunrisers Hyderabad,20,207.0,20.0,False,False,False,19,{}
+1426280,2024,2024-04-26,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1426280,2024,2024-04-26,2,Punjab Kings,19,262.0,20.0,False,False,False,18,{}
+1426281,2024,2024-04-27,1,Delhi Capitals,20,,,False,False,False,19,{}
+1426281,2024,2024-04-27,2,Mumbai Indians,20,258.0,20.0,False,False,False,19,{}
+1426282,2024,2024-04-27,1,Lucknow Super Giants,20,,,False,False,False,19,{}
+1426282,2024,2024-04-27,2,Rajasthan Royals,19,197.0,20.0,False,False,False,18,{}
+1426283,2024,2024-04-28,1,Gujarat Titans,20,,,False,False,False,19,{}
+1426283,2024,2024-04-28,2,Royal Challengers Bengaluru,16,201.0,20.0,False,False,False,15,{}
+1426284,2024,2024-04-28,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1426284,2024,2024-04-28,2,Sunrisers Hyderabad,19,213.0,20.0,False,False,False,18,{}
+1426285,2024,2024-04-29,1,Delhi Capitals,20,,,False,False,False,19,{}
+1426285,2024,2024-04-29,2,Kolkata Knight Riders,17,154.0,20.0,False,False,False,16,{}
+1426286,2024,2024-04-30,1,Mumbai Indians,20,,,False,False,False,19,{}
+1426286,2024,2024-04-30,2,Lucknow Super Giants,20,145.0,20.0,False,False,False,19,{}
+1426287,2024,2024-05-01,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1426287,2024,2024-05-01,2,Punjab Kings,18,163.0,20.0,False,False,False,17,{}
+1426288,2024,2024-05-02,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1426288,2024,2024-05-02,2,Rajasthan Royals,20,202.0,20.0,False,False,False,19,{}
+1426289,2024,2024-05-03,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1426289,2024,2024-05-03,2,Mumbai Indians,19,170.0,20.0,False,False,False,18,{}
+1426290,2024,2024-05-04,1,Gujarat Titans,20,,,False,False,False,19,{}
+1426290,2024,2024-05-04,2,Royal Challengers Bengaluru,14,148.0,20.0,False,False,False,13,{}
+1426291,2024,2024-05-05,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1426291,2024,2024-05-05,2,Punjab Kings,20,168.0,20.0,False,False,False,19,{}
+1426292,2024,2024-05-05,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1426292,2024,2024-05-05,2,Lucknow Super Giants,17,236.0,20.0,False,False,False,16,{}
+1426293,2024,2024-05-06,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1426293,2024,2024-05-06,2,Mumbai Indians,18,174.0,20.0,False,False,False,17,{}
+1426294,2024,2024-05-07,1,Delhi Capitals,20,,,False,False,False,19,{}
+1426294,2024,2024-05-07,2,Rajasthan Royals,20,222.0,20.0,False,False,False,19,{}
+1426295,2024,2024-05-08,1,Lucknow Super Giants,20,,,False,False,False,19,{}
+1426295,2024,2024-05-08,2,Sunrisers Hyderabad,10,166.0,20.0,False,False,False,9,{}
+1426296,2024,2024-05-09,1,Royal Challengers Bengaluru,20,,,False,False,False,19,{}
+1426296,2024,2024-05-09,2,Punjab Kings,17,242.0,20.0,False,False,False,16,{}
+1426297,2024,2024-05-10,1,Gujarat Titans,20,,,False,False,False,19,{}
+1426297,2024,2024-05-10,2,Chennai Super Kings,20,232.0,20.0,False,False,False,19,{}
+1426298,2024,2024-05-11,1,Kolkata Knight Riders,16,,,False,False,False,15,{}
+1426298,2024,2024-05-11,2,Mumbai Indians,16,158.0,16.0,False,False,False,15,{}
+1426299,2024,2024-05-12,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1426299,2024,2024-05-12,2,Chennai Super Kings,19,142.0,20.0,False,False,False,18,{}
+1426300,2024,2024-05-12,1,Royal Challengers Bengaluru,20,,,False,False,False,19,{}
+1426300,2024,2024-05-12,2,Delhi Capitals,20,188.0,20.0,False,False,False,19,{}
+1426302,2024,2024-05-14,1,Delhi Capitals,20,,,False,False,False,19,{}
+1426302,2024,2024-05-14,2,Lucknow Super Giants,20,209.0,20.0,False,False,False,19,{}
+1426303,2024,2024-05-15,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1426303,2024,2024-05-15,2,Punjab Kings,19,145.0,20.0,False,False,False,18,{}
+1426305,2024,2024-05-17,1,Lucknow Super Giants,20,,,False,False,False,19,{}
+1426305,2024,2024-05-17,2,Mumbai Indians,20,215.0,20.0,False,False,False,19,{}
+1426306,2024,2024-05-18,1,Royal Challengers Bengaluru,20,,,False,False,False,19,{}
+1426306,2024,2024-05-18,2,Chennai Super Kings,20,219.0,20.0,False,False,False,19,{}
+1426307,2024,2024-05-19,1,Punjab Kings,20,,,False,False,False,19,{}
+1426307,2024,2024-05-19,2,Sunrisers Hyderabad,20,215.0,20.0,False,False,False,19,{}
+1426309,2024,2024-05-21,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1426309,2024,2024-05-21,2,Kolkata Knight Riders,14,160.0,20.0,False,False,False,13,{}
+1426310,2024,2024-05-22,1,Royal Challengers Bengaluru,20,,,False,False,False,19,{}
+1426310,2024,2024-05-22,2,Rajasthan Royals,19,173.0,20.0,False,False,False,18,{}
+1426311,2024,2024-05-24,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1426311,2024,2024-05-24,2,Rajasthan Royals,20,176.0,20.0,False,False,False,19,{}
+1426312,2024,2024-05-26,1,Sunrisers Hyderabad,19,,,False,False,False,18,{}
+1426312,2024,2024-05-26,2,Kolkata Knight Riders,11,114.0,20.0,False,False,False,10,{}
+1473438,2025,2025-03-22,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1473438,2025,2025-03-22,2,Royal Challengers Bengaluru,17,175.0,20.0,False,False,False,16,{}
+1473439,2025,2025-03-23,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1473439,2025,2025-03-23,2,Rajasthan Royals,20,287.0,20.0,False,False,False,19,{}
+1473440,2025,2025-03-23,1,Mumbai Indians,20,,,False,False,False,19,{}
+1473440,2025,2025-03-23,2,Chennai Super Kings,20,156.0,20.0,False,False,False,19,{}
+1473441,2025,2025-03-24,1,Lucknow Super Giants,20,,,False,False,False,19,{}
+1473441,2025,2025-03-24,2,Delhi Capitals,20,210.0,20.0,False,False,False,19,{}
+1473442,2025,2025-03-25,1,Punjab Kings,20,,,False,False,False,19,{}
+1473442,2025,2025-03-25,2,Gujarat Titans,20,244.0,20.0,False,False,False,19,{}
+1473443,2025,2025-03-26,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1473443,2025,2025-03-26,2,Kolkata Knight Riders,18,152.0,20.0,False,False,False,17,{}
+1473444,2025,2025-03-27,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1473444,2025,2025-03-27,2,Lucknow Super Giants,17,191.0,20.0,False,False,False,16,{}
+1473445,2025,2025-03-28,1,Royal Challengers Bengaluru,20,,,False,False,False,19,{}
+1473445,2025,2025-03-28,2,Chennai Super Kings,20,197.0,20.0,False,False,False,19,{}
+1473446,2025,2025-03-29,1,Gujarat Titans,20,,,False,False,False,19,{}
+1473446,2025,2025-03-29,2,Mumbai Indians,20,197.0,20.0,False,False,False,19,{}
+1473447,2025,2025-03-30,1,Sunrisers Hyderabad,19,,,False,False,False,18,{}
+1473447,2025,2025-03-30,2,Delhi Capitals,16,164.0,20.0,False,False,False,15,{}
+1473448,2025,2025-03-30,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1473448,2025,2025-03-30,2,Chennai Super Kings,20,183.0,20.0,False,False,False,19,{}
+1473449,2025,2025-03-31,1,Kolkata Knight Riders,17,,,False,False,False,16,{}
+1473449,2025,2025-03-31,2,Mumbai Indians,13,117.0,20.0,False,False,False,12,{}
+1473450,2025,2025-04-01,1,Lucknow Super Giants,20,,,False,False,False,19,{}
+1473450,2025,2025-04-01,2,Punjab Kings,17,172.0,20.0,False,False,False,16,{}
+1473451,2025,2025-04-02,1,Royal Challengers Bengaluru,20,,,False,False,False,19,{}
+1473451,2025,2025-04-02,2,Gujarat Titans,18,170.0,20.0,False,False,False,17,{}
+1473452,2025,2025-04-03,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1473452,2025,2025-04-03,2,Sunrisers Hyderabad,17,201.0,20.0,False,False,False,16,{}
+1473453,2025,2025-04-04,1,Lucknow Super Giants,20,,,False,False,False,19,{}
+1473453,2025,2025-04-04,2,Mumbai Indians,20,204.0,20.0,False,False,False,19,{}
+1473454,2025,2025-04-05,1,Delhi Capitals,20,,,False,False,False,19,{}
+1473454,2025,2025-04-05,2,Chennai Super Kings,20,184.0,20.0,False,False,False,19,{}
+1473455,2025,2025-04-05,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1473455,2025,2025-04-05,2,Punjab Kings,20,206.0,20.0,False,False,False,19,{}
+1473456,2025,2025-04-08,1,Lucknow Super Giants,20,,,False,False,False,19,{}
+1473456,2025,2025-04-08,2,Kolkata Knight Riders,20,239.0,20.0,False,False,False,19,{}
+1473457,2025,2025-04-06,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1473457,2025,2025-04-06,2,Gujarat Titans,17,153.0,20.0,False,False,False,16,{}
+1473458,2025,2025-04-07,1,Royal Challengers Bengaluru,20,,,False,False,False,19,{}
+1473458,2025,2025-04-07,2,Mumbai Indians,20,222.0,20.0,False,False,False,19,{}
+1473459,2025,2025-04-08,1,Punjab Kings,20,,,False,False,False,19,{}
+1473459,2025,2025-04-08,2,Chennai Super Kings,20,220.0,20.0,False,False,False,19,{}
+1473460,2025,2025-04-09,1,Gujarat Titans,20,,,False,False,False,19,{}
+1473460,2025,2025-04-09,2,Rajasthan Royals,20,218.0,20.0,False,False,False,19,{}
+1473461,2025,2025-04-10,1,Royal Challengers Bengaluru,20,,,False,False,False,19,{}
+1473461,2025,2025-04-10,2,Delhi Capitals,18,164.0,20.0,False,False,False,17,{}
+1473462,2025,2025-04-11,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1473462,2025,2025-04-11,2,Kolkata Knight Riders,11,104.0,20.0,False,False,False,10,{}
+1473463,2025,2025-04-12,1,Gujarat Titans,20,,,False,False,False,19,{}
+1473463,2025,2025-04-12,2,Lucknow Super Giants,20,181.0,20.0,False,False,False,19,{}
+1473464,2025,2025-04-12,1,Punjab Kings,20,,,False,False,False,19,{}
+1473464,2025,2025-04-12,2,Sunrisers Hyderabad,19,246.0,20.0,False,False,False,18,{}
+1473465,2025,2025-04-13,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1473465,2025,2025-04-13,2,Royal Challengers Bengaluru,18,174.0,20.0,False,False,False,17,{}
+1473466,2025,2025-04-13,1,Mumbai Indians,20,,,False,False,False,19,{}
+1473466,2025,2025-04-13,2,Delhi Capitals,19,206.0,20.0,False,False,False,18,{}
+1473467,2025,2025-04-14,1,Lucknow Super Giants,20,,,False,False,False,19,{}
+1473467,2025,2025-04-14,2,Chennai Super Kings,20,167.0,20.0,False,False,False,19,{}
+1473468,2025,2025-04-15,1,Punjab Kings,16,,,False,False,False,15,{}
+1473468,2025,2025-04-15,2,Kolkata Knight Riders,16,112.0,20.0,False,False,False,15,{}
+1473469,2025,2025-04-16,1,Delhi Capitals,20,,,False,False,False,19,{}
+1473469,2025,2025-04-16,2,Rajasthan Royals,20,189.0,20.0,False,False,False,19,{}
+1473469,2025,2025-04-16,3,Rajasthan Royals,1,,,True,False,False,0,{}
+1473469,2025,2025-04-16,4,Delhi Capitals,1,,,True,False,False,0,{}
+1473470,2025,2025-04-17,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1473470,2025,2025-04-17,2,Mumbai Indians,19,163.0,20.0,False,False,False,18,{}
+1473471,2025,2025-04-18,1,Royal Challengers Bengaluru,14,,,False,False,False,13,{}
+1473471,2025,2025-04-18,2,Punjab Kings,13,96.0,14.0,False,False,False,12,{}
+1473472,2025,2025-04-19,1,Delhi Capitals,20,,,False,False,False,19,{}
+1473472,2025,2025-04-19,2,Gujarat Titans,20,204.0,20.0,False,False,False,19,{}
+1473473,2025,2025-04-19,1,Lucknow Super Giants,20,,,False,False,False,19,{}
+1473473,2025,2025-04-19,2,Rajasthan Royals,20,181.0,20.0,False,False,False,19,{}
+1473474,2025,2025-04-20,1,Punjab Kings,20,,,False,False,False,19,{}
+1473474,2025,2025-04-20,2,Royal Challengers Bengaluru,19,158.0,20.0,False,False,False,18,{}
+1473475,2025,2025-04-20,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1473475,2025,2025-04-20,2,Mumbai Indians,16,177.0,20.0,False,False,False,15,{}
+1473476,2025,2025-04-21,1,Gujarat Titans,20,,,False,False,False,19,{}
+1473476,2025,2025-04-21,2,Kolkata Knight Riders,20,199.0,20.0,False,False,False,19,{}
+1473477,2025,2025-04-22,1,Lucknow Super Giants,20,,,False,False,False,19,{}
+1473477,2025,2025-04-22,2,Delhi Capitals,18,160.0,20.0,False,False,False,17,{}
+1473478,2025,2025-04-23,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1473478,2025,2025-04-23,2,Mumbai Indians,16,144.0,20.0,False,False,False,15,{}
+1473479,2025,2025-04-24,1,Royal Challengers Bengaluru,20,,,False,False,False,19,{}
+1473479,2025,2025-04-24,2,Rajasthan Royals,20,206.0,20.0,False,False,False,19,{}
+1473480,2025,2025-04-25,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1473480,2025,2025-04-25,2,Sunrisers Hyderabad,19,155.0,20.0,False,False,False,18,{}
+1473481,2025,2025-04-26,1,Punjab Kings,20,,,False,False,False,19,{}
+1473481,2025,2025-04-26,2,Kolkata Knight Riders,1,202.0,20.0,False,False,False,0,{}
+1473482,2025,2025-04-27,1,Mumbai Indians,20,,,False,False,False,19,{}
+1473482,2025,2025-04-27,2,Lucknow Super Giants,20,216.0,20.0,False,False,False,19,{}
+1473483,2025,2025-04-27,1,Delhi Capitals,20,,,False,False,False,19,{}
+1473483,2025,2025-04-27,2,Royal Challengers Bengaluru,19,163.0,20.0,False,False,False,18,{}
+1473484,2025,2025-04-28,1,Gujarat Titans,20,,,False,False,False,19,{}
+1473484,2025,2025-04-28,2,Rajasthan Royals,16,210.0,20.0,False,False,False,15,{}
+1473485,2025,2025-04-29,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1473485,2025,2025-04-29,2,Delhi Capitals,20,205.0,20.0,False,False,False,19,{}
+1473486,2025,2025-04-30,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1473486,2025,2025-04-30,2,Punjab Kings,20,191.0,20.0,False,False,False,19,{}
+1473487,2025,2025-05-01,1,Mumbai Indians,20,,,False,False,False,19,{}
+1473487,2025,2025-05-01,2,Rajasthan Royals,17,218.0,20.0,False,False,False,16,{}
+1473488,2025,2025-05-02,1,Gujarat Titans,20,,,False,False,False,19,{}
+1473488,2025,2025-05-02,2,Sunrisers Hyderabad,20,225.0,20.0,False,False,False,19,{}
+1473489,2025,2025-05-03,1,Royal Challengers Bengaluru,20,,,False,False,False,19,{}
+1473489,2025,2025-05-03,2,Chennai Super Kings,20,214.0,20.0,False,False,False,19,{}
+1473490,2025,2025-05-04,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1473490,2025,2025-05-04,2,Rajasthan Royals,20,207.0,20.0,False,False,False,19,{}
+1473491,2025,2025-05-04,1,Punjab Kings,20,,,False,False,False,19,{}
+1473491,2025,2025-05-04,2,Lucknow Super Giants,20,237.0,20.0,False,False,False,19,{}
+1473492,2025,2025-05-05,1,Delhi Capitals,20,,,False,False,False,19,{}
+1473493,2025,2025-05-06,1,Mumbai Indians,20,,,False,False,False,19,{}
+1473493,2025,2025-05-06,2,Gujarat Titans,19,147.0,19.0,False,False,False,18,{}
+1473494,2025,2025-05-07,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1473494,2025,2025-05-07,2,Chennai Super Kings,20,180.0,20.0,False,False,False,19,{}
+1473495,2025,2025-05-08,1,Punjab Kings,11,,,False,False,False,10,{}
+1473497,2025,2025-05-18,1,Punjab Kings,20,,,False,False,False,19,{}
+1473497,2025,2025-05-18,2,Rajasthan Royals,20,220.0,20.0,False,False,False,19,{}
+1473498,2025,2025-05-18,1,Delhi Capitals,20,,,False,False,False,19,{}
+1473498,2025,2025-05-18,2,Gujarat Titans,19,200.0,20.0,False,False,False,18,{}
+1473499,2025,2025-05-19,1,Lucknow Super Giants,20,,,False,False,False,19,{}
+1473499,2025,2025-05-19,2,Sunrisers Hyderabad,19,206.0,20.0,False,False,False,18,{}
+1473500,2025,2025-05-20,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1473500,2025,2025-05-20,2,Rajasthan Royals,18,188.0,20.0,False,False,False,17,{}
+1473501,2025,2025-05-21,1,Mumbai Indians,20,,,False,False,False,19,{}
+1473501,2025,2025-05-21,2,Delhi Capitals,19,181.0,20.0,False,False,False,18,{}
+1473502,2025,2025-05-22,1,Lucknow Super Giants,20,,,False,False,False,19,{}
+1473502,2025,2025-05-22,2,Gujarat Titans,20,236.0,20.0,False,False,False,19,{}
+1473503,2025,2025-05-23,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1473503,2025,2025-05-23,2,Royal Challengers Bengaluru,20,232.0,20.0,False,False,False,19,{}
+1473504,2025,2025-05-25,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1473504,2025,2025-05-25,2,Gujarat Titans,19,231.0,20.0,False,False,False,18,{}
+1473505,2025,2025-05-25,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1473505,2025,2025-05-25,2,Kolkata Knight Riders,19,279.0,20.0,False,False,False,18,{}
+1473506,2025,2025-05-26,1,Mumbai Indians,20,,,False,False,False,19,{}
+1473506,2025,2025-05-26,2,Punjab Kings,19,185.0,20.0,False,False,False,18,{}
+1473507,2025,2025-05-27,1,Lucknow Super Giants,20,,,False,False,False,19,{}
+1473507,2025,2025-05-27,2,Royal Challengers Bengaluru,19,228.0,20.0,False,False,False,18,{}
+1473508,2025,2025-05-29,1,Punjab Kings,15,,,False,False,False,14,{}
+1473508,2025,2025-05-29,2,Royal Challengers Bengaluru,10,102.0,20.0,False,False,False,9,{}
+1473509,2025,2025-05-30,1,Mumbai Indians,20,,,False,False,False,19,{}
+1473509,2025,2025-05-30,2,Gujarat Titans,20,229.0,20.0,False,False,False,19,{}
+1473510,2025,2025-06-01,1,Mumbai Indians,20,,,False,False,False,19,{}
+1473510,2025,2025-06-01,2,Punjab Kings,19,204.0,20.0,False,False,False,18,{}
+1473511,2025,2025-06-03,1,Royal Challengers Bengaluru,20,,,False,False,False,19,{}
+1473511,2025,2025-06-03,2,Punjab Kings,20,191.0,20.0,False,False,False,19,{}
+1485779,2025,2025-05-24,1,Punjab Kings,20,,,False,False,False,19,{}
+1485779,2025,2025-05-24,2,Delhi Capitals,20,207.0,20.0,False,False,False,19,{}
+1527674,2026,2026-03-28,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1527674,2026,2026-03-28,2,Royal Challengers Bengaluru,16,202.0,20.0,False,False,False,15,{}
+1527675,2026,2026-03-29,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1527675,2026,2026-03-29,2,Mumbai Indians,20,221.0,20.0,False,False,False,19,{}
+1527676,2026,2026-03-30,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1527676,2026,2026-03-30,2,Rajasthan Royals,13,128.0,20.0,False,False,False,12,{}
+1527677,2026,2026-03-31,1,Gujarat Titans,20,,,False,False,False,19,{}
+1527677,2026,2026-03-31,2,Punjab Kings,20,163.0,20.0,False,False,False,19,{}
+1527678,2026,2026-04-01,1,Lucknow Super Giants,19,,,False,False,False,18,{}
+1527678,2026,2026-04-01,2,Delhi Capitals,18,142.0,20.0,False,False,False,17,{}
+1527679,2026,2026-04-02,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1527679,2026,2026-04-02,2,Kolkata Knight Riders,16,227.0,20.0,False,False,False,15,{}
+1527680,2026,2026-04-03,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1527680,2026,2026-04-03,2,Punjab Kings,19,210.0,20.0,False,False,False,18,{}
+1527681,2026,2026-04-04,1,Mumbai Indians,20,,,False,False,False,19,{}
+1527681,2026,2026-04-04,2,Delhi Capitals,19,163.0,20.0,False,False,False,18,{}
+1527682,2026,2026-04-04,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1527682,2026,2026-04-04,2,Gujarat Titans,20,211.0,20.0,False,False,False,19,{}
+1527683,2026,2026-04-05,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1527683,2026,2026-04-05,2,Lucknow Super Giants,20,157.0,20.0,False,False,False,19,{}
+1527684,2026,2026-04-05,1,Royal Challengers Bengaluru,20,,,False,False,False,19,{}
+1527684,2026,2026-04-05,2,Chennai Super Kings,20,251.0,20.0,False,False,False,19,{}
+1527685,2026,2026-04-06,1,Kolkata Knight Riders,4,,,False,False,False,3,{}
+1527686,2026,2026-04-07,1,Rajasthan Royals,11,,,False,False,False,10,{}
+1527686,2026,2026-04-07,2,Mumbai Indians,11,151.0,11.0,False,False,False,10,{}
+1527687,2026,2026-04-08,1,Gujarat Titans,20,,,False,False,False,19,{}
+1527687,2026,2026-04-08,2,Delhi Capitals,20,211.0,20.0,False,False,False,19,{}
+1527688,2026,2026-04-09,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1527688,2026,2026-04-09,2,Lucknow Super Giants,20,182.0,20.0,False,False,False,19,{}
+1527689,2026,2026-04-10,1,Royal Challengers Bengaluru,20,,,False,False,False,19,{}
+1527689,2026,2026-04-10,2,Rajasthan Royals,18,202.0,20.0,False,False,False,17,{}
+1527690,2026,2026-04-11,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1527690,2026,2026-04-11,2,Punjab Kings,19,220.0,20.0,False,False,False,18,{}
+1527691,2026,2026-04-11,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1527691,2026,2026-04-11,2,Delhi Capitals,20,213.0,20.0,False,False,False,19,{}
+1527692,2026,2026-04-12,1,Lucknow Super Giants,20,,,False,False,False,19,{}
+1527692,2026,2026-04-12,2,Gujarat Titans,19,165.0,20.0,False,False,False,18,{}
+1527693,2026,2026-04-12,1,Royal Challengers Bengaluru,20,,,False,False,False,19,{}
+1527693,2026,2026-04-12,2,Mumbai Indians,20,241.0,20.0,False,False,False,19,{}
+1529264,2026,2026-04-13,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1529264,2026,2026-04-13,2,Rajasthan Royals,19,217.0,20.0,False,False,False,18,{}
+1529265,2026,2026-04-14,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1529265,2026,2026-04-14,2,Kolkata Knight Riders,20,193.0,20.0,False,False,False,19,{}
+1529266,2026,2026-04-15,1,Lucknow Super Giants,20,,,False,False,False,19,{}
+1529266,2026,2026-04-15,2,Royal Challengers Bengaluru,16,147.0,20.0,False,False,False,15,{}
+1529267,2026,2026-04-16,1,Mumbai Indians,20,,,False,False,False,19,{}
+1529267,2026,2026-04-16,2,Punjab Kings,17,196.0,20.0,False,False,False,16,{}
+1529268,2026,2026-04-17,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1529268,2026,2026-04-17,2,Gujarat Titans,20,181.0,20.0,False,False,False,19,{}
+1529269,2026,2026-04-18,1,Royal Challengers Bengaluru,20,,,False,False,False,19,{}
+1529269,2026,2026-04-18,2,Delhi Capitals,20,176.0,20.0,False,False,False,19,{}
+1529270,2026,2026-04-18,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1529270,2026,2026-04-18,2,Chennai Super Kings,20,195.0,20.0,False,False,False,19,{}
+1529271,2026,2026-04-19,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1529271,2026,2026-04-19,2,Kolkata Knight Riders,20,156.0,20.0,False,False,False,19,{}
+1529272,2026,2026-04-19,1,Punjab Kings,20,,,False,False,False,19,{}
+1529272,2026,2026-04-19,2,Lucknow Super Giants,20,255.0,20.0,False,False,False,19,{}
+1529273,2026,2026-04-20,1,Mumbai Indians,20,,,False,False,False,19,{}
+1529273,2026,2026-04-20,2,Gujarat Titans,16,200.0,20.0,False,False,False,15,{}
+1529274,2026,2026-04-21,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1529274,2026,2026-04-21,2,Delhi Capitals,20,243.0,20.0,False,False,False,19,{}
+1529275,2026,2026-04-22,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1529275,2026,2026-04-22,2,Lucknow Super Giants,18,160.0,20.0,False,False,False,17,{}
+1529276,2026,2026-04-23,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1529276,2026,2026-04-23,2,Mumbai Indians,19,208.0,20.0,False,False,False,18,{}
+1529277,2026,2026-04-24,1,Gujarat Titans,20,,,False,False,False,19,{}
+1529277,2026,2026-04-24,2,Royal Challengers Bengaluru,19,206.0,20.0,False,False,False,18,{}
+1529278,2026,2026-04-25,1,Delhi Capitals,20,,,False,False,False,19,{}
+1529278,2026,2026-04-25,2,Punjab Kings,19,265.0,20.0,False,False,False,18,{}
+1529279,2026,2026-04-25,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1529279,2026,2026-04-25,2,Sunrisers Hyderabad,19,229.0,20.0,False,False,False,18,{}
+1529280,2026,2026-04-26,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1529280,2026,2026-04-26,2,Gujarat Titans,17,159.0,20.0,False,False,False,16,{}
+1529281,2026,2026-04-26,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1529281,2026,2026-04-26,2,Lucknow Super Giants,20,156.0,20.0,False,False,False,19,{}
+1529281,2026,2026-04-26,3,Lucknow Super Giants,1,,,True,False,False,0,{}
+1529281,2026,2026-04-26,4,Kolkata Knight Riders,1,,,True,False,False,0,{}
+1529282,2026,2026-04-27,1,Delhi Capitals,17,,,False,False,False,16,{}
+1529282,2026,2026-04-27,2,Royal Challengers Bengaluru,7,76.0,20.0,False,False,False,6,{}
+1529283,2026,2026-04-28,1,Punjab Kings,20,,,False,False,False,19,{}
+1529283,2026,2026-04-28,2,Rajasthan Royals,20,223.0,20.0,False,False,False,19,{}
+1529284,2026,2026-04-29,1,Mumbai Indians,20,,,False,False,False,19,{}
+1529284,2026,2026-04-29,2,Sunrisers Hyderabad,19,244.0,20.0,False,False,False,18,{}
+1529285,2026,2026-04-30,1,Royal Challengers Bengaluru,20,,,False,False,False,19,{}
+1529285,2026,2026-04-30,2,Gujarat Titans,16,156.0,20.0,False,False,False,15,{}
+1529286,2026,2026-05-01,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1529286,2026,2026-05-01,2,Delhi Capitals,20,226.0,20.0,False,False,False,19,{}
+1529287,2026,2026-05-02,1,Mumbai Indians,20,,,False,False,False,19,{}
+1529287,2026,2026-05-02,2,Chennai Super Kings,19,160.0,20.0,False,False,False,18,{}
+1529288,2026,2026-05-03,1,Sunrisers Hyderabad,19,,,False,False,False,18,{}
+1529288,2026,2026-05-03,2,Kolkata Knight Riders,19,166.0,20.0,False,False,False,18,{}
+1529289,2026,2026-05-03,1,Punjab Kings,20,,,False,False,False,19,{}
+1529289,2026,2026-05-03,2,Gujarat Titans,20,164.0,20.0,False,False,False,19,{}
+1529290,2026,2026-05-04,1,Lucknow Super Giants,20,,,False,False,False,19,{}
+1529290,2026,2026-05-04,2,Mumbai Indians,19,229.0,20.0,False,False,False,18,{}
+1529291,2026,2026-05-05,1,Delhi Capitals,20,,,False,False,False,19,{}
+1529291,2026,2026-05-05,2,Chennai Super Kings,18,156.0,20.0,False,False,False,17,{}
+1529292,2026,2026-05-06,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1529292,2026,2026-05-06,2,Punjab Kings,20,236.0,20.0,False,False,False,19,{}
+1529293,2026,2026-05-07,1,Lucknow Super Giants,19,,,False,False,False,18,{}
+1529293,2026,2026-05-07,2,Royal Challengers Bengaluru,19,213.0,19.0,False,False,False,18,{}
+1529294,2026,2026-05-08,1,Delhi Capitals,20,,,False,False,False,19,{}
+1529294,2026,2026-05-08,2,Kolkata Knight Riders,15,143.0,20.0,False,False,False,14,{}
+1529295,2026,2026-05-09,1,Gujarat Titans,20,,,False,False,False,19,{}
+1529295,2026,2026-05-09,2,Rajasthan Royals,17,230.0,20.0,False,False,False,16,{}
+1529296,2026,2026-05-10,1,Lucknow Super Giants,20,,,False,False,False,19,{}
+1529296,2026,2026-05-10,2,Chennai Super Kings,20,204.0,20.0,False,False,False,19,{}
+1529297,2026,2026-05-10,1,Mumbai Indians,20,,,False,False,False,19,{}
+1529297,2026,2026-05-10,2,Royal Challengers Bengaluru,20,167.0,20.0,False,False,False,19,{}
+1529298,2026,2026-05-11,1,Punjab Kings,20,,,False,False,False,19,{}
+1529298,2026,2026-05-11,2,Delhi Capitals,19,211.0,20.0,False,False,False,18,{}
+1529299,2026,2026-05-12,1,Gujarat Titans,20,,,False,False,False,19,{}
+1529299,2026,2026-05-12,2,Sunrisers Hyderabad,15,169.0,20.0,False,False,False,14,{}
+1529300,2026,2026-05-13,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1529300,2026,2026-05-13,2,Royal Challengers Bengaluru,20,193.0,20.0,False,False,False,19,{}
+1529301,2026,2026-05-14,1,Punjab Kings,20,,,False,False,False,19,{}
+1529301,2026,2026-05-14,2,Mumbai Indians,20,201.0,20.0,False,False,False,19,{}
+1529302,2026,2026-05-15,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1529302,2026,2026-05-15,2,Lucknow Super Giants,17,188.0,20.0,False,False,False,16,{}
+1529303,2026,2026-05-16,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+1529303,2026,2026-05-16,2,Gujarat Titans,20,248.0,20.0,False,False,False,19,{}
+1529304,2026,2026-05-17,1,Royal Challengers Bengaluru,20,,,False,False,False,19,{}
+1529304,2026,2026-05-17,2,Punjab Kings,20,223.0,20.0,False,False,False,19,{}
+1529305,2026,2026-05-17,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1529305,2026,2026-05-17,2,Delhi Capitals,20,194.0,20.0,False,False,False,19,{}
+1529306,2026,2026-05-18,1,Chennai Super Kings,20,,,False,False,False,19,{}
+1529306,2026,2026-05-18,2,Sunrisers Hyderabad,19,181.0,20.0,False,False,False,18,{}
+1529307,2026,2026-05-19,1,Lucknow Super Giants,20,,,False,False,False,19,{}
+1529307,2026,2026-05-19,2,Rajasthan Royals,20,221.0,20.0,False,False,False,19,{}
+1529308,2026,2026-05-20,1,Mumbai Indians,20,,,False,False,False,19,{}
+1529308,2026,2026-05-20,2,Kolkata Knight Riders,19,148.0,20.0,False,False,False,18,{}
+1529309,2026,2026-05-21,1,Gujarat Titans,20,,,False,False,False,19,{}
+1529309,2026,2026-05-21,2,Chennai Super Kings,14,230.0,20.0,False,False,False,13,{}
+1529310,2026,2026-05-22,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+1529310,2026,2026-05-22,2,Royal Challengers Bengaluru,20,256.0,20.0,False,False,False,19,{}
+1529311,2026,2026-05-23,1,Lucknow Super Giants,20,,,False,False,False,19,{}
+1529311,2026,2026-05-23,2,Punjab Kings,18,197.0,20.0,False,False,False,17,{}
+1529312,2026,2026-05-24,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1529312,2026,2026-05-24,2,Mumbai Indians,20,206.0,20.0,False,False,False,19,{}
+1529313,2026,2026-05-24,1,Delhi Capitals,20,,,False,False,False,19,{}
+1529313,2026,2026-05-24,2,Kolkata Knight Riders,19,204.0,20.0,False,False,False,18,{}
+1535462,2026,2026-05-26,1,Royal Challengers Bengaluru,20,,,False,False,False,19,{}
+1535462,2026,2026-05-26,2,Gujarat Titans,20,255.0,20.0,False,False,False,19,{}
+1535463,2026,2026-05-27,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1535463,2026,2026-05-27,2,Sunrisers Hyderabad,20,244.0,20.0,False,False,False,19,{}
+1535464,2026,2026-05-29,1,Rajasthan Royals,20,,,False,False,False,19,{}
+1535464,2026,2026-05-29,2,Gujarat Titans,19,215.0,20.0,False,False,False,18,{}
+1535465,2026,2026-05-31,1,Gujarat Titans,20,,,False,False,False,19,{}
+1535465,2026,2026-05-31,2,Royal Challengers Bengaluru,18,156.0,20.0,False,False,False,17,{}
+335982,2007/08,2008-04-18,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+335982,2007/08,2008-04-18,2,Royal Challengers Bangalore,16,223.0,20.0,False,False,False,15,{}
+335983,2007/08,2008-04-19,1,Chennai Super Kings,20,,,False,False,False,19,{}
+335983,2007/08,2008-04-19,2,Kings XI Punjab,20,241.0,20.0,False,False,False,19,{}
+335984,2007/08,2008-04-19,1,Rajasthan Royals,20,,,False,False,False,19,{}
+335984,2007/08,2008-04-19,2,Delhi Daredevils,16,130.0,20.0,False,False,False,15,{}
+335985,2007/08,2008-04-20,1,Mumbai Indians,20,,,False,False,False,19,{}
+335985,2007/08,2008-04-20,2,Royal Challengers Bangalore,20,166.0,20.0,False,False,False,19,{}
+335986,2007/08,2008-04-20,1,Deccan Chargers,19,,,False,False,False,18,{}
+335986,2007/08,2008-04-20,2,Kolkata Knight Riders,19,111.0,20.0,False,False,False,18,{}
+335987,2007/08,2008-04-21,1,Kings XI Punjab,20,,,False,False,False,19,{}
+335987,2007/08,2008-04-21,2,Rajasthan Royals,19,167.0,20.0,False,False,False,18,{}
+335988,2007/08,2008-04-22,1,Deccan Chargers,20,,,False,False,False,19,{}
+335988,2007/08,2008-04-22,2,Delhi Daredevils,14,143.0,20.0,False,False,False,13,{}
+335989,2007/08,2008-04-23,1,Chennai Super Kings,20,,,False,False,False,19,{}
+335989,2007/08,2008-04-23,2,Mumbai Indians,20,209.0,20.0,False,False,False,19,{}
+335990,2007/08,2008-04-24,1,Deccan Chargers,20,,,False,False,False,19,{}
+335990,2007/08,2008-04-24,2,Rajasthan Royals,20,215.0,20.0,False,False,False,19,{}
+335991,2007/08,2008-04-25,1,Kings XI Punjab,20,,,False,False,False,19,{}
+335991,2007/08,2008-04-25,2,Mumbai Indians,20,183.0,20.0,False,False,False,19,{}
+335992,2007/08,2008-04-26,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+335992,2007/08,2008-04-26,2,Rajasthan Royals,18,136.0,20.0,False,False,False,17,{}
+335993,2007/08,2008-04-26,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+335993,2007/08,2008-04-26,2,Chennai Super Kings,17,148.0,20.0,False,False,False,16,{}
+335994,2007/08,2008-04-27,1,Mumbai Indians,20,,,False,False,False,19,{}
+335994,2007/08,2008-04-27,2,Deccan Chargers,12,155.0,20.0,False,False,False,11,{}
+335995,2007/08,2008-04-27,1,Delhi Daredevils,20,,,False,False,False,19,{}
+335995,2007/08,2008-04-27,2,Kings XI Punjab,20,159.0,20.0,False,False,False,19,{}
+335996,2007/08,2008-04-28,1,Chennai Super Kings,20,,,False,False,False,19,{}
+335996,2007/08,2008-04-28,2,Royal Challengers Bangalore,20,179.0,20.0,False,False,False,19,{}
+335997,2007/08,2008-04-29,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+335997,2007/08,2008-04-29,2,Mumbai Indians,19,138.0,20.0,False,False,False,18,{}
+335998,2007/08,2008-04-30,1,Delhi Daredevils,20,,,False,False,False,19,{}
+335998,2007/08,2008-04-30,2,Royal Challengers Bangalore,20,192.0,20.0,False,False,False,19,{}
+335999,2007/08,2008-05-01,1,Deccan Chargers,20,,,False,False,False,19,{}
+335999,2007/08,2008-05-01,2,Kings XI Punjab,19,165.0,20.0,False,False,False,18,{}
+336000,2007/08,2008-05-01,1,Rajasthan Royals,20,,,False,False,False,19,{}
+336000,2007/08,2008-05-01,2,Kolkata Knight Riders,20,197.0,20.0,False,False,False,19,{}
+336001,2007/08,2008-05-02,1,Chennai Super Kings,20,,,False,False,False,19,{}
+336001,2007/08,2008-05-02,2,Delhi Daredevils,19,170.0,20.0,False,False,False,18,{}
+336002,2007/08,2008-05-25,1,Deccan Chargers,20,,,False,False,False,19,{}
+336002,2007/08,2008-05-25,2,Royal Challengers Bangalore,19,166.0,20.0,False,False,False,18,{}
+336003,2007/08,2008-05-03,1,Kings XI Punjab,20,,,False,False,False,19,{}
+336003,2007/08,2008-05-03,2,Kolkata Knight Riders,20,179.0,20.0,False,False,False,19,{}
+336004,2007/08,2008-05-04,1,Mumbai Indians,20,,,False,False,False,19,{}
+336004,2007/08,2008-05-04,2,Delhi Daredevils,19,163.0,20.0,False,False,False,18,{}
+336005,2007/08,2008-05-04,1,Chennai Super Kings,19,,,False,False,False,18,{}
+336005,2007/08,2008-05-04,2,Rajasthan Royals,15,110.0,20.0,False,False,False,14,{}
+336006,2007/08,2008-05-05,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+336006,2007/08,2008-05-05,2,Kings XI Punjab,19,127.0,20.0,False,False,False,18,{}
+336007,2007/08,2008-05-06,1,Chennai Super Kings,20,,,False,False,False,19,{}
+336007,2007/08,2008-05-06,2,Deccan Chargers,18,145.0,20.0,False,False,False,17,{}
+336008,2007/08,2008-05-07,1,Rajasthan Royals,17,,,False,False,False,16,{}
+336008,2007/08,2008-05-07,2,Mumbai Indians,16,104.0,20.0,False,False,False,15,{}
+336009,2007/08,2008-05-08,1,Delhi Daredevils,20,,,False,False,False,19,{}
+336009,2007/08,2008-05-08,2,Chennai Super Kings,20,188.0,20.0,False,False,False,19,{}
+336010,2007/08,2008-05-08,1,Kolkata Knight Riders,16,,,False,False,False,15,{}
+336010,2007/08,2008-05-08,2,Royal Challengers Bangalore,16,130.0,16.0,False,False,False,15,{}
+336011,2007/08,2008-05-09,1,Deccan Chargers,20,,,False,False,False,19,{}
+336011,2007/08,2008-05-09,2,Rajasthan Royals,16,141.0,20.0,False,False,False,15,{}
+336012,2007/08,2008-05-28,1,Royal Challengers Bangalore,18,,,False,False,False,17,{}
+336012,2007/08,2008-05-28,2,Mumbai Indians,16,123.0,18.0,False,False,False,15,{}
+336013,2007/08,2008-05-10,1,Chennai Super Kings,20,,,False,False,False,19,{}
+336013,2007/08,2008-05-10,2,Kings XI Punjab,20,182.0,20.0,False,False,False,19,{}
+336014,2007/08,2008-05-11,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+336014,2007/08,2008-05-11,2,Deccan Chargers,20,205.0,20.0,False,False,False,19,{}
+336015,2007/08,2008-05-11,1,Delhi Daredevils,20,,,False,False,False,19,{}
+336015,2007/08,2008-05-11,2,Rajasthan Royals,20,157.0,20.0,False,False,False,19,{}
+336016,2007/08,2008-05-12,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+336016,2007/08,2008-05-12,2,Kings XI Punjab,16,144.0,20.0,False,False,False,15,{}
+336017,2007/08,2008-05-13,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+336017,2007/08,2008-05-13,2,Delhi Daredevils,18,134.0,20.0,False,False,False,17,{}
+336018,2007/08,2008-05-14,1,Chennai Super Kings,20,,,False,False,False,19,{}
+336018,2007/08,2008-05-14,2,Mumbai Indians,14,157.0,20.0,False,False,False,13,{}
+336019,2007/08,2008-05-28,1,Kings XI Punjab,20,,,False,False,False,19,{}
+336019,2007/08,2008-05-28,2,Rajasthan Royals,20,222.0,20.0,False,False,False,19,{}
+336020,2007/08,2008-05-15,1,Delhi Daredevils,20,,,False,False,False,19,{}
+336020,2007/08,2008-05-15,2,Deccan Chargers,20,195.0,20.0,False,False,False,19,{}
+336021,2007/08,2008-05-16,1,Kolkata Knight Riders,16,,,False,False,False,15,{}
+336021,2007/08,2008-05-16,2,Mumbai Indians,6,68.0,20.0,False,False,False,5,{}
+336022,2007/08,2008-05-17,1,Delhi Daredevils,11,,,False,False,False,10,{}
+336022,2007/08,2008-05-17,2,Kings XI Punjab,8,89.0,8.0,False,False,False,7,{}
+336023,2007/08,2008-05-17,1,Rajasthan Royals,20,,,False,False,False,19,{}
+336023,2007/08,2008-05-17,2,Royal Challengers Bangalore,20,198.0,20.0,False,False,False,19,{}
+336024,2007/08,2008-05-18,1,Mumbai Indians,20,,,False,False,False,19,{}
+336024,2007/08,2008-05-18,2,Deccan Chargers,20,179.0,20.0,False,False,False,19,{}
+336025,2007/08,2008-05-18,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+336025,2007/08,2008-05-18,2,Chennai Super Kings,8,53.0,8.0,False,False,False,7,{}
+336026,2007/08,2008-05-19,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+336026,2007/08,2008-05-19,2,Delhi Daredevils,19,155.0,20.0,False,False,False,18,{}
+336027,2007/08,2008-05-20,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+336027,2007/08,2008-05-20,2,Rajasthan Royals,17,148.0,20.0,False,False,False,16,{}
+336028,2007/08,2008-05-21,1,Kings XI Punjab,20,,,False,False,False,19,{}
+336028,2007/08,2008-05-21,2,Mumbai Indians,20,190.0,20.0,False,False,False,19,{}
+336029,2007/08,2008-05-21,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+336029,2007/08,2008-05-21,2,Chennai Super Kings,20,127.0,20.0,False,False,False,19,{}
+336031,2007/08,2008-05-23,1,Deccan Chargers,20,,,False,False,False,19,{}
+336031,2007/08,2008-05-23,2,Kings XI Punjab,20,176.0,20.0,False,False,False,19,{}
+336032,2007/08,2008-05-24,1,Mumbai Indians,20,,,False,False,False,19,{}
+336032,2007/08,2008-05-24,2,Delhi Daredevils,20,177.0,20.0,False,False,False,19,{}
+336033,2007/08,2008-05-24,1,Rajasthan Royals,20,,,False,False,False,19,{}
+336033,2007/08,2008-05-24,2,Chennai Super Kings,20,212.0,20.0,False,False,False,19,{}
+336034,2007/08,2008-05-03,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+336034,2007/08,2008-05-03,2,Deccan Chargers,20,157.0,20.0,False,False,False,19,{}
+336035,2007/08,2008-05-25,1,Kings XI Punjab,20,,,False,False,False,19,{}
+336035,2007/08,2008-05-25,2,Kolkata Knight Riders,20,175.0,20.0,False,False,False,19,{}
+336036,2007/08,2008-05-26,1,Mumbai Indians,20,,,False,False,False,19,{}
+336036,2007/08,2008-05-26,2,Rajasthan Royals,20,146.0,20.0,False,False,False,19,{}
+336037,2007/08,2008-05-27,1,Deccan Chargers,20,,,False,False,False,19,{}
+336037,2007/08,2008-05-27,2,Chennai Super Kings,20,148.0,20.0,False,False,False,19,{}
+336038,2007/08,2008-05-30,1,Rajasthan Royals,20,,,False,False,False,19,{}
+336038,2007/08,2008-05-30,2,Delhi Daredevils,17,193.0,20.0,False,False,False,16,{}
+336039,2007/08,2008-05-31,1,Kings XI Punjab,20,,,False,False,False,19,{}
+336039,2007/08,2008-05-31,2,Chennai Super Kings,15,113.0,20.0,False,False,False,14,{}
+336040,2007/08,2008-06-01,1,Chennai Super Kings,20,,,False,False,False,19,{}
+336040,2007/08,2008-06-01,2,Rajasthan Royals,20,164.0,20.0,False,False,False,19,{}
+392181,2009,2009-04-18,1,Mumbai Indians,20,,,False,False,False,19,{}
+392181,2009,2009-04-18,2,Chennai Super Kings,20,166.0,20.0,False,False,False,19,{}
+392182,2009,2009-04-18,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+392182,2009,2009-04-18,2,Rajasthan Royals,16,134.0,20.0,False,False,False,15,{}
+392183,2009,2009-04-19,1,Kings XI Punjab,12,,,False,False,False,11,{}
+392183,2009,2009-04-19,2,Delhi Daredevils,5,54.0,6.0,False,False,False,4,{}
+392184,2009,2009-04-19,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+392184,2009,2009-04-19,2,Deccan Chargers,14,102.0,20.0,False,False,False,13,{}
+392185,2009,2009-04-20,1,Chennai Super Kings,20,,,False,False,False,19,{}
+392185,2009,2009-04-20,2,Royal Challengers Bangalore,16,180.0,20.0,False,False,False,15,{}
+392186,2009,2009-04-21,1,Kings XI Punjab,20,,,False,False,False,19,{}
+392186,2009,2009-04-21,2,Kolkata Knight Riders,10,69.0,9.2,False,False,False,9,{}
+392188,2009,2009-04-22,1,Deccan Chargers,20,,,False,False,False,19,{}
+392188,2009,2009-04-22,2,Royal Challengers Bangalore,20,185.0,20.0,False,False,False,19,{}
+392189,2009,2009-04-23,1,Delhi Daredevils,20,,,False,False,False,19,{}
+392189,2009,2009-04-23,2,Chennai Super Kings,20,190.0,20.0,False,False,False,19,{}
+392190,2009,2009-04-23,1,Rajasthan Royals,20,,,False,False,False,19,{}
+392190,2009,2009-04-23,2,Kolkata Knight Riders,20,151.0,20.0,False,False,False,19,{}
+392190,2009,2009-04-23,3,Kolkata Knight Riders,1,,,True,False,False,0,{}
+392190,2009,2009-04-23,4,Rajasthan Royals,1,,,True,False,False,0,{}
+392191,2009,2009-04-24,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+392191,2009,2009-04-24,2,Kings XI Punjab,19,169.0,20.0,False,False,False,18,{}
+392192,2009,2009-04-25,1,Deccan Chargers,20,,,False,False,False,19,{}
+392192,2009,2009-04-25,2,Mumbai Indians,20,169.0,20.0,False,False,False,19,{}
+392194,2009,2009-04-26,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+392194,2009,2009-04-26,2,Delhi Daredevils,20,150.0,20.0,False,False,False,19,{}
+392195,2009,2009-04-26,1,Kings XI Punjab,20,,,False,False,False,19,{}
+392195,2009,2009-04-26,2,Rajasthan Royals,20,140.0,20.0,False,False,False,19,{}
+392196,2009,2009-04-27,1,Chennai Super Kings,20,,,False,False,False,19,{}
+392196,2009,2009-04-27,2,Deccan Chargers,20,166.0,20.0,False,False,False,19,{}
+392197,2009,2009-04-27,1,Mumbai Indians,20,,,False,False,False,19,{}
+392197,2009,2009-04-27,2,Kolkata Knight Riders,16,188.0,20.0,False,False,False,15,{}
+392198,2009,2009-04-28,1,Delhi Daredevils,20,,,False,False,False,19,{}
+392198,2009,2009-04-28,2,Rajasthan Royals,19,144.0,20.0,False,False,False,18,{}
+392199,2009,2009-04-29,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+392199,2009,2009-04-29,2,Royal Challengers Bangalore,20,140.0,20.0,False,False,False,19,{}
+392200,2009,2009-04-29,1,Kings XI Punjab,20,,,False,False,False,19,{}
+392200,2009,2009-04-29,2,Mumbai Indians,20,120.0,20.0,False,False,False,19,{}
+392201,2009,2009-04-30,1,Deccan Chargers,20,,,False,False,False,19,{}
+392201,2009,2009-04-30,2,Delhi Daredevils,19,149.0,20.0,False,False,False,18,{}
+392202,2009,2009-04-30,1,Chennai Super Kings,20,,,False,False,False,19,{}
+392202,2009,2009-04-30,2,Rajasthan Royals,20,165.0,20.0,False,False,False,19,{}
+392203,2009,2009-05-01,1,Mumbai Indians,20,,,False,False,False,19,{}
+392203,2009,2009-05-01,2,Kolkata Knight Riders,20,149.0,20.0,False,False,False,19,{}
+392204,2009,2009-05-01,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+392204,2009,2009-05-01,2,Kings XI Punjab,20,146.0,20.0,False,False,False,19,{}
+392205,2009,2009-05-02,1,Deccan Chargers,20,,,False,False,False,19,{}
+392205,2009,2009-05-02,2,Rajasthan Royals,20,142.0,20.0,False,False,False,19,{}
+392206,2009,2009-05-02,1,Chennai Super Kings,20,,,False,False,False,19,{}
+392206,2009,2009-05-02,2,Delhi Daredevils,20,164.0,20.0,False,False,False,19,{}
+392207,2009,2009-05-03,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+392207,2009,2009-05-03,2,Kings XI Punjab,20,154.0,20.0,False,False,False,19,{}
+392208,2009,2009-05-03,1,Mumbai Indians,20,,,False,False,False,19,{}
+392208,2009,2009-05-03,2,Royal Challengers Bangalore,19,150.0,20.0,False,False,False,18,{}
+392209,2009,2009-05-04,1,Chennai Super Kings,20,,,False,False,False,19,{}
+392209,2009,2009-05-04,2,Deccan Chargers,15,179.0,20.0,False,False,False,14,{}
+392210,2009,2009-05-05,1,Rajasthan Royals,20,,,False,False,False,19,{}
+392210,2009,2009-05-05,2,Kings XI Punjab,20,212.0,20.0,False,False,False,19,{}
+392211,2009,2009-05-05,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+392211,2009,2009-05-05,2,Delhi Daredevils,19,155.0,20.0,False,False,False,18,{}
+392212,2009,2009-05-06,1,Deccan Chargers,20,,,False,False,False,19,{}
+392212,2009,2009-05-06,2,Mumbai Indians,20,146.0,20.0,False,False,False,19,{}
+392213,2009,2009-05-07,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+392213,2009,2009-05-07,2,Rajasthan Royals,15,106.0,20.0,False,False,False,14,{}
+392214,2009,2009-05-07,1,Chennai Super Kings,18,,,False,False,False,17,{}
+392214,2009,2009-05-07,2,Kings XI Punjab,18,187.0,18.0,False,False,False,17,{}
+392215,2009,2009-05-08,1,Mumbai Indians,20,,,False,False,False,19,{}
+392215,2009,2009-05-08,2,Delhi Daredevils,19,117.0,20.0,False,False,False,18,{}
+392216,2009,2009-05-09,1,Deccan Chargers,20,,,False,False,False,19,{}
+392216,2009,2009-05-09,2,Kings XI Punjab,20,169.0,20.0,False,False,False,19,{}
+392217,2009,2009-05-09,1,Rajasthan Royals,20,,,False,False,False,19,{}
+392217,2009,2009-05-09,2,Chennai Super Kings,19,141.0,20.0,False,False,False,18,{}
+392218,2009,2009-05-10,1,Mumbai Indians,20,,,False,False,False,19,{}
+392218,2009,2009-05-10,2,Royal Challengers Bangalore,20,158.0,20.0,False,False,False,19,{}
+392219,2009,2009-05-10,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+392219,2009,2009-05-10,2,Delhi Daredevils,18,124.0,20.0,False,False,False,17,{}
+392220,2009,2009-05-11,1,Deccan Chargers,20,,,False,False,False,19,{}
+392220,2009,2009-05-11,2,Rajasthan Royals,20,167.0,20.0,False,False,False,19,{}
+392221,2009,2009-05-12,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+392221,2009,2009-05-12,2,Royal Challengers Bangalore,20,174.0,20.0,False,False,False,19,{}
+392222,2009,2009-05-12,1,Kings XI Punjab,20,,,False,False,False,19,{}
+392222,2009,2009-05-12,2,Mumbai Indians,17,120.0,20.0,False,False,False,16,{}
+392223,2009,2009-05-13,1,Delhi Daredevils,20,,,False,False,False,19,{}
+392223,2009,2009-05-13,2,Deccan Chargers,20,174.0,20.0,False,False,False,19,{}
+392224,2009,2009-05-14,1,Chennai Super Kings,20,,,False,False,False,19,{}
+392224,2009,2009-05-14,2,Royal Challengers Bangalore,20,130.0,20.0,False,False,False,19,{}
+392225,2009,2009-05-14,1,Rajasthan Royals,20,,,False,False,False,19,{}
+392225,2009,2009-05-14,2,Mumbai Indians,20,146.0,20.0,False,False,False,19,{}
+392226,2009,2009-05-15,1,Delhi Daredevils,20,,,False,False,False,19,{}
+392226,2009,2009-05-15,2,Kings XI Punjab,20,121.0,20.0,False,False,False,19,{}
+392227,2009,2009-05-16,1,Mumbai Indians,20,,,False,False,False,19,{}
+392227,2009,2009-05-16,2,Chennai Super Kings,20,148.0,20.0,False,False,False,19,{}
+392228,2009,2009-05-16,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+392228,2009,2009-05-16,2,Deccan Chargers,20,161.0,20.0,False,False,False,19,{}
+392229,2009,2009-05-17,1,Kings XI Punjab,20,,,False,False,False,19,{}
+392229,2009,2009-05-17,2,Deccan Chargers,20,135.0,20.0,False,False,False,19,{}
+392230,2009,2009-05-17,1,Delhi Daredevils,20,,,False,False,False,19,{}
+392230,2009,2009-05-17,2,Rajasthan Royals,20,151.0,20.0,False,False,False,19,{}
+392231,2009,2009-05-18,1,Chennai Super Kings,20,,,False,False,False,19,{}
+392231,2009,2009-05-18,2,Kolkata Knight Riders,20,189.0,20.0,False,False,False,19,{}
+392232,2009,2009-05-19,1,Delhi Daredevils,20,,,False,False,False,19,{}
+392232,2009,2009-05-19,2,Royal Challengers Bangalore,19,135.0,20.0,False,False,False,18,{}
+392233,2009,2009-05-20,1,Rajasthan Royals,20,,,False,False,False,19,{}
+392233,2009,2009-05-20,2,Kolkata Knight Riders,20,102.0,20.0,False,False,False,19,{}
+392234,2009,2009-05-20,1,Chennai Super Kings,20,,,False,False,False,19,{}
+392234,2009,2009-05-20,2,Kings XI Punjab,20,117.0,20.0,False,False,False,19,{}
+392235,2009,2009-05-21,1,Mumbai Indians,20,,,False,False,False,19,{}
+392235,2009,2009-05-21,2,Delhi Daredevils,18,166.0,20.0,False,False,False,17,{}
+392236,2009,2009-05-21,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+392236,2009,2009-05-21,2,Deccan Chargers,20,171.0,20.0,False,False,False,19,{}
+392237,2009,2009-05-22,1,Delhi Daredevils,20,,,False,False,False,19,{}
+392237,2009,2009-05-22,2,Deccan Chargers,18,154.0,20.0,False,False,False,17,{}
+392238,2009,2009-05-23,1,Chennai Super Kings,20,,,False,False,False,19,{}
+392238,2009,2009-05-23,2,Royal Challengers Bangalore,19,147.0,20.0,False,False,False,18,{}
+392239,2009,2009-05-24,1,Deccan Chargers,20,,,False,False,False,19,{}
+392239,2009,2009-05-24,2,Royal Challengers Bangalore,20,144.0,20.0,False,False,False,19,{}
+419106,2009/10,2010-03-12,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+419106,2009/10,2010-03-12,2,Deccan Chargers,20,162.0,20.0,False,False,False,19,{}
+419107,2009/10,2010-03-13,1,Mumbai Indians,20,,,False,False,False,19,{}
+419107,2009/10,2010-03-13,2,Rajasthan Royals,20,213.0,20.0,False,False,False,19,{}
+419108,2009/10,2010-03-13,1,Kings XI Punjab,20,,,False,False,False,19,{}
+419108,2009/10,2010-03-13,2,Delhi Daredevils,20,143.0,20.0,False,False,False,19,{}
+419109,2009/10,2010-03-14,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+419109,2009/10,2010-03-14,2,Kolkata Knight Riders,20,136.0,20.0,False,False,False,19,{}
+419110,2009/10,2010-03-14,1,Deccan Chargers,20,,,False,False,False,19,{}
+419110,2009/10,2010-03-14,2,Chennai Super Kings,20,191.0,20.0,False,False,False,19,{}
+419111,2009/10,2010-03-15,1,Rajasthan Royals,20,,,False,False,False,19,{}
+419111,2009/10,2010-03-15,2,Delhi Daredevils,18,142.0,20.0,False,False,False,17,{}
+419112,2009/10,2010-03-16,1,Kings XI Punjab,20,,,False,False,False,19,{}
+419112,2009/10,2010-03-16,2,Royal Challengers Bangalore,19,204.0,20.0,False,False,False,18,{}
+419113,2009/10,2010-03-16,1,Chennai Super Kings,20,,,False,False,False,19,{}
+419113,2009/10,2010-03-16,2,Kolkata Knight Riders,20,165.0,20.0,False,False,False,19,{}
+419114,2009/10,2010-03-17,1,Mumbai Indians,20,,,False,False,False,19,{}
+419114,2009/10,2010-03-17,2,Delhi Daredevils,17,219.0,20.0,False,False,False,16,{}
+419115,2009/10,2010-03-18,1,Rajasthan Royals,20,,,False,False,False,19,{}
+419115,2009/10,2010-03-18,2,Royal Challengers Bangalore,11,93.0,20.0,False,False,False,10,{}
+419116,2009/10,2010-03-19,1,Delhi Daredevils,20,,,False,False,False,19,{}
+419116,2009/10,2010-03-19,2,Chennai Super Kings,20,186.0,20.0,False,False,False,19,{}
+419117,2009/10,2010-03-19,1,Deccan Chargers,20,,,False,False,False,19,{}
+419117,2009/10,2010-03-19,2,Kings XI Punjab,20,171.0,20.0,False,False,False,19,{}
+419118,2009/10,2010-03-20,1,Rajasthan Royals,20,,,False,False,False,19,{}
+419118,2009/10,2010-03-20,2,Kolkata Knight Riders,20,169.0,20.0,False,False,False,19,{}
+419119,2009/10,2010-03-20,1,Mumbai Indians,20,,,False,False,False,19,{}
+419119,2009/10,2010-03-20,2,Royal Challengers Bangalore,20,152.0,20.0,False,False,False,19,{}
+419120,2009/10,2010-03-21,1,Deccan Chargers,20,,,False,False,False,19,{}
+419120,2009/10,2010-03-21,2,Delhi Daredevils,20,172.0,20.0,False,False,False,19,{}
+419121,2009/10,2010-03-21,1,Kings XI Punjab,20,,,False,False,False,19,{}
+419121,2009/10,2010-03-21,2,Chennai Super Kings,20,137.0,20.0,False,False,False,19,{}
+419121,2009/10,2010-03-21,3,Chennai Super Kings,1,,,True,False,False,0,{}
+419121,2009/10,2010-03-21,4,Kings XI Punjab,1,,,True,False,False,0,{}
+419122,2009/10,2010-03-22,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+419122,2009/10,2010-03-22,2,Mumbai Indians,19,156.0,20.0,False,False,False,18,{}
+419123,2009/10,2010-03-23,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+419123,2009/10,2010-03-23,2,Chennai Super Kings,20,172.0,20.0,False,False,False,19,{}
+419124,2009/10,2010-03-24,1,Rajasthan Royals,20,,,False,False,False,19,{}
+419124,2009/10,2010-03-24,2,Kings XI Punjab,20,184.0,20.0,False,False,False,19,{}
+419125,2009/10,2010-03-25,1,Chennai Super Kings,20,,,False,False,False,19,{}
+419125,2009/10,2010-03-25,2,Mumbai Indians,19,181.0,20.0,False,False,False,18,{}
+419126,2009/10,2010-03-26,1,Deccan Chargers,20,,,False,False,False,19,{}
+419126,2009/10,2010-03-26,2,Rajasthan Royals,16,149.0,20.0,False,False,False,15,{}
+419127,2009/10,2010-03-27,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+419127,2009/10,2010-03-27,2,Kings XI Punjab,20,184.0,20.0,False,False,False,19,{}
+419128,2009/10,2010-03-25,1,Delhi Daredevils,20,,,False,False,False,19,{}
+419128,2009/10,2010-03-25,2,Royal Challengers Bangalore,20,184.0,20.0,False,False,False,19,{}
+419129,2009/10,2010-03-28,1,Rajasthan Royals,20,,,False,False,False,19,{}
+419129,2009/10,2010-03-28,2,Chennai Super Kings,20,178.0,20.0,False,False,False,19,{}
+419130,2009/10,2010-03-28,1,Mumbai Indians,20,,,False,False,False,19,{}
+419130,2009/10,2010-03-28,2,Deccan Chargers,18,173.0,20.0,False,False,False,17,{}
+419131,2009/10,2010-03-29,1,Delhi Daredevils,20,,,False,False,False,19,{}
+419131,2009/10,2010-03-29,2,Kolkata Knight Riders,20,178.0,20.0,False,False,False,19,{}
+419132,2009/10,2010-03-30,1,Kings XI Punjab,20,,,False,False,False,19,{}
+419132,2009/10,2010-03-30,2,Mumbai Indians,20,164.0,20.0,False,False,False,19,{}
+419133,2009/10,2010-03-31,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+419133,2009/10,2010-03-31,2,Chennai Super Kings,19,162.0,20.0,False,False,False,18,{}
+419134,2009/10,2010-03-31,1,Delhi Daredevils,20,,,False,False,False,19,{}
+419134,2009/10,2010-03-31,2,Rajasthan Royals,18,189.0,20.0,False,False,False,17,{}
+419135,2009/10,2010-04-01,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+419135,2009/10,2010-04-01,2,Deccan Chargers,20,182.0,20.0,False,False,False,19,{}
+419136,2009/10,2010-04-02,1,Kings XI Punjab,20,,,False,False,False,19,{}
+419136,2009/10,2010-04-02,2,Royal Challengers Bangalore,20,182.0,20.0,False,False,False,19,{}
+419137,2009/10,2010-04-03,1,Chennai Super Kings,20,,,False,False,False,19,{}
+419137,2009/10,2010-04-03,2,Rajasthan Royals,20,247.0,20.0,False,False,False,19,{}
+419138,2009/10,2010-04-03,1,Mumbai Indians,20,,,False,False,False,19,{}
+419138,2009/10,2010-04-03,2,Deccan Chargers,19,179.0,20.0,False,False,False,18,{}
+419139,2009/10,2010-04-04,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+419139,2009/10,2010-04-04,2,Kings XI Punjab,19,201.0,20.0,False,False,False,18,{}
+419140,2009/10,2010-04-04,1,Delhi Daredevils,20,,,False,False,False,19,{}
+419140,2009/10,2010-04-04,2,Royal Challengers Bangalore,20,185.0,20.0,False,False,False,19,{}
+419141,2009/10,2010-04-05,1,Rajasthan Royals,20,,,False,False,False,19,{}
+419141,2009/10,2010-04-05,2,Deccan Chargers,20,160.0,20.0,False,False,False,19,{}
+419142,2009/10,2010-04-06,1,Chennai Super Kings,20,,,False,False,False,19,{}
+419142,2009/10,2010-04-06,2,Mumbai Indians,20,166.0,20.0,False,False,False,19,{}
+419143,2009/10,2010-04-07,1,Kings XI Punjab,20,,,False,False,False,19,{}
+419143,2009/10,2010-04-07,2,Rajasthan Royals,15,154.0,20.0,False,False,False,14,{}
+419144,2009/10,2010-04-07,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+419144,2009/10,2010-04-07,2,Delhi Daredevils,20,182.0,20.0,False,False,False,19,{}
+419145,2009/10,2010-04-08,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+419145,2009/10,2010-04-08,2,Deccan Chargers,20,185.0,20.0,False,False,False,19,{}
+419146,2009/10,2010-04-09,1,Mumbai Indians,20,,,False,False,False,19,{}
+419146,2009/10,2010-04-09,2,Kings XI Punjab,20,155.0,20.0,False,False,False,19,{}
+419147,2009/10,2010-04-10,1,Chennai Super Kings,20,,,False,False,False,19,{}
+419147,2009/10,2010-04-10,2,Deccan Chargers,20,139.0,20.0,False,False,False,19,{}
+419148,2009/10,2010-04-10,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+419148,2009/10,2010-04-10,2,Royal Challengers Bangalore,18,161.0,20.0,False,False,False,17,{}
+419149,2009/10,2010-04-11,1,Delhi Daredevils,20,,,False,False,False,19,{}
+419149,2009/10,2010-04-11,2,Kings XI Punjab,19,112.0,20.0,False,False,False,18,{}
+419150,2009/10,2010-04-11,1,Mumbai Indians,20,,,False,False,False,19,{}
+419150,2009/10,2010-04-11,2,Rajasthan Royals,20,175.0,20.0,False,False,False,19,{}
+419151,2009/10,2010-04-12,1,Deccan Chargers,20,,,False,False,False,19,{}
+419151,2009/10,2010-04-12,2,Royal Challengers Bangalore,20,152.0,20.0,False,False,False,19,{}
+419152,2009/10,2010-04-13,1,Mumbai Indians,20,,,False,False,False,19,{}
+419152,2009/10,2010-04-13,2,Delhi Daredevils,20,184.0,20.0,False,False,False,19,{}
+419153,2009/10,2010-04-13,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+419153,2009/10,2010-04-13,2,Chennai Super Kings,14,140.0,20.0,False,False,False,13,{}
+419154,2009/10,2010-04-14,1,Rajasthan Royals,20,,,False,False,False,19,{}
+419154,2009/10,2010-04-14,2,Royal Challengers Bangalore,16,131.0,20.0,False,False,False,15,{}
+419155,2009/10,2010-04-15,1,Chennai Super Kings,20,,,False,False,False,19,{}
+419155,2009/10,2010-04-15,2,Delhi Daredevils,19,113.0,20.0,False,False,False,18,{}
+419156,2009/10,2010-04-16,1,Kings XI Punjab,20,,,False,False,False,19,{}
+419156,2009/10,2010-04-16,2,Deccan Chargers,20,175.0,20.0,False,False,False,19,{}
+419157,2009/10,2010-04-17,1,Mumbai Indians,20,,,False,False,False,19,{}
+419157,2009/10,2010-04-17,2,Royal Challengers Bangalore,20,192.0,20.0,False,False,False,19,{}
+419158,2009/10,2010-04-17,1,Rajasthan Royals,20,,,False,False,False,19,{}
+419158,2009/10,2010-04-17,2,Kolkata Knight Riders,17,133.0,20.0,False,False,False,16,{}
+419159,2009/10,2010-04-18,1,Kings XI Punjab,20,,,False,False,False,19,{}
+419159,2009/10,2010-04-18,2,Chennai Super Kings,20,193.0,20.0,False,False,False,19,{}
+419160,2009/10,2010-04-18,1,Deccan Chargers,20,,,False,False,False,19,{}
+419160,2009/10,2010-04-18,2,Delhi Daredevils,20,146.0,20.0,False,False,False,19,{}
+419161,2009/10,2010-04-19,1,Mumbai Indians,20,,,False,False,False,19,{}
+419161,2009/10,2010-04-19,2,Kolkata Knight Riders,18,134.0,20.0,False,False,False,17,{}
+419162,2009/10,2010-04-21,1,Mumbai Indians,20,,,False,False,False,19,{}
+419162,2009/10,2010-04-21,2,Royal Challengers Bangalore,20,185.0,20.0,False,False,False,19,{}
+419163,2009/10,2010-04-22,1,Chennai Super Kings,20,,,False,False,False,19,{}
+419163,2009/10,2010-04-22,2,Deccan Chargers,20,143.0,20.0,False,False,False,19,{}
+419164,2009/10,2010-04-24,1,Deccan Chargers,19,,,False,False,False,18,{}
+419164,2009/10,2010-04-24,2,Royal Challengers Bangalore,14,83.0,20.0,False,False,False,13,{}
+419165,2009/10,2010-04-25,1,Chennai Super Kings,20,,,False,False,False,19,{}
+419165,2009/10,2010-04-25,2,Mumbai Indians,20,169.0,20.0,False,False,False,19,{}
+501198,2011,2011-04-08,1,Chennai Super Kings,20,,,False,False,False,19,{}
+501198,2011,2011-04-08,2,Kolkata Knight Riders,20,154.0,20.0,False,False,False,19,{}
+501199,2011,2011-04-09,1,Deccan Chargers,20,,,False,False,False,19,{}
+501199,2011,2011-04-09,2,Rajasthan Royals,19,138.0,20.0,False,False,False,18,{}
+501200,2011,2011-04-09,1,Kochi Tuskers Kerala,20,,,False,False,False,19,{}
+501200,2011,2011-04-09,2,Royal Challengers Bangalore,19,162.0,20.0,False,False,False,18,{}
+501201,2011,2011-04-10,1,Delhi Daredevils,18,,,False,False,False,17,{}
+501201,2011,2011-04-10,2,Mumbai Indians,17,96.0,20.0,False,False,False,16,{}
+501202,2011,2011-04-10,1,Kings XI Punjab,20,,,False,False,False,19,{}
+501202,2011,2011-04-10,2,Pune Warriors,14,113.0,20.0,False,False,False,13,{}
+501203,2011,2011-04-11,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+501203,2011,2011-04-11,2,Deccan Chargers,20,164.0,20.0,False,False,False,19,{}
+501204,2011,2011-04-12,1,Delhi Daredevils,20,,,False,False,False,19,{}
+501204,2011,2011-04-12,2,Rajasthan Royals,19,152.0,20.0,False,False,False,18,{}
+501205,2011,2011-04-12,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+501205,2011,2011-04-12,2,Mumbai Indians,19,141.0,20.0,False,False,False,18,{}
+501206,2011,2011-04-13,1,Chennai Super Kings,20,,,False,False,False,19,{}
+501206,2011,2011-04-13,2,Kings XI Punjab,20,189.0,20.0,False,False,False,19,{}
+501207,2011,2011-04-13,1,Kochi Tuskers Kerala,20,,,False,False,False,19,{}
+501207,2011,2011-04-13,2,Pune Warriors,19,149.0,20.0,False,False,False,18,{}
+501208,2011,2011-04-14,1,Deccan Chargers,20,,,False,False,False,19,{}
+501208,2011,2011-04-14,2,Royal Challengers Bangalore,20,176.0,20.0,False,False,False,19,{}
+501209,2011,2011-04-15,1,Rajasthan Royals,20,,,False,False,False,19,{}
+501209,2011,2011-04-15,2,Kolkata Knight Riders,19,160.0,20.0,False,False,False,18,{}
+501210,2011,2011-04-15,1,Mumbai Indians,20,,,False,False,False,19,{}
+501210,2011,2011-04-15,2,Kochi Tuskers Kerala,19,183.0,20.0,False,False,False,18,{}
+501211,2011,2011-04-16,1,Chennai Super Kings,20,,,False,False,False,19,{}
+501211,2011,2011-04-16,2,Royal Challengers Bangalore,20,184.0,20.0,False,False,False,19,{}
+501212,2011,2011-04-16,1,Deccan Chargers,20,,,False,False,False,19,{}
+501212,2011,2011-04-16,2,Kings XI Punjab,18,166.0,20.0,False,False,False,17,{}
+501213,2011,2011-04-17,1,Pune Warriors,20,,,False,False,False,19,{}
+501213,2011,2011-04-17,2,Delhi Daredevils,20,188.0,20.0,False,False,False,19,{}
+501214,2011,2011-04-17,1,Rajasthan Royals,16,,,False,False,False,15,{}
+501214,2011,2011-04-17,2,Kolkata Knight Riders,14,82.0,20.0,False,False,False,13,{}
+501215,2011,2011-04-18,1,Chennai Super Kings,17,,,False,False,False,16,{}
+501215,2011,2011-04-18,2,Kochi Tuskers Kerala,15,135.0,17.0,False,False,False,14,{}
+501216,2011,2011-04-19,1,Deccan Chargers,20,,,False,False,False,19,{}
+501216,2011,2011-04-19,2,Delhi Daredevils,20,169.0,20.0,False,False,False,19,{}
+501218,2011,2011-04-20,1,Pune Warriors,18,,,False,False,False,17,{}
+501218,2011,2011-04-20,2,Mumbai Indians,20,119.0,20.0,False,False,False,19,{}
+501219,2011,2011-04-20,1,Kochi Tuskers Kerala,20,,,False,False,False,19,{}
+501219,2011,2011-04-20,2,Kolkata Knight Riders,20,133.0,20.0,False,False,False,19,{}
+501220,2011,2011-04-21,1,Kings XI Punjab,20,,,False,False,False,19,{}
+501220,2011,2011-04-21,2,Rajasthan Royals,20,196.0,20.0,False,False,False,19,{}
+501221,2011,2011-04-22,1,Mumbai Indians,20,,,False,False,False,19,{}
+501221,2011,2011-04-22,2,Chennai Super Kings,20,165.0,20.0,False,False,False,19,{}
+501222,2011,2011-04-22,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+501222,2011,2011-04-22,2,Royal Challengers Bangalore,19,172.0,20.0,False,False,False,18,{}
+501223,2011,2011-04-23,1,Delhi Daredevils,20,,,False,False,False,19,{}
+501223,2011,2011-04-23,2,Kings XI Punjab,20,232.0,20.0,False,False,False,19,{}
+501224,2011,2011-04-24,1,Mumbai Indians,20,,,False,False,False,19,{}
+501224,2011,2011-04-24,2,Deccan Chargers,20,173.0,20.0,False,False,False,19,{}
+501225,2011,2011-04-24,1,Kochi Tuskers Kerala,20,,,False,False,False,19,{}
+501225,2011,2011-04-24,2,Rajasthan Royals,15,110.0,20.0,False,False,False,14,{}
+501226,2011,2011-04-25,1,Chennai Super Kings,20,,,False,False,False,19,{}
+501226,2011,2011-04-25,2,Pune Warriors,20,143.0,20.0,False,False,False,19,{}
+501227,2011,2011-04-26,1,Delhi Daredevils,20,,,False,False,False,19,{}
+501227,2011,2011-04-26,2,Royal Challengers Bangalore,20,161.0,20.0,False,False,False,19,{}
+501228,2011,2011-04-27,1,Pune Warriors,20,,,False,False,False,19,{}
+501228,2011,2011-04-27,2,Chennai Super Kings,20,142.0,20.0,False,False,False,19,{}
+501229,2011,2011-04-27,1,Deccan Chargers,20,,,False,False,False,19,{}
+501229,2011,2011-04-27,2,Kochi Tuskers Kerala,17,130.0,20.0,False,False,False,16,{}
+501230,2011,2011-04-28,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+501230,2011,2011-04-28,2,Delhi Daredevils,20,149.0,20.0,False,False,False,19,{}
+501231,2011,2011-04-29,1,Mumbai Indians,20,,,False,False,False,19,{}
+501231,2011,2011-04-29,2,Rajasthan Royals,19,95.0,20.0,False,False,False,18,{}
+501232,2011,2011-04-29,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+501232,2011,2011-04-29,2,Pune Warriors,20,182.0,20.0,False,False,False,19,{}
+501233,2011,2011-04-30,1,Delhi Daredevils,20,,,False,False,False,19,{}
+501233,2011,2011-04-30,2,Kochi Tuskers Kerala,19,158.0,20.0,False,False,False,18,{}
+501234,2011,2011-04-30,1,Kings XI Punjab,20,,,False,False,False,19,{}
+501234,2011,2011-04-30,2,Kolkata Knight Riders,18,120.0,20.0,False,False,False,17,{}
+501235,2011,2011-05-01,1,Pune Warriors,20,,,False,False,False,19,{}
+501235,2011,2011-05-01,2,Rajasthan Royals,20,144.0,20.0,False,False,False,19,{}
+501236,2011,2011-05-01,1,Chennai Super Kings,20,,,False,False,False,19,{}
+501236,2011,2011-05-01,2,Deccan Chargers,20,166.0,20.0,False,False,False,19,{}
+501237,2011,2011-05-02,1,Mumbai Indians,20,,,False,False,False,19,{}
+501237,2011,2011-05-02,2,Kings XI Punjab,20,160.0,20.0,False,False,False,19,{}
+501238,2011,2011-05-02,1,Delhi Daredevils,20,,,False,False,False,19,{}
+501238,2011,2011-05-02,2,Kochi Tuskers Kerala,15,141.0,20.0,False,False,False,14,{}
+501239,2011,2011-05-03,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+501239,2011,2011-05-03,2,Deccan Chargers,20,170.0,20.0,False,False,False,19,{}
+501240,2011,2011-05-04,1,Rajasthan Royals,20,,,False,False,False,19,{}
+501240,2011,2011-05-04,2,Chennai Super Kings,19,148.0,20.0,False,False,False,18,{}
+501241,2011,2011-05-04,1,Mumbai Indians,20,,,False,False,False,19,{}
+501241,2011,2011-05-04,2,Pune Warriors,20,161.0,20.0,False,False,False,19,{}
+501242,2011,2011-05-05,1,Kochi Tuskers Kerala,20,,,False,False,False,19,{}
+501242,2011,2011-05-05,2,Kolkata Knight Riders,20,157.0,20.0,False,False,False,19,{}
+501243,2011,2011-05-05,1,Deccan Chargers,20,,,False,False,False,19,{}
+501243,2011,2011-05-05,2,Delhi Daredevils,19,176.0,20.0,False,False,False,18,{}
+501244,2011,2011-05-06,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+501244,2011,2011-05-06,2,Kings XI Punjab,20,206.0,20.0,False,False,False,19,{}
+501245,2011,2011-05-07,1,Chennai Super Kings,20,,,False,False,False,19,{}
+501245,2011,2011-05-07,2,Kolkata Knight Riders,10,52.0,10.0,False,False,False,9,{}
+501246,2011,2011-05-07,1,Mumbai Indians,20,,,False,False,False,19,{}
+501246,2011,2011-05-07,2,Delhi Daredevils,20,179.0,20.0,False,False,False,19,{}
+501247,2011,2011-05-08,1,Kochi Tuskers Kerala,20,,,False,False,False,19,{}
+501247,2011,2011-05-08,2,Royal Challengers Bangalore,14,126.0,20.0,False,False,False,13,{}
+501248,2011,2011-05-08,1,Kings XI Punjab,20,,,False,False,False,19,{}
+501248,2011,2011-05-08,2,Pune Warriors,18,120.0,20.0,False,False,False,17,{}
+501249,2011,2011-05-09,1,Chennai Super Kings,20,,,False,False,False,19,{}
+501249,2011,2011-05-09,2,Rajasthan Royals,20,197.0,20.0,False,False,False,19,{}
+501250,2011,2011-05-10,1,Deccan Chargers,20,,,False,False,False,19,{}
+501250,2011,2011-05-10,2,Pune Warriors,19,137.0,20.0,False,False,False,18,{}
+501251,2011,2011-05-10,1,Kings XI Punjab,20,,,False,False,False,19,{}
+501251,2011,2011-05-10,2,Mumbai Indians,13,164.0,20.0,False,False,False,12,{}
+501252,2011,2011-05-11,1,Rajasthan Royals,20,,,False,False,False,19,{}
+501252,2011,2011-05-11,2,Royal Challengers Bangalore,17,147.0,20.0,False,False,False,16,{}
+501253,2011,2011-05-12,1,Chennai Super Kings,20,,,False,False,False,19,{}
+501253,2011,2011-05-12,2,Delhi Daredevils,20,177.0,20.0,False,False,False,19,{}
+501254,2011,2011-05-13,1,Kochi Tuskers Kerala,20,,,False,False,False,19,{}
+501254,2011,2011-05-13,2,Kings XI Punjab,19,179.0,20.0,False,False,False,18,{}
+501255,2011,2011-05-14,1,Kolkata Knight Riders,13,,,False,False,False,12,{}
+501255,2011,2011-05-14,2,Royal Challengers Bangalore,13,102.0,13.0,False,False,False,12,{}
+501256,2011,2011-05-14,1,Deccan Chargers,20,,,False,False,False,19,{}
+501256,2011,2011-05-14,2,Mumbai Indians,20,136.0,20.0,False,False,False,19,{}
+501257,2011,2011-05-15,1,Kings XI Punjab,20,,,False,False,False,19,{}
+501257,2011,2011-05-15,2,Delhi Daredevils,20,171.0,20.0,False,False,False,19,{}
+501258,2011,2011-05-15,1,Rajasthan Royals,19,,,False,False,False,18,{}
+501258,2011,2011-05-15,2,Kochi Tuskers Kerala,8,98.0,20.0,False,False,False,7,{}
+501259,2011,2011-05-16,1,Pune Warriors,20,,,False,False,False,19,{}
+501259,2011,2011-05-16,2,Deccan Chargers,20,137.0,20.0,False,False,False,19,{}
+501260,2011,2011-05-17,1,Kings XI Punjab,20,,,False,False,False,19,{}
+501260,2011,2011-05-17,2,Royal Challengers Bangalore,17,233.0,20.0,False,False,False,16,{}
+501261,2011,2011-05-18,1,Chennai Super Kings,20,,,False,False,False,19,{}
+501261,2011,2011-05-18,2,Kochi Tuskers Kerala,20,153.0,20.0,False,False,False,19,{}
+501262,2011,2011-05-19,1,Pune Warriors,20,,,False,False,False,19,{}
+501262,2011,2011-05-19,2,Kolkata Knight Riders,17,119.0,20.0,False,False,False,16,{}
+501263,2011,2011-05-20,1,Mumbai Indians,20,,,False,False,False,19,{}
+501263,2011,2011-05-20,2,Rajasthan Royals,14,134.0,20.0,False,False,False,13,{}
+501264,2011,2011-05-21,1,Deccan Chargers,20,,,False,False,False,19,{}
+501264,2011,2011-05-21,2,Kings XI Punjab,19,199.0,20.0,False,False,False,18,{}
+501265,2011,2011-05-21,1,Delhi Daredevils,11,,,False,False,False,10,{}
+501266,2011,2011-05-22,1,Chennai Super Kings,20,,,False,False,False,19,{}
+501266,2011,2011-05-22,2,Royal Challengers Bangalore,18,129.0,20.0,False,False,False,17,{}
+501267,2011,2011-05-22,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+501267,2011,2011-05-22,2,Mumbai Indians,20,176.0,20.0,False,False,False,19,{}
+501268,2011,2011-05-24,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+501268,2011,2011-05-24,2,Chennai Super Kings,20,176.0,20.0,False,False,False,19,{}
+501269,2011,2011-05-25,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+501269,2011,2011-05-25,2,Mumbai Indians,20,148.0,20.0,False,False,False,19,{}
+501270,2011,2011-05-27,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+501270,2011,2011-05-27,2,Mumbai Indians,20,186.0,20.0,False,False,False,19,{}
+501271,2011,2011-05-28,1,Chennai Super Kings,20,,,False,False,False,19,{}
+501271,2011,2011-05-28,2,Royal Challengers Bangalore,20,206.0,20.0,False,False,False,19,{}
+548306,2012,2012-04-04,1,Chennai Super Kings,20,,,False,False,False,19,{}
+548306,2012,2012-04-04,2,Mumbai Indians,17,113.0,20.0,False,False,False,16,{}
+548307,2012,2012-04-05,1,Kolkata Knight Riders,12,,,False,False,False,11,{}
+548307,2012,2012-04-05,2,Delhi Daredevils,12,98.0,12.0,False,False,False,11,{}
+548308,2012,2012-04-06,1,Pune Warriors,20,,,False,False,False,19,{}
+548308,2012,2012-04-06,2,Mumbai Indians,20,130.0,20.0,False,False,False,19,{}
+548309,2012,2012-04-06,1,Rajasthan Royals,20,,,False,False,False,19,{}
+548309,2012,2012-04-06,2,Kings XI Punjab,20,192.0,20.0,False,False,False,19,{}
+548310,2012,2012-04-07,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+548310,2012,2012-04-07,2,Delhi Daredevils,20,158.0,20.0,False,False,False,19,{}
+548311,2012,2012-04-07,1,Chennai Super Kings,20,,,False,False,False,19,{}
+548311,2012,2012-04-07,2,Deccan Chargers,18,194.0,20.0,False,False,False,17,{}
+548312,2012,2012-04-08,1,Rajasthan Royals,20,,,False,False,False,19,{}
+548312,2012,2012-04-08,2,Kolkata Knight Riders,20,165.0,20.0,False,False,False,19,{}
+548313,2012,2012-04-08,1,Pune Warriors,20,,,False,False,False,19,{}
+548313,2012,2012-04-08,2,Kings XI Punjab,20,167.0,20.0,False,False,False,19,{}
+548314,2012,2012-04-09,1,Deccan Chargers,20,,,False,False,False,19,{}
+548314,2012,2012-04-09,2,Mumbai Indians,20,139.0,20.0,False,False,False,19,{}
+548315,2012,2012-04-10,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+548315,2012,2012-04-10,2,Royal Challengers Bangalore,20,166.0,20.0,False,False,False,19,{}
+548316,2012,2012-04-10,1,Chennai Super Kings,20,,,False,False,False,19,{}
+548316,2012,2012-04-10,2,Delhi Daredevils,14,111.0,20.0,False,False,False,13,{}
+548317,2012,2012-04-11,1,Mumbai Indians,20,,,False,False,False,19,{}
+548317,2012,2012-04-11,2,Rajasthan Royals,20,198.0,20.0,False,False,False,19,{}
+548318,2012,2012-04-12,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+548318,2012,2012-04-12,2,Chennai Super Kings,20,206.0,20.0,False,False,False,19,{}
+548319,2012,2012-04-12,1,Pune Warriors,19,,,False,False,False,18,{}
+548319,2012,2012-04-12,2,Kings XI Punjab,18,116.0,20.0,False,False,False,17,{}
+548320,2012,2012-04-13,1,Rajasthan Royals,20,,,False,False,False,19,{}
+548320,2012,2012-04-13,2,Kolkata Knight Riders,20,132.0,20.0,False,False,False,19,{}
+548321,2012,2012-04-19,1,Deccan Chargers,20,,,False,False,False,19,{}
+548321,2012,2012-04-19,2,Delhi Daredevils,20,158.0,20.0,False,False,False,19,{}
+548322,2012,2012-04-14,1,Chennai Super Kings,20,,,False,False,False,19,{}
+548322,2012,2012-04-14,2,Pune Warriors,20,156.0,20.0,False,False,False,19,{}
+548323,2012,2012-04-15,1,Kings XI Punjab,20,,,False,False,False,19,{}
+548323,2012,2012-04-15,2,Kolkata Knight Riders,20,135.0,20.0,False,False,False,19,{}
+548324,2012,2012-04-15,1,Rajasthan Royals,20,,,False,False,False,19,{}
+548324,2012,2012-04-15,2,Royal Challengers Bangalore,20,196.0,20.0,False,False,False,19,{}
+548325,2012,2012-04-16,1,Mumbai Indians,20,,,False,False,False,19,{}
+548325,2012,2012-04-16,2,Delhi Daredevils,15,93.0,20.0,False,False,False,14,{}
+548326,2012,2012-04-17,1,Deccan Chargers,20,,,False,False,False,19,{}
+548326,2012,2012-04-17,2,Rajasthan Royals,20,197.0,20.0,False,False,False,19,{}
+548327,2012,2012-04-17,1,Pune Warriors,20,,,False,False,False,19,{}
+548327,2012,2012-04-17,2,Royal Challengers Bangalore,20,183.0,20.0,False,False,False,19,{}
+548328,2012,2012-04-18,1,Kings XI Punjab,20,,,False,False,False,19,{}
+548328,2012,2012-04-18,2,Kolkata Knight Riders,17,125.0,20.0,False,False,False,16,{}
+548329,2012,2012-05-10,1,Deccan Chargers,20,,,False,False,False,19,{}
+548329,2012,2012-05-10,2,Delhi Daredevils,17,188.0,20.0,False,False,False,16,{}
+548330,2012,2012-04-19,1,Chennai Super Kings,20,,,False,False,False,19,{}
+548330,2012,2012-04-19,2,Pune Warriors,20,165.0,20.0,False,False,False,19,{}
+548331,2012,2012-04-20,1,Kings XI Punjab,20,,,False,False,False,19,{}
+548331,2012,2012-04-20,2,Royal Challengers Bangalore,20,164.0,20.0,False,False,False,19,{}
+548332,2012,2012-04-21,1,Rajasthan Royals,20,,,False,False,False,19,{}
+548332,2012,2012-04-21,2,Chennai Super Kings,20,147.0,20.0,False,False,False,19,{}
+548333,2012,2012-04-21,1,Pune Warriors,20,,,False,False,False,19,{}
+548333,2012,2012-04-21,2,Delhi Daredevils,20,193.0,20.0,False,False,False,19,{}
+548334,2012,2012-04-22,1,Mumbai Indians,20,,,False,False,False,19,{}
+548334,2012,2012-04-22,2,Kings XI Punjab,20,164.0,20.0,False,False,False,19,{}
+548335,2012,2012-04-22,1,Deccan Chargers,20,,,False,False,False,19,{}
+548335,2012,2012-04-22,2,Kolkata Knight Riders,20,127.0,20.0,False,False,False,19,{}
+548336,2012,2012-04-23,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+548336,2012,2012-04-23,2,Rajasthan Royals,20,190.0,20.0,False,False,False,19,{}
+548337,2012,2012-04-24,1,Pune Warriors,20,,,False,False,False,19,{}
+548337,2012,2012-04-24,2,Delhi Daredevils,16,147.0,20.0,False,False,False,15,{}
+548339,2012,2012-04-25,1,Kings XI Punjab,20,,,False,False,False,19,{}
+548339,2012,2012-04-25,2,Mumbai Indians,20,169.0,20.0,False,False,False,19,{}
+548341,2012,2012-04-26,1,Deccan Chargers,20,,,False,False,False,19,{}
+548341,2012,2012-04-26,2,Pune Warriors,20,178.0,20.0,False,False,False,19,{}
+548342,2012,2012-04-27,1,Delhi Daredevils,20,,,False,False,False,19,{}
+548342,2012,2012-04-27,2,Mumbai Indians,20,208.0,20.0,False,False,False,19,{}
+548343,2012,2012-04-28,1,Kings XI Punjab,20,,,False,False,False,19,{}
+548343,2012,2012-04-28,2,Chennai Super Kings,20,157.0,20.0,False,False,False,19,{}
+548344,2012,2012-04-28,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+548344,2012,2012-04-28,2,Royal Challengers Bangalore,20,191.0,20.0,False,False,False,19,{}
+548345,2012,2012-04-29,1,Delhi Daredevils,20,,,False,False,False,19,{}
+548345,2012,2012-04-29,2,Rajasthan Royals,20,153.0,20.0,False,False,False,19,{}
+548346,2012,2012-04-29,1,Deccan Chargers,19,,,False,False,False,18,{}
+548346,2012,2012-04-29,2,Mumbai Indians,19,101.0,20.0,False,False,False,18,{}
+548347,2012,2012-04-30,1,Chennai Super Kings,20,,,False,False,False,19,{}
+548347,2012,2012-04-30,2,Kolkata Knight Riders,20,140.0,20.0,False,False,False,19,{}
+548348,2012,2012-05-01,1,Deccan Chargers,20,,,False,False,False,19,{}
+548348,2012,2012-05-01,2,Pune Warriors,20,187.0,20.0,False,False,False,19,{}
+548349,2012,2012-05-01,1,Rajasthan Royals,20,,,False,False,False,19,{}
+548349,2012,2012-05-01,2,Delhi Daredevils,16,142.0,20.0,False,False,False,15,{}
+548350,2012,2012-05-02,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+548350,2012,2012-05-02,2,Kings XI Punjab,20,159.0,20.0,False,False,False,19,{}
+548351,2012,2012-05-03,1,Mumbai Indians,20,,,False,False,False,19,{}
+548351,2012,2012-05-03,2,Pune Warriors,20,121.0,20.0,False,False,False,19,{}
+548352,2012,2012-05-04,1,Chennai Super Kings,20,,,False,False,False,19,{}
+548352,2012,2012-05-04,2,Deccan Chargers,20,161.0,20.0,False,False,False,19,{}
+548353,2012,2012-05-05,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+548353,2012,2012-05-05,2,Pune Warriors,20,151.0,20.0,False,False,False,19,{}
+548354,2012,2012-05-05,1,Rajasthan Royals,20,,,False,False,False,19,{}
+548354,2012,2012-05-05,2,Kings XI Punjab,20,178.0,20.0,False,False,False,19,{}
+548355,2012,2012-05-06,1,Chennai Super Kings,20,,,False,False,False,19,{}
+548355,2012,2012-05-06,2,Mumbai Indians,20,174.0,20.0,False,False,False,19,{}
+548356,2012,2012-05-06,1,Deccan Chargers,20,,,False,False,False,19,{}
+548356,2012,2012-05-06,2,Royal Challengers Bangalore,19,182.0,20.0,False,False,False,18,{}
+548357,2012,2012-05-07,1,Delhi Daredevils,20,,,False,False,False,19,{}
+548357,2012,2012-05-07,2,Kolkata Knight Riders,19,154.0,20.0,False,False,False,18,{}
+548358,2012,2012-05-08,1,Pune Warriors,20,,,False,False,False,19,{}
+548358,2012,2012-05-08,2,Rajasthan Royals,17,126.0,20.0,False,False,False,16,{}
+548359,2012,2012-05-08,1,Kings XI Punjab,20,,,False,False,False,19,{}
+548359,2012,2012-05-08,2,Deccan Chargers,20,171.0,20.0,False,False,False,19,{}
+548360,2012,2012-05-09,1,Mumbai Indians,20,,,False,False,False,19,{}
+548360,2012,2012-05-09,2,Royal Challengers Bangalore,18,142.0,20.0,False,False,False,17,{}
+548361,2012,2012-05-10,1,Rajasthan Royals,20,,,False,False,False,19,{}
+548361,2012,2012-05-10,2,Chennai Super Kings,19,127.0,20.0,False,False,False,18,{}
+548362,2012,2012-05-11,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+548362,2012,2012-05-11,2,Pune Warriors,20,174.0,20.0,False,False,False,19,{}
+548363,2012,2012-05-12,1,Mumbai Indians,20,,,False,False,False,19,{}
+548363,2012,2012-05-12,2,Kolkata Knight Riders,20,183.0,20.0,False,False,False,19,{}
+548364,2012,2012-05-12,1,Delhi Daredevils,20,,,False,False,False,19,{}
+548364,2012,2012-05-12,2,Chennai Super Kings,16,115.0,20.0,False,False,False,15,{}
+548365,2012,2012-05-13,1,Rajasthan Royals,20,,,False,False,False,19,{}
+548365,2012,2012-05-13,2,Pune Warriors,20,171.0,20.0,False,False,False,19,{}
+548366,2012,2012-05-13,1,Deccan Chargers,20,,,False,False,False,19,{}
+548366,2012,2012-05-13,2,Kings XI Punjab,20,191.0,20.0,False,False,False,19,{}
+548367,2012,2012-05-14,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+548367,2012,2012-05-14,2,Mumbai Indians,20,172.0,20.0,False,False,False,19,{}
+548368,2012,2012-05-14,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+548368,2012,2012-05-14,2,Chennai Super Kings,20,159.0,20.0,False,False,False,19,{}
+548369,2012,2012-05-15,1,Kings XI Punjab,20,,,False,False,False,19,{}
+548369,2012,2012-05-15,2,Delhi Daredevils,19,137.0,20.0,False,False,False,18,{}
+548370,2012,2012-05-16,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+548370,2012,2012-05-16,2,Mumbai Indians,20,141.0,20.0,False,False,False,19,{}
+548371,2012,2012-05-17,1,Chennai Super Kings,20,,,False,False,False,19,{}
+548371,2012,2012-05-17,2,Kings XI Punjab,17,121.0,20.0,False,False,False,16,{}
+548372,2012,2012-05-17,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+548372,2012,2012-05-17,2,Delhi Daredevils,20,216.0,20.0,False,False,False,19,{}
+548373,2012,2012-05-18,1,Rajasthan Royals,20,,,False,False,False,19,{}
+548373,2012,2012-05-18,2,Deccan Chargers,19,127.0,20.0,False,False,False,18,{}
+548374,2012,2012-05-19,1,Kings XI Punjab,20,,,False,False,False,19,{}
+548374,2012,2012-05-19,2,Delhi Daredevils,19,142.0,20.0,False,False,False,18,{}
+548375,2012,2012-05-19,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+548375,2012,2012-05-19,2,Pune Warriors,20,137.0,20.0,False,False,False,19,{}
+548376,2012,2012-05-20,1,Deccan Chargers,20,,,False,False,False,19,{}
+548376,2012,2012-05-20,2,Royal Challengers Bangalore,20,133.0,20.0,False,False,False,19,{}
+548377,2012,2012-05-20,1,Rajasthan Royals,20,,,False,False,False,19,{}
+548377,2012,2012-05-20,2,Mumbai Indians,19,163.0,20.0,False,False,False,18,{}
+548378,2012,2012-05-22,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+548378,2012,2012-05-22,2,Delhi Daredevils,20,163.0,20.0,False,False,False,19,{}
+548379,2012,2012-05-23,1,Chennai Super Kings,20,,,False,False,False,19,{}
+548379,2012,2012-05-23,2,Mumbai Indians,20,188.0,20.0,False,False,False,19,{}
+548380,2012,2012-05-25,1,Chennai Super Kings,20,,,False,False,False,19,{}
+548380,2012,2012-05-25,2,Delhi Daredevils,17,223.0,20.0,False,False,False,16,{}
+548381,2012,2012-05-27,1,Chennai Super Kings,20,,,False,False,False,19,{}
+548381,2012,2012-05-27,2,Kolkata Knight Riders,20,191.0,20.0,False,False,False,19,{}
+597998,2013,2013-04-03,1,Delhi Daredevils,20,,,False,False,False,19,{}
+597998,2013,2013-04-03,2,Kolkata Knight Riders,19,129.0,20.0,False,False,False,18,{}
+597999,2013,2013-04-04,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+597999,2013,2013-04-04,2,Mumbai Indians,20,157.0,20.0,False,False,False,19,{}
+598000,2013,2013-04-05,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+598000,2013,2013-04-05,2,Pune Warriors,19,127.0,20.0,False,False,False,18,{}
+598001,2013,2013-04-06,1,Rajasthan Royals,20,,,False,False,False,19,{}
+598001,2013,2013-04-06,2,Delhi Daredevils,20,166.0,20.0,False,False,False,19,{}
+598002,2013,2013-04-06,1,Mumbai Indians,20,,,False,False,False,19,{}
+598002,2013,2013-04-06,2,Chennai Super Kings,20,149.0,20.0,False,False,False,19,{}
+598003,2013,2013-04-07,1,Pune Warriors,20,,,False,False,False,19,{}
+598003,2013,2013-04-07,2,Kings XI Punjab,13,100.0,20.0,False,False,False,12,{}
+598004,2013,2013-04-07,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+598004,2013,2013-04-07,2,Sunrisers Hyderabad,20,131.0,20.0,False,False,False,19,{}
+598004,2013,2013-04-07,3,Sunrisers Hyderabad,1,,,True,False,False,0,{}
+598004,2013,2013-04-07,4,Royal Challengers Bangalore,1,,,True,False,False,0,{}
+598005,2013,2013-04-08,1,Rajasthan Royals,20,,,False,False,False,19,{}
+598005,2013,2013-04-08,2,Kolkata Knight Riders,19,145.0,20.0,False,False,False,18,{}
+598006,2013,2013-04-09,1,Mumbai Indians,20,,,False,False,False,19,{}
+598006,2013,2013-04-09,2,Delhi Daredevils,20,210.0,20.0,False,False,False,19,{}
+598007,2013,2013-04-10,1,Kings XI Punjab,20,,,False,False,False,19,{}
+598007,2013,2013-04-10,2,Chennai Super Kings,18,139.0,20.0,False,False,False,17,{}
+598008,2013,2013-04-11,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+598008,2013,2013-04-11,2,Royal Challengers Bangalore,18,155.0,20.0,False,False,False,17,{}
+598009,2013,2013-04-11,1,Rajasthan Royals,20,,,False,False,False,19,{}
+598009,2013,2013-04-11,2,Pune Warriors,19,146.0,20.0,False,False,False,18,{}
+598010,2013,2013-04-12,1,Delhi Daredevils,20,,,False,False,False,19,{}
+598010,2013,2013-04-12,2,Sunrisers Hyderabad,20,115.0,20.0,False,False,False,19,{}
+598011,2013,2013-04-13,1,Mumbai Indians,20,,,False,False,False,19,{}
+598011,2013,2013-04-13,2,Pune Warriors,20,184.0,20.0,False,False,False,19,{}
+598012,2013,2013-04-13,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+598012,2013,2013-04-13,2,Chennai Super Kings,20,166.0,20.0,False,False,False,19,{}
+598013,2013,2013-04-14,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+598013,2013,2013-04-14,2,Sunrisers Hyderabad,20,181.0,20.0,False,False,False,19,{}
+598014,2013,2013-04-14,1,Kings XI Punjab,19,,,False,False,False,18,{}
+598014,2013,2013-04-14,2,Rajasthan Royals,20,125.0,20.0,False,False,False,19,{}
+598015,2013,2013-04-15,1,Pune Warriors,20,,,False,False,False,19,{}
+598015,2013,2013-04-15,2,Chennai Super Kings,20,160.0,20.0,False,False,False,19,{}
+598016,2013,2013-04-16,1,Kings XI Punjab,20,,,False,False,False,19,{}
+598016,2013,2013-04-16,2,Kolkata Knight Riders,20,158.0,20.0,False,False,False,19,{}
+598017,2013,2013-04-16,1,Delhi Daredevils,20,,,False,False,False,19,{}
+598017,2013,2013-04-16,2,Royal Challengers Bangalore,20,153.0,20.0,False,False,False,19,{}
+598017,2013,2013-04-16,3,Royal Challengers Bangalore,1,,,True,False,False,0,{}
+598017,2013,2013-04-16,4,Delhi Daredevils,1,,,True,False,False,0,{}
+598018,2013,2013-04-17,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+598018,2013,2013-04-17,2,Pune Warriors,19,120.0,20.0,False,False,False,18,{}
+598019,2013,2013-04-17,1,Rajasthan Royals,20,,,False,False,False,19,{}
+598019,2013,2013-04-17,2,Mumbai Indians,19,180.0,20.0,False,False,False,18,{}
+598020,2013,2013-04-18,1,Chennai Super Kings,20,,,False,False,False,19,{}
+598020,2013,2013-04-18,2,Delhi Daredevils,18,170.0,20.0,False,False,False,17,{}
+598021,2013,2013-04-19,1,Kings XI Punjab,20,,,False,False,False,19,{}
+598021,2013,2013-04-19,2,Sunrisers Hyderabad,19,124.0,20.0,False,False,False,18,{}
+598022,2013,2013-04-20,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+598022,2013,2013-04-20,2,Chennai Super Kings,20,120.0,20.0,False,False,False,19,{}
+598023,2013,2013-04-20,1,Rajasthan Royals,20,,,False,False,False,19,{}
+598023,2013,2013-04-20,2,Royal Challengers Bangalore,18,118.0,20.0,False,False,False,17,{}
+598024,2013,2013-04-21,1,Mumbai Indians,20,,,False,False,False,19,{}
+598024,2013,2013-04-21,2,Delhi Daredevils,17,162.0,20.0,False,False,False,16,{}
+598025,2013,2013-04-21,1,Pune Warriors,20,,,False,False,False,19,{}
+598025,2013,2013-04-21,2,Kings XI Punjab,20,186.0,20.0,False,False,False,19,{}
+598026,2013,2013-04-22,1,Rajasthan Royals,20,,,False,False,False,19,{}
+598026,2013,2013-04-22,2,Chennai Super Kings,20,186.0,20.0,False,False,False,19,{}
+598027,2013,2013-04-23,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+598027,2013,2013-04-23,2,Pune Warriors,20,264.0,20.0,False,False,False,19,{}
+598028,2013,2013-05-16,1,Kings XI Punjab,20,,,False,False,False,19,{}
+598028,2013,2013-05-16,2,Delhi Daredevils,20,172.0,20.0,False,False,False,19,{}
+598029,2013,2013-04-24,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+598029,2013,2013-04-24,2,Mumbai Indians,20,160.0,20.0,False,False,False,19,{}
+598030,2013,2013-04-25,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+598030,2013,2013-04-25,2,Chennai Super Kings,20,160.0,20.0,False,False,False,19,{}
+598031,2013,2013-04-26,1,Kings XI Punjab,20,,,False,False,False,19,{}
+598031,2013,2013-04-26,2,Kolkata Knight Riders,19,150.0,20.0,False,False,False,18,{}
+598032,2013,2013-04-27,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+598032,2013,2013-04-27,2,Rajasthan Royals,18,145.0,20.0,False,False,False,17,{}
+598033,2013,2013-04-27,1,Mumbai Indians,20,,,False,False,False,19,{}
+598033,2013,2013-04-27,2,Royal Challengers Bangalore,20,195.0,20.0,False,False,False,19,{}
+598034,2013,2013-04-28,1,Chennai Super Kings,20,,,False,False,False,19,{}
+598034,2013,2013-04-28,2,Kolkata Knight Riders,20,201.0,20.0,False,False,False,19,{}
+598035,2013,2013-04-28,1,Delhi Daredevils,20,,,False,False,False,19,{}
+598035,2013,2013-04-28,2,Pune Warriors,20,165.0,20.0,False,False,False,19,{}
+598036,2013,2013-04-29,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+598036,2013,2013-04-29,2,Rajasthan Royals,20,172.0,20.0,False,False,False,19,{}
+598037,2013,2013-04-29,1,Mumbai Indians,20,,,False,False,False,19,{}
+598037,2013,2013-04-29,2,Kings XI Punjab,20,175.0,20.0,False,False,False,19,{}
+598038,2013,2013-04-30,1,Chennai Super Kings,20,,,False,False,False,19,{}
+598038,2013,2013-04-30,2,Pune Warriors,20,165.0,20.0,False,False,False,19,{}
+598039,2013,2013-05-01,1,Mumbai Indians,20,,,False,False,False,19,{}
+598039,2013,2013-05-01,2,Sunrisers Hyderabad,18,130.0,20.0,False,False,False,17,{}
+598040,2013,2013-05-01,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+598040,2013,2013-05-01,2,Delhi Daredevils,18,137.0,20.0,False,False,False,17,{}
+598041,2013,2013-05-02,1,Chennai Super Kings,20,,,False,False,False,19,{}
+598041,2013,2013-05-02,2,Kings XI Punjab,20,187.0,20.0,False,False,False,19,{}
+598042,2013,2013-05-02,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+598042,2013,2013-05-02,2,Pune Warriors,20,188.0,20.0,False,False,False,19,{}
+598043,2013,2013-05-03,1,Rajasthan Royals,20,,,False,False,False,19,{}
+598043,2013,2013-05-03,2,Kolkata Knight Riders,18,133.0,20.0,False,False,False,17,{}
+598044,2013,2013-05-04,1,Delhi Daredevils,20,,,False,False,False,19,{}
+598044,2013,2013-05-04,2,Sunrisers Hyderabad,14,81.0,20.0,False,False,False,13,{}
+598045,2013,2013-05-14,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+598045,2013,2013-05-14,2,Kings XI Punjab,19,175.0,20.0,False,False,False,18,{}
+598046,2013,2013-05-05,1,Mumbai Indians,20,,,False,False,False,19,{}
+598046,2013,2013-05-05,2,Chennai Super Kings,16,140.0,20.0,False,False,False,15,{}
+598047,2013,2013-05-05,1,Pune Warriors,20,,,False,False,False,19,{}
+598047,2013,2013-05-05,2,Rajasthan Royals,20,179.0,20.0,False,False,False,19,{}
+598048,2013,2013-04-09,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+598048,2013,2013-04-09,2,Royal Challengers Bangalore,18,162.0,20.0,False,False,False,17,{}
+598049,2013,2013-05-07,1,Delhi Daredevils,20,,,False,False,False,19,{}
+598049,2013,2013-05-07,2,Rajasthan Royals,18,155.0,20.0,False,False,False,17,{}
+598050,2013,2013-05-07,1,Mumbai Indians,20,,,False,False,False,19,{}
+598050,2013,2013-05-07,2,Kolkata Knight Riders,19,171.0,20.0,False,False,False,18,{}
+598051,2013,2013-05-08,1,Chennai Super Kings,20,,,False,False,False,19,{}
+598051,2013,2013-05-08,2,Sunrisers Hyderabad,20,224.0,20.0,False,False,False,19,{}
+598052,2013,2013-05-09,1,Kings XI Punjab,20,,,False,False,False,19,{}
+598052,2013,2013-05-09,2,Rajasthan Royals,19,146.0,20.0,False,False,False,18,{}
+598053,2013,2013-05-09,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+598053,2013,2013-05-09,2,Pune Warriors,20,153.0,20.0,False,False,False,19,{}
+598054,2013,2013-05-10,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+598054,2013,2013-05-10,2,Delhi Daredevils,20,184.0,20.0,False,False,False,19,{}
+598055,2013,2013-05-11,1,Pune Warriors,20,,,False,False,False,19,{}
+598055,2013,2013-05-11,2,Mumbai Indians,19,113.0,20.0,False,False,False,18,{}
+598056,2013,2013-05-11,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+598056,2013,2013-05-11,2,Kings XI Punjab,20,151.0,20.0,False,False,False,19,{}
+598057,2013,2013-05-12,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+598057,2013,2013-05-12,2,Kolkata Knight Riders,20,116.0,20.0,False,False,False,19,{}
+598058,2013,2013-05-12,1,Chennai Super Kings,20,,,False,False,False,19,{}
+598058,2013,2013-05-12,2,Rajasthan Royals,18,142.0,20.0,False,False,False,17,{}
+598059,2013,2013-04-23,1,Delhi Daredevils,20,,,False,False,False,19,{}
+598059,2013,2013-04-23,2,Kings XI Punjab,17,121.0,20.0,False,False,False,16,{}
+598060,2013,2013-05-13,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+598060,2013,2013-05-13,2,Mumbai Indians,20,179.0,20.0,False,False,False,19,{}
+598061,2013,2013-05-15,1,Pune Warriors,20,,,False,False,False,19,{}
+598061,2013,2013-05-15,2,Kolkata Knight Riders,20,171.0,20.0,False,False,False,19,{}
+598062,2013,2013-05-14,1,Chennai Super Kings,20,,,False,False,False,19,{}
+598062,2013,2013-05-14,2,Delhi Daredevils,20,169.0,20.0,False,False,False,19,{}
+598063,2013,2013-05-15,1,Mumbai Indians,20,,,False,False,False,19,{}
+598063,2013,2013-05-15,2,Rajasthan Royals,20,167.0,20.0,False,False,False,19,{}
+598064,2013,2013-05-06,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+598064,2013,2013-05-06,2,Kings XI Punjab,18,191.0,20.0,False,False,False,17,{}
+598065,2013,2013-05-17,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+598065,2013,2013-05-17,2,Rajasthan Royals,20,137.0,20.0,False,False,False,19,{}
+598066,2013,2013-05-18,1,Kings XI Punjab,20,,,False,False,False,19,{}
+598066,2013,2013-05-18,2,Mumbai Indians,20,184.0,20.0,False,False,False,19,{}
+598067,2013,2013-05-19,1,Pune Warriors,20,,,False,False,False,19,{}
+598067,2013,2013-05-19,2,Delhi Daredevils,20,173.0,20.0,False,False,False,19,{}
+598068,2013,2013-05-18,1,Royal Challengers Bangalore,8,,,False,False,False,7,{}
+598068,2013,2013-05-18,2,Chennai Super Kings,8,107.0,8.0,False,False,False,7,{}
+598069,2013,2013-05-19,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+598069,2013,2013-05-19,2,Sunrisers Hyderabad,19,131.0,20.0,False,False,False,18,{}
+598070,2013,2013-05-21,1,Chennai Super Kings,20,,,False,False,False,19,{}
+598070,2013,2013-05-21,2,Mumbai Indians,19,193.0,20.0,False,False,False,18,{}
+598071,2013,2013-05-22,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+598071,2013,2013-05-22,2,Rajasthan Royals,20,133.0,20.0,False,False,False,19,{}
+598072,2013,2013-05-24,1,Rajasthan Royals,20,,,False,False,False,19,{}
+598072,2013,2013-05-24,2,Mumbai Indians,20,166.0,20.0,False,False,False,19,{}
+598073,2013,2013-05-26,1,Mumbai Indians,20,,,False,False,False,19,{}
+598073,2013,2013-05-26,2,Chennai Super Kings,20,149.0,20.0,False,False,False,19,{}
+729279,2014,2014-04-16,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+729279,2014,2014-04-16,2,Mumbai Indians,20,164.0,20.0,False,False,False,19,{}
+729281,2014,2014-04-17,1,Delhi Daredevils,20,,,False,False,False,19,{}
+729281,2014,2014-04-17,2,Royal Challengers Bangalore,17,146.0,20.0,False,False,False,16,{}
+729283,2014,2014-04-18,1,Chennai Super Kings,20,,,False,False,False,19,{}
+729283,2014,2014-04-18,2,Kings XI Punjab,19,206.0,20.0,False,False,False,18,{}
+729285,2014,2014-04-18,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+729285,2014,2014-04-18,2,Rajasthan Royals,20,134.0,20.0,False,False,False,19,{}
+729287,2014,2014-04-19,1,Mumbai Indians,20,,,False,False,False,19,{}
+729287,2014,2014-04-19,2,Royal Challengers Bangalore,18,116.0,20.0,False,False,False,17,{}
+729289,2014,2014-04-19,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+729289,2014,2014-04-19,2,Delhi Daredevils,20,167.0,20.0,False,False,False,19,{}
+729291,2014,2014-04-20,1,Rajasthan Royals,20,,,False,False,False,19,{}
+729291,2014,2014-04-20,2,Kings XI Punjab,19,192.0,20.0,False,False,False,18,{}
+729293,2014,2014-04-21,1,Chennai Super Kings,20,,,False,False,False,19,{}
+729293,2014,2014-04-21,2,Delhi Daredevils,16,178.0,20.0,False,False,False,15,{}
+729295,2014,2014-04-22,1,Kings XI Punjab,20,,,False,False,False,19,{}
+729295,2014,2014-04-22,2,Sunrisers Hyderabad,20,194.0,20.0,False,False,False,19,{}
+729297,2014,2014-04-23,1,Chennai Super Kings,20,,,False,False,False,19,{}
+729297,2014,2014-04-23,2,Rajasthan Royals,20,141.0,20.0,False,False,False,19,{}
+729299,2014,2014-04-24,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+729299,2014,2014-04-24,2,Royal Challengers Bangalore,20,151.0,20.0,False,False,False,19,{}
+729301,2014,2014-04-25,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+729301,2014,2014-04-25,2,Delhi Daredevils,20,185.0,20.0,False,False,False,19,{}
+729303,2014,2014-04-25,1,Mumbai Indians,20,,,False,False,False,19,{}
+729303,2014,2014-04-25,2,Chennai Super Kings,19,142.0,20.0,False,False,False,18,{}
+729305,2014,2014-04-26,1,Royal Challengers Bangalore,15,,,False,False,False,14,{}
+729305,2014,2014-04-26,2,Rajasthan Royals,13,71.0,20.0,False,False,False,12,{}
+729307,2014,2014-04-26,1,Kings XI Punjab,20,,,False,False,False,19,{}
+729307,2014,2014-04-26,2,Kolkata Knight Riders,19,133.0,20.0,False,False,False,18,{}
+729309,2014,2014-04-27,1,Mumbai Indians,20,,,False,False,False,19,{}
+729309,2014,2014-04-27,2,Delhi Daredevils,19,126.0,20.0,False,False,False,18,{}
+729311,2014,2014-04-27,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+729311,2014,2014-04-27,2,Chennai Super Kings,20,146.0,20.0,False,False,False,19,{}
+729313,2014,2014-04-28,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+729313,2014,2014-04-28,2,Kings XI Punjab,19,125.0,20.0,False,False,False,18,{}
+729315,2014,2014-04-29,1,Rajasthan Royals,20,,,False,False,False,19,{}
+729315,2014,2014-04-29,2,Kolkata Knight Riders,20,153.0,20.0,False,False,False,19,{}
+729315,2014,2014-04-29,3,Kolkata Knight Riders,1,,,True,False,False,0,{}
+729315,2014,2014-04-29,4,Rajasthan Royals,1,,,True,False,False,0,{}
+729317,2014,2014-04-30,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+729317,2014,2014-04-30,2,Mumbai Indians,20,173.0,20.0,False,False,False,19,{}
+733971,2014,2014-05-02,1,Chennai Super Kings,17,,,False,False,False,16,{}
+733971,2014,2014-05-02,2,Kolkata Knight Riders,17,149.0,17.0,False,False,False,16,{}
+733973,2014,2014-05-03,1,Kings XI Punjab,20,,,False,False,False,19,{}
+733973,2014,2014-05-03,2,Mumbai Indians,20,169.0,20.0,False,False,False,19,{}
+733975,2014,2014-05-03,1,Delhi Daredevils,20,,,False,False,False,19,{}
+733975,2014,2014-05-03,2,Rajasthan Royals,19,153.0,20.0,False,False,False,18,{}
+733977,2014,2014-05-04,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+733977,2014,2014-05-04,2,Royal Challengers Bangalore,20,156.0,20.0,False,False,False,19,{}
+733979,2014,2014-05-05,1,Rajasthan Royals,20,,,False,False,False,19,{}
+733979,2014,2014-05-05,2,Kolkata Knight Riders,20,171.0,20.0,False,False,False,19,{}
+733981,2014,2014-05-05,1,Delhi Daredevils,20,,,False,False,False,19,{}
+733981,2014,2014-05-05,2,Chennai Super Kings,20,179.0,20.0,False,False,False,19,{}
+733983,2014,2014-05-06,1,Mumbai Indians,20,,,False,False,False,19,{}
+733983,2014,2014-05-06,2,Royal Challengers Bangalore,20,188.0,20.0,False,False,False,19,{}
+733985,2014,2014-05-07,1,Delhi Daredevils,20,,,False,False,False,19,{}
+733985,2014,2014-05-07,2,Kolkata Knight Riders,19,161.0,20.0,False,False,False,18,{}
+733987,2014,2014-05-07,1,Kings XI Punjab,20,,,False,False,False,19,{}
+733987,2014,2014-05-07,2,Chennai Super Kings,20,232.0,20.0,False,False,False,19,{}
+733989,2014,2014-05-08,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+733989,2014,2014-05-08,2,Rajasthan Royals,20,135.0,20.0,False,False,False,19,{}
+733991,2014,2014-05-09,1,Kings XI Punjab,20,,,False,False,False,19,{}
+733991,2014,2014-05-09,2,Royal Challengers Bangalore,20,199.0,20.0,False,False,False,19,{}
+733993,2014,2014-05-10,1,Delhi Daredevils,20,,,False,False,False,19,{}
+733993,2014,2014-05-10,2,Sunrisers Hyderabad,5,43.0,5.0,False,False,False,4,{}
+733995,2014,2014-05-10,1,Mumbai Indians,20,,,False,False,False,19,{}
+733995,2014,2014-05-10,2,Chennai Super Kings,20,158.0,20.0,False,False,False,19,{}
+733997,2014,2014-05-11,1,Kings XI Punjab,20,,,False,False,False,19,{}
+733997,2014,2014-05-11,2,Kolkata Knight Riders,18,150.0,20.0,False,False,False,17,{}
+733999,2014,2014-05-11,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+733999,2014,2014-05-11,2,Rajasthan Royals,19,191.0,20.0,False,False,False,18,{}
+734001,2014,2014-05-12,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+734001,2014,2014-05-12,2,Mumbai Indians,19,158.0,20.0,False,False,False,18,{}
+734003,2014,2014-05-13,1,Rajasthan Royals,20,,,False,False,False,19,{}
+734003,2014,2014-05-13,2,Chennai Super Kings,20,149.0,20.0,False,False,False,19,{}
+734005,2014,2014-05-13,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+734005,2014,2014-05-13,2,Delhi Daredevils,20,187.0,20.0,False,False,False,19,{}
+734007,2014,2014-05-14,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+734007,2014,2014-05-14,2,Kings XI Punjab,19,206.0,20.0,False,False,False,18,{}
+734009,2014,2014-05-14,1,Mumbai Indians,20,,,False,False,False,19,{}
+734009,2014,2014-05-14,2,Kolkata Knight Riders,19,142.0,20.0,False,False,False,18,{}
+734011,2014,2014-05-15,1,Rajasthan Royals,20,,,False,False,False,19,{}
+734011,2014,2014-05-15,2,Delhi Daredevils,20,202.0,20.0,False,False,False,19,{}
+734013,2014,2014-05-18,1,Chennai Super Kings,20,,,False,False,False,19,{}
+734013,2014,2014-05-18,2,Royal Challengers Bangalore,20,139.0,20.0,False,False,False,19,{}
+734015,2014,2014-05-18,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+734015,2014,2014-05-18,2,Kolkata Knight Riders,20,143.0,20.0,False,False,False,19,{}
+734017,2014,2014-05-19,1,Mumbai Indians,20,,,False,False,False,19,{}
+734017,2014,2014-05-19,2,Rajasthan Royals,20,179.0,20.0,False,False,False,19,{}
+734019,2014,2014-05-19,1,Delhi Daredevils,20,,,False,False,False,19,{}
+734019,2014,2014-05-19,2,Kings XI Punjab,20,165.0,20.0,False,False,False,19,{}
+734021,2014,2014-05-20,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+734021,2014,2014-05-20,2,Sunrisers Hyderabad,20,161.0,20.0,False,False,False,19,{}
+734023,2014,2014-05-20,1,Chennai Super Kings,20,,,False,False,False,19,{}
+734023,2014,2014-05-20,2,Kolkata Knight Riders,18,155.0,20.0,False,False,False,17,{}
+734025,2014,2014-05-21,1,Kings XI Punjab,20,,,False,False,False,19,{}
+734025,2014,2014-05-21,2,Mumbai Indians,19,157.0,20.0,False,False,False,18,{}
+734027,2014,2014-05-22,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+734027,2014,2014-05-22,2,Royal Challengers Bangalore,20,196.0,20.0,False,False,False,19,{}
+734029,2014,2014-05-22,1,Chennai Super Kings,20,,,False,False,False,19,{}
+734029,2014,2014-05-22,2,Sunrisers Hyderabad,20,186.0,20.0,False,False,False,19,{}
+734031,2014,2014-05-23,1,Mumbai Indians,20,,,False,False,False,19,{}
+734031,2014,2014-05-23,2,Delhi Daredevils,20,174.0,20.0,False,False,False,19,{}
+734033,2014,2014-05-23,1,Kings XI Punjab,20,,,False,False,False,19,{}
+734033,2014,2014-05-23,2,Rajasthan Royals,20,180.0,20.0,False,False,False,19,{}
+734035,2014,2014-05-24,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+734035,2014,2014-05-24,2,Chennai Super Kings,18,155.0,20.0,False,False,False,17,{}
+734037,2014,2014-05-24,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+734037,2014,2014-05-24,2,Kolkata Knight Riders,15,161.0,20.0,False,False,False,14,{}
+734039,2014,2014-05-25,1,Delhi Daredevils,19,,,False,False,False,18,{}
+734039,2014,2014-05-25,2,Kings XI Punjab,14,116.0,20.0,False,False,False,13,{}
+734041,2014,2014-05-25,1,Rajasthan Royals,20,,,False,False,False,19,{}
+734041,2014,2014-05-25,2,Mumbai Indians,15,190.0,20.0,False,False,False,14,{}
+734043,2014,2014-05-27,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+734043,2014,2014-05-27,2,Kings XI Punjab,20,164.0,20.0,False,False,False,19,{}
+734045,2014,2014-05-28,1,Mumbai Indians,20,,,False,False,False,19,{}
+734045,2014,2014-05-28,2,Chennai Super Kings,19,174.0,20.0,False,False,False,18,{}
+734047,2014,2014-05-30,1,Kings XI Punjab,20,,,False,False,False,19,{}
+734047,2014,2014-05-30,2,Chennai Super Kings,20,227.0,20.0,False,False,False,19,{}
+734049,2014,2014-06-01,1,Kings XI Punjab,20,,,False,False,False,19,{}
+734049,2014,2014-06-01,2,Kolkata Knight Riders,20,200.0,20.0,False,False,False,19,{}
+829705,2015,2015-04-08,1,Mumbai Indians,20,,,False,False,False,19,{}
+829705,2015,2015-04-08,2,Kolkata Knight Riders,19,169.0,20.0,False,False,False,18,{}
+829707,2015,2015-04-09,1,Chennai Super Kings,20,,,False,False,False,19,{}
+829707,2015,2015-04-09,2,Delhi Daredevils,20,151.0,20.0,False,False,False,19,{}
+829709,2015,2015-04-10,1,Rajasthan Royals,20,,,False,False,False,19,{}
+829709,2015,2015-04-10,2,Kings XI Punjab,20,163.0,20.0,False,False,False,19,{}
+829711,2015,2015-04-11,1,Chennai Super Kings,20,,,False,False,False,19,{}
+829711,2015,2015-04-11,2,Sunrisers Hyderabad,20,210.0,20.0,False,False,False,19,{}
+829713,2015,2015-04-11,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+829713,2015,2015-04-11,2,Royal Challengers Bangalore,19,178.0,20.0,False,False,False,18,{}
+829715,2015,2015-04-12,1,Delhi Daredevils,20,,,False,False,False,19,{}
+829715,2015,2015-04-12,2,Rajasthan Royals,20,185.0,20.0,False,False,False,19,{}
+829717,2015,2015-04-12,1,Kings XI Punjab,20,,,False,False,False,19,{}
+829717,2015,2015-04-12,2,Mumbai Indians,20,178.0,20.0,False,False,False,19,{}
+829719,2015,2015-04-13,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+829719,2015,2015-04-13,2,Sunrisers Hyderabad,18,167.0,20.0,False,False,False,17,{}
+829721,2015,2015-04-14,1,Mumbai Indians,20,,,False,False,False,19,{}
+829721,2015,2015-04-14,2,Rajasthan Royals,20,165.0,20.0,False,False,False,19,{}
+829723,2015,2015-04-30,1,Chennai Super Kings,20,,,False,False,False,19,{}
+829723,2015,2015-04-30,2,Kolkata Knight Riders,20,166.0,20.0,False,False,False,19,{}
+829725,2015,2015-04-15,1,Kings XI Punjab,20,,,False,False,False,19,{}
+829725,2015,2015-04-15,2,Delhi Daredevils,20,166.0,20.0,False,False,False,19,{}
+829727,2015,2015-04-16,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+829727,2015,2015-04-16,2,Rajasthan Royals,20,128.0,20.0,False,False,False,19,{}
+829729,2015,2015-04-17,1,Mumbai Indians,20,,,False,False,False,19,{}
+829729,2015,2015-04-17,2,Chennai Super Kings,17,184.0,20.0,False,False,False,16,{}
+829731,2015,2015-04-18,1,Delhi Daredevils,20,,,False,False,False,19,{}
+829731,2015,2015-04-18,2,Sunrisers Hyderabad,20,168.0,20.0,False,False,False,19,{}
+829733,2015,2015-04-18,1,Kings XI Punjab,20,,,False,False,False,19,{}
+829733,2015,2015-04-18,2,Kolkata Knight Riders,18,156.0,20.0,False,False,False,17,{}
+829735,2015,2015-04-19,1,Chennai Super Kings,20,,,False,False,False,19,{}
+829735,2015,2015-04-19,2,Rajasthan Royals,19,157.0,20.0,False,False,False,18,{}
+829737,2015,2015-04-19,1,Mumbai Indians,20,,,False,False,False,19,{}
+829737,2015,2015-04-19,2,Royal Challengers Bangalore,20,210.0,20.0,False,False,False,19,{}
+829739,2015,2015-04-20,1,Delhi Daredevils,20,,,False,False,False,19,{}
+829739,2015,2015-04-20,2,Kolkata Knight Riders,19,147.0,20.0,False,False,False,18,{}
+829741,2015,2015-04-21,1,Rajasthan Royals,20,,,False,False,False,19,{}
+829741,2015,2015-04-21,2,Kings XI Punjab,20,192.0,20.0,False,False,False,19,{}
+829741,2015,2015-04-21,3,Kings XI Punjab,1,,,True,False,False,0,{}
+829741,2015,2015-04-21,4,Rajasthan Royals,1,,,True,False,False,0,{}
+829743,2015,2015-04-22,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+829743,2015,2015-04-22,2,Kolkata Knight Riders,12,118.0,12.0,False,False,False,11,{}
+829745,2015,2015-04-22,1,Chennai Super Kings,20,,,False,False,False,19,{}
+829745,2015,2015-04-22,2,Royal Challengers Bangalore,20,182.0,20.0,False,False,False,19,{}
+829747,2015,2015-04-23,1,Delhi Daredevils,20,,,False,False,False,19,{}
+829747,2015,2015-04-23,2,Mumbai Indians,20,191.0,20.0,False,False,False,19,{}
+829749,2015,2015-04-24,1,Rajasthan Royals,20,,,False,False,False,19,{}
+829749,2015,2015-04-24,2,Royal Challengers Bangalore,17,131.0,20.0,False,False,False,16,{}
+829751,2015,2015-04-25,1,Mumbai Indians,20,,,False,False,False,19,{}
+829751,2015,2015-04-25,2,Sunrisers Hyderabad,20,158.0,20.0,False,False,False,19,{}
+829753,2015,2015-04-25,1,Chennai Super Kings,20,,,False,False,False,19,{}
+829753,2015,2015-04-25,2,Kings XI Punjab,20,193.0,20.0,False,False,False,19,{}
+829757,2015,2015-04-26,1,Delhi Daredevils,19,,,False,False,False,18,{}
+829757,2015,2015-04-26,2,Royal Challengers Bangalore,11,96.0,20.0,False,False,False,10,{}
+829759,2015,2015-04-27,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+829759,2015,2015-04-27,2,Kings XI Punjab,20,151.0,20.0,False,False,False,19,{}
+829761,2015,2015-05-07,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+829761,2015,2015-05-07,2,Delhi Daredevils,20,172.0,20.0,False,False,False,19,{}
+829763,2015,2015-04-29,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+829765,2015,2015-04-28,1,Chennai Super Kings,20,,,False,False,False,19,{}
+829765,2015,2015-04-28,2,Kolkata Knight Riders,20,135.0,20.0,False,False,False,19,{}
+829767,2015,2015-05-01,1,Kings XI Punjab,20,,,False,False,False,19,{}
+829767,2015,2015-05-01,2,Delhi Daredevils,14,119.0,20.0,False,False,False,13,{}
+829769,2015,2015-05-01,1,Mumbai Indians,20,,,False,False,False,19,{}
+829769,2015,2015-05-01,2,Rajasthan Royals,20,188.0,20.0,False,False,False,19,{}
+829771,2015,2015-05-02,1,Kolkata Knight Riders,10,,,False,False,False,9,{}
+829771,2015,2015-05-02,2,Royal Challengers Bangalore,10,112.0,10.0,False,False,False,9,{}
+829773,2015,2015-05-02,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+829773,2015,2015-05-02,2,Chennai Super Kings,20,193.0,20.0,False,False,False,19,{}
+829775,2015,2015-05-03,1,Mumbai Indians,20,,,False,False,False,19,{}
+829775,2015,2015-05-03,2,Kings XI Punjab,20,173.0,20.0,False,False,False,19,{}
+829777,2015,2015-05-03,1,Rajasthan Royals,20,,,False,False,False,19,{}
+829777,2015,2015-05-03,2,Delhi Daredevils,20,190.0,20.0,False,False,False,19,{}
+829779,2015,2015-05-04,1,Chennai Super Kings,20,,,False,False,False,19,{}
+829779,2015,2015-05-04,2,Royal Challengers Bangalore,20,149.0,20.0,False,False,False,19,{}
+829781,2015,2015-05-04,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+829781,2015,2015-05-04,2,Sunrisers Hyderabad,20,168.0,20.0,False,False,False,19,{}
+829783,2015,2015-05-05,1,Delhi Daredevils,20,,,False,False,False,19,{}
+829783,2015,2015-05-05,2,Mumbai Indians,20,153.0,20.0,False,False,False,19,{}
+829785,2015,2015-05-06,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+829785,2015,2015-05-06,2,Kings XI Punjab,14,227.0,20.0,False,False,False,13,{}
+829787,2015,2015-05-07,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+829787,2015,2015-05-07,2,Rajasthan Royals,20,202.0,20.0,False,False,False,19,{}
+829789,2015,2015-05-08,1,Chennai Super Kings,20,,,False,False,False,19,{}
+829789,2015,2015-05-08,2,Mumbai Indians,20,159.0,20.0,False,False,False,19,{}
+829791,2015,2015-05-09,1,Kings XI Punjab,20,,,False,False,False,19,{}
+829791,2015,2015-05-09,2,Kolkata Knight Riders,20,184.0,20.0,False,False,False,19,{}
+829793,2015,2015-05-09,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+829793,2015,2015-05-09,2,Delhi Daredevils,20,164.0,20.0,False,False,False,19,{}
+829795,2015,2015-05-10,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+829795,2015,2015-05-10,2,Mumbai Indians,20,236.0,20.0,False,False,False,19,{}
+829797,2015,2015-05-10,1,Chennai Super Kings,20,,,False,False,False,19,{}
+829797,2015,2015-05-10,2,Rajasthan Royals,20,158.0,20.0,False,False,False,19,{}
+829799,2015,2015-05-11,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+829799,2015,2015-05-11,2,Kings XI Punjab,20,186.0,20.0,False,False,False,19,{}
+829801,2015,2015-05-12,1,Chennai Super Kings,20,,,False,False,False,19,{}
+829801,2015,2015-05-12,2,Delhi Daredevils,17,120.0,20.0,False,False,False,16,{}
+829803,2015,2015-05-13,1,Kings XI Punjab,10,,,False,False,False,9,{}
+829803,2015,2015-05-13,2,Royal Challengers Bangalore,10,107.0,10.0,False,False,False,9,{}
+829805,2015,2015-05-14,1,Mumbai Indians,20,,,False,False,False,19,{}
+829805,2015,2015-05-14,2,Kolkata Knight Riders,20,172.0,20.0,False,False,False,19,{}
+829807,2015,2015-05-15,1,Sunrisers Hyderabad,11,,,False,False,False,10,{}
+829807,2015,2015-05-15,2,Royal Challengers Bangalore,6,81.0,6.0,False,False,False,5,{}
+829809,2015,2015-05-16,1,Kings XI Punjab,20,,,False,False,False,19,{}
+829809,2015,2015-05-16,2,Chennai Super Kings,17,131.0,20.0,False,False,False,16,{}
+829811,2015,2015-05-16,1,Rajasthan Royals,20,,,False,False,False,19,{}
+829811,2015,2015-05-16,2,Kolkata Knight Riders,20,200.0,20.0,False,False,False,19,{}
+829813,2015,2015-05-17,1,Delhi Daredevils,20,,,False,False,False,19,{}
+829813,2015,2015-05-17,2,Royal Challengers Bangalore,2,188.0,20.0,False,False,False,1,{}
+829815,2015,2015-05-17,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+829815,2015,2015-05-17,2,Mumbai Indians,14,114.0,20.0,False,False,False,13,{}
+829817,2015,2015-05-19,1,Mumbai Indians,20,,,False,False,False,19,{}
+829817,2015,2015-05-19,2,Chennai Super Kings,19,188.0,20.0,False,False,False,18,{}
+829819,2015,2015-05-20,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+829819,2015,2015-05-20,2,Rajasthan Royals,19,181.0,20.0,False,False,False,18,{}
+829821,2015,2015-05-22,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+829821,2015,2015-05-22,2,Chennai Super Kings,20,140.0,20.0,False,False,False,19,{}
+829823,2015,2015-05-24,1,Mumbai Indians,20,,,False,False,False,19,{}
+829823,2015,2015-05-24,2,Chennai Super Kings,20,203.0,20.0,False,False,False,19,{}
+980901,2016,2016-04-09,1,Mumbai Indians,20,,,False,False,False,19,{}
+980901,2016,2016-04-09,2,Rising Pune Supergiants,15,122.0,20.0,False,False,False,14,{}
+980903,2016,2016-04-10,1,Delhi Daredevils,18,,,False,False,False,17,{}
+980903,2016,2016-04-10,2,Kolkata Knight Riders,15,99.0,20.0,False,False,False,14,{}
+980905,2016,2016-04-11,1,Kings XI Punjab,20,,,False,False,False,19,{}
+980905,2016,2016-04-11,2,Gujarat Lions,18,162.0,20.0,False,False,False,17,{}
+980907,2016,2016-04-12,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+980907,2016,2016-04-12,2,Sunrisers Hyderabad,20,228.0,20.0,False,False,False,19,{}
+980909,2016,2016-04-13,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+980909,2016,2016-04-13,2,Mumbai Indians,20,188.0,20.0,False,False,False,19,{}
+980911,2016,2016-04-14,1,Rising Pune Supergiants,20,,,False,False,False,19,{}
+980911,2016,2016-04-14,2,Gujarat Lions,19,164.0,20.0,False,False,False,18,{}
+980913,2016,2016-04-15,1,Kings XI Punjab,20,,,False,False,False,19,{}
+980913,2016,2016-04-15,2,Delhi Daredevils,14,112.0,20.0,False,False,False,13,{}
+980915,2016,2016-04-16,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+980915,2016,2016-04-16,2,Kolkata Knight Riders,19,143.0,20.0,False,False,False,18,{}
+980917,2016,2016-04-16,1,Mumbai Indians,20,,,False,False,False,19,{}
+980917,2016,2016-04-16,2,Gujarat Lions,20,144.0,20.0,False,False,False,19,{}
+980919,2016,2016-04-17,1,Rising Pune Supergiants,20,,,False,False,False,19,{}
+980919,2016,2016-04-17,2,Kings XI Punjab,19,153.0,20.0,False,False,False,18,{}
+980921,2016,2016-04-17,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+980921,2016,2016-04-17,2,Delhi Daredevils,20,192.0,20.0,False,False,False,19,{}
+980923,2016,2016-04-18,1,Mumbai Indians,20,,,False,False,False,19,{}
+980923,2016,2016-04-18,2,Sunrisers Hyderabad,18,143.0,20.0,False,False,False,17,{}
+980925,2016,2016-04-19,1,Kings XI Punjab,20,,,False,False,False,19,{}
+980925,2016,2016-04-19,2,Kolkata Knight Riders,18,139.0,20.0,False,False,False,17,{}
+980927,2016,2016-04-20,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+980927,2016,2016-04-20,2,Mumbai Indians,18,171.0,20.0,False,False,False,17,{}
+980929,2016,2016-04-21,1,Gujarat Lions,20,,,False,False,False,19,{}
+980929,2016,2016-04-21,2,Sunrisers Hyderabad,15,136.0,20.0,False,False,False,14,{}
+980931,2016,2016-04-22,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+980931,2016,2016-04-22,2,Rising Pune Supergiants,20,186.0,20.0,False,False,False,19,{}
+980933,2016,2016-04-23,1,Delhi Daredevils,20,,,False,False,False,19,{}
+980933,2016,2016-04-23,2,Mumbai Indians,20,165.0,20.0,False,False,False,19,{}
+980935,2016,2016-04-23,1,Kings XI Punjab,20,,,False,False,False,19,{}
+980935,2016,2016-04-23,2,Sunrisers Hyderabad,18,144.0,20.0,False,False,False,17,{}
+980937,2016,2016-04-24,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+980937,2016,2016-04-24,2,Gujarat Lions,20,181.0,20.0,False,False,False,19,{}
+980939,2016,2016-04-24,1,Rising Pune Supergiants,20,,,False,False,False,19,{}
+980939,2016,2016-04-24,2,Kolkata Knight Riders,20,161.0,20.0,False,False,False,19,{}
+980941,2016,2016-04-25,1,Mumbai Indians,20,,,False,False,False,19,{}
+980941,2016,2016-04-25,2,Kings XI Punjab,20,190.0,20.0,False,False,False,19,{}
+980943,2016,2016-04-26,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+980943,2016,2016-04-26,2,Rising Pune Supergiants,11,61.0,11.0,False,False,False,10,{}
+980945,2016,2016-04-27,1,Gujarat Lions,20,,,False,False,False,19,{}
+980945,2016,2016-04-27,2,Delhi Daredevils,20,173.0,20.0,False,False,False,19,{}
+980947,2016,2016-04-28,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+980947,2016,2016-04-28,2,Mumbai Indians,18,175.0,20.0,False,False,False,17,{}
+980949,2016,2016-04-29,1,Rising Pune Supergiants,20,,,False,False,False,19,{}
+980949,2016,2016-04-29,2,Gujarat Lions,20,196.0,20.0,False,False,False,19,{}
+980951,2016,2016-04-30,1,Delhi Daredevils,20,,,False,False,False,19,{}
+980951,2016,2016-04-30,2,Kolkata Knight Riders,19,187.0,20.0,False,False,False,18,{}
+980953,2016,2016-04-30,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+980953,2016,2016-04-30,2,Royal Challengers Bangalore,20,195.0,20.0,False,False,False,19,{}
+980955,2016,2016-05-01,1,Kings XI Punjab,20,,,False,False,False,19,{}
+980955,2016,2016-05-01,2,Gujarat Lions,20,155.0,20.0,False,False,False,19,{}
+980957,2016,2016-05-01,1,Rising Pune Supergiants,20,,,False,False,False,19,{}
+980957,2016,2016-05-01,2,Mumbai Indians,19,160.0,20.0,False,False,False,18,{}
+980959,2016,2016-05-02,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+980959,2016,2016-05-02,2,Kolkata Knight Riders,20,186.0,20.0,False,False,False,19,{}
+980961,2016,2016-05-03,1,Gujarat Lions,20,,,False,False,False,19,{}
+980961,2016,2016-05-03,2,Delhi Daredevils,18,150.0,20.0,False,False,False,17,{}
+980963,2016,2016-05-04,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+980963,2016,2016-05-04,2,Kings XI Punjab,20,165.0,20.0,False,False,False,19,{}
+980965,2016,2016-05-05,1,Delhi Daredevils,20,,,False,False,False,19,{}
+980965,2016,2016-05-05,2,Rising Pune Supergiants,20,163.0,20.0,False,False,False,19,{}
+980967,2016,2016-05-06,1,Gujarat Lions,20,,,False,False,False,19,{}
+980967,2016,2016-05-06,2,Sunrisers Hyderabad,19,127.0,20.0,False,False,False,18,{}
+980969,2016,2016-05-07,1,Rising Pune Supergiants,20,,,False,False,False,19,{}
+980969,2016,2016-05-07,2,Royal Challengers Bangalore,20,192.0,20.0,False,False,False,19,{}
+980971,2016,2016-05-07,1,Kings XI Punjab,20,,,False,False,False,19,{}
+980971,2016,2016-05-07,2,Delhi Daredevils,20,182.0,20.0,False,False,False,19,{}
+980973,2016,2016-05-08,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+980973,2016,2016-05-08,2,Mumbai Indians,17,178.0,20.0,False,False,False,16,{}
+980975,2016,2016-05-08,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+980975,2016,2016-05-08,2,Gujarat Lions,18,159.0,20.0,False,False,False,17,{}
+980977,2016,2016-05-09,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+980977,2016,2016-05-09,2,Kings XI Punjab,20,176.0,20.0,False,False,False,19,{}
+980979,2016,2016-05-10,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+980979,2016,2016-05-10,2,Rising Pune Supergiants,20,138.0,20.0,False,False,False,19,{}
+980981,2016,2016-05-11,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+980981,2016,2016-05-11,2,Mumbai Indians,19,152.0,20.0,False,False,False,18,{}
+980983,2016,2016-05-12,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+980983,2016,2016-05-12,2,Delhi Daredevils,19,147.0,20.0,False,False,False,18,{}
+980985,2016,2016-05-13,1,Mumbai Indians,20,,,False,False,False,19,{}
+980985,2016,2016-05-13,2,Kings XI Punjab,17,125.0,20.0,False,False,False,16,{}
+980987,2016,2016-05-14,1,Royal Challengers Bangalore,20,,,False,False,False,19,{}
+980987,2016,2016-05-14,2,Gujarat Lions,19,249.0,20.0,False,False,False,18,{}
+980989,2016,2016-05-14,1,Rising Pune Supergiants,18,,,False,False,False,17,{}
+980989,2016,2016-05-14,2,Kolkata Knight Riders,5,66.0,9.0,False,False,False,4,{}
+980991,2016,2016-05-15,1,Kings XI Punjab,20,,,False,False,False,19,{}
+980991,2016,2016-05-15,2,Sunrisers Hyderabad,20,180.0,20.0,False,False,False,19,{}
+980993,2016,2016-05-15,1,Mumbai Indians,20,,,False,False,False,19,{}
+980993,2016,2016-05-15,2,Delhi Daredevils,20,207.0,20.0,False,False,False,19,{}
+980995,2016,2016-05-16,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+980995,2016,2016-05-16,2,Royal Challengers Bangalore,19,184.0,20.0,False,False,False,18,{}
+980997,2016,2016-05-17,1,Delhi Daredevils,20,,,False,False,False,19,{}
+980997,2016,2016-05-17,2,Rising Pune Supergiants,11,58.0,11.0,False,False,False,10,{}
+980999,2016,2016-05-18,1,Royal Challengers Bangalore,15,,,False,False,False,14,{}
+980999,2016,2016-05-18,2,Kings XI Punjab,14,203.0,14.0,False,False,False,13,{}
+981001,2016,2016-05-19,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+981001,2016,2016-05-19,2,Gujarat Lions,14,125.0,20.0,False,False,False,13,{}
+981003,2016,2016-05-20,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+981003,2016,2016-05-20,2,Delhi Daredevils,20,159.0,20.0,False,False,False,19,{}
+981005,2016,2016-05-21,1,Kings XI Punjab,20,,,False,False,False,19,{}
+981005,2016,2016-05-21,2,Rising Pune Supergiants,20,173.0,20.0,False,False,False,19,{}
+981007,2016,2016-05-21,1,Mumbai Indians,20,,,False,False,False,19,{}
+981007,2016,2016-05-21,2,Gujarat Lions,18,173.0,20.0,False,False,False,17,{}
+981009,2016,2016-05-22,1,Kolkata Knight Riders,20,,,False,False,False,19,{}
+981009,2016,2016-05-22,2,Sunrisers Hyderabad,20,172.0,20.0,False,False,False,19,{}
+981011,2016,2016-05-22,1,Delhi Daredevils,20,,,False,False,False,19,{}
+981011,2016,2016-05-22,2,Royal Challengers Bangalore,19,139.0,20.0,False,False,False,18,{}
+981013,2016,2016-05-24,1,Gujarat Lions,20,,,False,False,False,19,{}
+981013,2016,2016-05-24,2,Royal Challengers Bangalore,19,159.0,20.0,False,False,False,18,{}
+981015,2016,2016-05-25,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+981015,2016,2016-05-25,2,Kolkata Knight Riders,20,163.0,20.0,False,False,False,19,{}
+981017,2016,2016-05-27,1,Gujarat Lions,20,,,False,False,False,19,{}
+981017,2016,2016-05-27,2,Sunrisers Hyderabad,20,163.0,20.0,False,False,False,19,{}
+981019,2016,2016-05-29,1,Sunrisers Hyderabad,20,,,False,False,False,19,{}
+981019,2016,2016-05-29,2,Royal Challengers Bangalore,20,209.0,20.0,False,False,False,19,{}

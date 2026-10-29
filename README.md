@@ -21,8 +21,12 @@
 | **04. Silver (Processing)** | Nested JSON de-flattening, dimensional entity normalization | `src/processing/parse_matches.py`, `src/processing/normalize_entities.py` | ✅ Complete |
 | **05. Gold (Aggregations)** | Curated analytical marts: batting, bowling, team performance | `src/processing/build_gold.py` | ✅ Complete |
 | **06. Warehouse (PostgreSQL)** | Schema creation, dimension upserting, fact reload | `sql/schema.sql`, `src/warehouse/load_warehouse.py` | ✅ Complete |
-| **07. Analytics Dashboard** | Interactive match explorer, player stats, team analysis | `dashboard/app.py` | ✅ Complete |
-| **08. Orchestration & Scale** | Scheduled pipeline runs & distributed processing | `dags/sportspulse_pipeline.py` | ⏳ Planned Roadmap |
+| **07. Analytics Dashboard** | 5 analytics pages + Pipeline Control Center + System Architecture | `dashboard/app.py`, `dashboard/pipeline_control.py`, `dashboard/architecture.py` | ✅ Complete |
+| **08. Orchestration & Scale** | Modular Apache Airflow DAG (8 tasks) & Docker Compose setup | `dags/sportspulse_pipeline.py`, `docker-compose.yaml` | ✅ Complete |
+| **09. Automated Testing** | 21 automated unit tests across runner, control, & architecture | `tests/test_runner.py`, `tests/test_dashboard_control.py`, `tests/test_architecture.py` | ✅ Complete |
+| **10. Supplementary Data Export** | CSV dataset export with README specification | `data/csv/` (`matches.csv`, `innings.csv`, `deliveries.csv`) | ✅ Complete |
+
+> 📖 **Demonstration & Evaluation Guide**: See [`SportsPulse/DEMO_GUIDE.md`](SportsPulse/DEMO_GUIDE.md) for step-by-step presentation scripts, benchmark row counts, Airflow commands, and dashboard tour instructions.
 
 ---
 
@@ -30,53 +34,89 @@
 
 The project implements a modern **Medallion Lakehouse Architecture** to guarantee data quality, idempotence, and high analytical query performance:
 
+<p align="center">
+  <img src="assets/sportspulse_architecture.png" alt="SportsPulse Architecture Diagram" width="100%">
+</p>
+
+### 🔄 End-to-End Pipeline Flow
+
+```mermaid
+flowchart TD
+    subgraph S0["1. Data Source"]
+        RawJSON["Cricsheet IPL Dataset<br/>1,243 match JSON files<br/>(ball-by-ball, innings, metadata)"]
+        CSVExp["CSV Dataset<br/>Converted Export<br/>(matches, innings, deliveries)"]
+    end
+
+    subgraph S1["2. Bronze Layer (Raw)"]
+        Reg["register_files.py<br/>Register source files<br/>Generate SHA-256 checksums"]
+        Manifest["file_manifest.csv<br/>Immutable file manifest"]
+        RawJSON --> Reg --> Manifest
+    end
+
+    subgraph S2["3. Validation & Quality"]
+        Val["validate_schema.py<br/>Schema validation"]
+        QC["quality_check.py<br/>Data quality checks<br/>Duplicate detection<br/>Consistency checks"]
+        Reports["reports/<br/>schema_validation_report.csv<br/>data_quality_report.csv"]
+        Reg --> Val --> QC --> Reports
+    end
+
+    subgraph S3["4. Silver Layer (Processed)"]
+        Parse["parse_matches.py<br/>Parse JSON/CSV to Parquet"]
+        Norm["normalize_entities.py<br/>Normalize entities & dimensions"]
+        SilverParquet["Silver Parquet Tables<br/>• matches.parquet (1,243 rows)<br/>• innings.parquet (2,514 rows)<br/>• deliveries.parquet (295,732 rows)<br/>• dim_teams.parquet (19 teams)<br/>• dim_players.parquet (807 players)"]
+        QC --> Parse --> Norm --> SilverParquet
+    end
+
+    subgraph S4["5. Gold Layer (Analytics)"]
+        Gold["build_gold.py<br/>Aggregation & Analytics Engine"]
+        GoldParquet["Gold Curated Parquet<br/>• player_batting.parquet (738 rows)<br/>• player_bowling.parquet (577 rows)<br/>• team_performance.parquet (19 rows)<br/>• match_summary.parquet (1,243 rows)<br/>• innings_summary.parquet (2,480 rows)"]
+        SilverParquet --> Gold --> GoldParquet
+    end
+
+    subgraph S5["6. PostgreSQL Warehouse"]
+        Loader["load_warehouse.py<br/>Idempotent Upserts & Fact Reload"]
+        PG[("PostgreSQL Warehouse<br/>Star Schema<br/>• dim_teams (19)<br/>• dim_players (807)<br/>• fact_matches (1,243)<br/>• fact_player_batting (738)<br/>• fact_player_bowling (577)")]
+        GoldParquet --> Loader --> PG
+    end
+
+    subgraph Orchestration["Orchestration (Apache Airflow)"]
+        Airflow["Airflow 2.8.1 (Docker Compose)<br/>8 Modular Tasks:<br/>1. Register Source Files<br/>2. Validate Schemas<br/>3. Data Quality Checks<br/>4. Parse Matches to Silver<br/>5. Normalize Entities<br/>6. Build Gold Datasets<br/>7. Load PostgreSQL<br/>8. Audit Summary"]
+        Airflow -.->|Orchestrates Pipeline| S1
+        Airflow -.->|Task Retries & Schedules| S5
+    end
+
+    subgraph Serving["SportsPulse Streamlit Dashboard"]
+        Streamlit["Streamlit Interactive UI<br/>• Overview (Tournament summary & trends)<br/>• Batting Analytics (Performance & strike rate)<br/>• Bowling Analytics (Wicket takers & economy)<br/>• Team Analytics (Team stats & win %)<br/>• Match Explorer (Search & filter matches)<br/>• Pipeline Control (Trigger & live logs)<br/>• System Architecture (Visual component flow)"]
+        PG --> Streamlit
+        GoldParquet -.->|Granular Telemetry| Streamlit
+    end
+
+    subgraph Access["Outputs & Access"]
+        OutCSV["CSV Dataset<br/>data/csv/"]
+        OutPG["PostgreSQL Database<br/>localhost:5432/sportspulse"]
+        OutPq["Parquet Files<br/>data/silver & data/gold"]
+        OutDash["Streamlit Dashboard<br/>http://localhost:8501"]
+        OutAF["Airflow UI<br/>http://localhost:8080"]
+    end
+
+    Streamlit --- OutDash
+    Airflow --- OutAF
+    PG --- OutPG
+    GoldParquet --- OutPq
+    CSVExp --- OutCSV
 ```
-[ Raw Sources ]
- 1,240+ IPL Match JSONs from Cricsheet (Ball-by-Ball)
-       │
-       ▼
-┌────────────────────────────────────────────────────────┐
-│  🥉 BRONZE LAYER (Raw Ingestion)                      │
-│  - Raw file registration with metadata & SHA-256 sums │
-│  - Immutable append-only ingestion                    │
-│  - Path: data/bronze/ipl/*.json                       │
-│  - Report: reports/file_manifest.csv                  │
-└────────────────────────────────────────────────────────┘
-       │
-       ├───► [ Schema Validation & Integrity Checks ]
-       │            │
-       │            ├───► Failed ──► 🚨 QUARANTINE (`data/quarantine/`)
-       ▼            ▼
-┌────────────────────────────────────────────────────────┐
-│  🥈 SILVER LAYER (Cleaned & Normalized Parquet)        │
-│  - De-nests matches, innings, and deliveries           │
-│  - Standardizes player, team, and venue naming         │
-│  - Builds relational entities & dimensions            │
-│  - Tables: matches, innings, deliveries,               │
-│            dim_teams, dim_players                      │
-│  - Path: data/silver/*.parquet                         │
-└────────────────────────────────────────────────────────┘
-       │
-       ▼
-┌────────────────────────────────────────────────────────┐
-│  🥇 GOLD LAYER (Curated Business Marts)               │
-│  - Batting performance (Runs, Avg, Strike Rate, 4s/6s) │
-│  - Bowling metrics (Wickets, Overs, Economy, Avg, SR)  │
-│  - Match & Innings summaries, Team win percentages     │
-│  - Tables: player_batting, player_bowling,             │
-│            team_performance, match_summary,            │
-│            innings_summary                             │
-│  - Path: data/gold/*.parquet                           │
-└────────────────────────────────────────────────────────┘
-       │
-       ├───► 🗄️ Analytical Warehouse (PostgreSQL)
-       │      - dim_teams, dim_players
-       │      - fact_matches, fact_player_batting, fact_player_bowling
-       │
-       └───► 📊 Streamlit Interactive Analytics Dashboard
-              - Reads facts & dimensions directly from PostgreSQL
-              - Reads granular innings data from Gold Parquet
-```
+
+### 🏛️ Pipeline Architectural Stages
+
+1. **Data Source**: 1,243 historical IPL ball-by-ball JSON match files from Cricsheet, plus converted CSV export files (`matches.csv`, `innings.csv`, `deliveries.csv`).
+2. **Bronze Layer (Raw)**: Raw ingestion registry with cryptographic SHA-256 checksum audit (`file_manifest.csv`) ensuring zero data tampering.
+3. **Validation & Quality**: Automated schema verification against JSON structural requirements, null validation, duplicate detection, and match score sanity checks.
+4. **Silver Layer (Processed)**: Nested JSON de-flattening and relational modeling into compressed Apache Parquet datasets (`matches`, `innings`, `deliveries`) and cleansed dimensional tables (`dim_teams`, `dim_players`).
+5. **Gold Layer (Analytics)**: Business analytics aggregation engine computing batting averages, strike rates, bowling economy, match summaries, and team win percentages into partitioned Parquet marts.
+6. **PostgreSQL Warehouse**: Star schema relational warehouse with idempotent upsert transactions and primary/foreign key referential integrity.
+7. **Orchestration (Apache Airflow)**: 8-stage modular DAG running inside Docker Compose with retry logic, execution timeouts, and dependency graphs.
+8. **Streamlit Analytics Dashboard**: 7 interactive views (Overview, Batting Analytics, Bowling Analytics, Team Analytics, Match Explorer, Pipeline Control Center, and System Architecture visualizer).
+9. **Outputs & Access**: Multi-modal serving endpoints spanning REST/SQL, web dashboards, raw CSV datasets, and Parquet data files.
 
 ---
 
@@ -220,6 +260,28 @@ python -m src.processing.build_gold
 python -m src.warehouse.load_warehouse
 ```
 
+### Option C: Containerized Apache Airflow Orchestration (Docker Compose)
+
+Orchestrate the entire pipeline as a directed acyclic graph (DAG) inside an isolated Docker container with automated task scheduling, dependencies, and retries:
+
+```powershell
+# 1. Start the Airflow standalone container in the background
+docker compose up -d
+
+# 2. Trigger the SportsPulse Medallion pipeline DAG
+docker compose exec airflow airflow dags trigger sportspulse_pipeline
+
+# 3. Monitor DAG execution status
+docker compose exec airflow airflow dags list-runs -d sportspulse_pipeline
+
+# 4. Access the Airflow UI at http://localhost:8080
+```
+
+Inside the Airflow UI, the pipeline is represented as 8 distinct tasks:
+`bronze_register_files` ➔ `schema_validate` ➔ `data_quality_checks` ➔ `silver_parse_matches` ➔ `silver_normalize_entities` ➔ `gold_build_analytics` ➔ `warehouse_load` ➔ `pipeline_audit_summary`.
+
+---
+
 ### Verification
 Upon completion, `load_warehouse.py` prints summary counts:
 - `dim_teams`: 19 rows
@@ -243,7 +305,27 @@ Open your browser at `http://localhost:8501`.
 - **Batting Analysis**: Top run-scorers, batting strike rates, boundary percentages, and averages.
 - **Bowling Analysis**: Top wicket-takers, economy rates, bowling averages, and strike rates.
 - **Team Dynamics**: Win percentage comparisons, head-to-head records, and toss impact.
-- **Innings Telemetry**: Match-level innings trajectories and worm charts.
+- **Match Explorer**: Interactive match search, team filtering, and ball-by-ball innings trajectories.
+- **Pipeline Control Center**: Trigger pipeline runs, view live execution logs, track 7 Medallion stages, inspect Parquet and warehouse metrics, view execution history, and monitor Apache Airflow container health.
+- **System Architecture**: High-resolution interactive architecture diagram visualizer, detailed breakdown of all 9 pipeline components, data layer specs, and output endpoints.
+
+---
+
+## 🧪 Automated Testing Suite (21 Unit Tests)
+
+The repository includes a comprehensive unit testing suite verifying pipeline reliability, failure isolation, subprocess execution, credential redaction, and Airflow DAG syntax:
+
+```powershell
+# Run the complete test suite:
+python -m unittest discover tests -v
+```
+
+### Verified Test Suites:
+- **`tests/test_runner.py` (8 Tests)**: Stage ordering, dry-run mode, `--skip-warehouse` option, fail-fast cascading, credential masking, metrics extraction, report filename derivation, and Airflow DAG syntax.
+- **`tests/test_dashboard_control.py` (9 Tests)**: File lock acquisition/concurrency prevention, report parser, corrupt JSON resilience, historical log parser, live log streaming, dry-run execution, Airflow healthcheck, and secret redaction.
+- **`tests/test_architecture.py` (4 Tests)**: 9 architectural component specifications, CSV export artifact specification, and image asset path resolver (`FOUND` vs `MISSING`).
+
+**Result**: `Ran 21 tests in ~3.0s — OK (All tests passing)`.
 
 ---
 
@@ -251,17 +333,25 @@ Open your browser at `http://localhost:8501`.
 
 ```text
 SportsPulse/
+├── assets/                  # Architecture diagrams & media assets
+│   ├── sportspulse_architecture.png
+│   └── sportspulse_architecture.jpg
 ├── dashboard/               # Streamlit web application
-│   └── app.py               # Interactive multi-tab analytics dashboard
-├── data/                    # Medallion data directories (gitignored datasets)
-│   ├── bronze/ipl/          # Raw Cricsheet IPL match JSON files
+│   ├── app.py               # Interactive multi-page analytics dashboard
+│   ├── architecture.py      # System Architecture visualizer & component breakdown
+│   └── pipeline_control.py  # Pipeline Control Center & operations engine
+├── data/                    # Medallion data directories
+│   ├── bronze/ipl/          # Raw Cricsheet IPL match JSON files (1,243 files)
 │   ├── silver/              # Normalized dimensional & fact Parquet tables
 │   ├── gold/                # Curated analytical aggregates & marts
+│   ├── csv/                 # Converted CSV export dataset (matches, innings, deliveries)
 │   └── quarantine/          # Isolated malformed or corrupt records
 ├── reports/                 # Pipeline audit and validation reports
 │   ├── file_manifest.csv
 │   ├── schema_validation_report.csv
-│   └── data_quality_report.csv
+│   ├── data_quality_report.csv
+│   ├── latest_pipeline_run.json
+│   └── pipeline_runs_history.csv
 ├── sql/                     # PostgreSQL warehouse DDLs
 │   └── schema.sql           # Table definitions, primary keys & foreign keys
 ├── src/                     # Pipeline source code
@@ -276,12 +366,19 @@ SportsPulse/
 │   │   └── build_gold.py
 │   └── warehouse/           # PostgreSQL warehouse loader (idempotent upserts)
 │       └── load_warehouse.py
-├── dags/                    # Orchestration DAG placeholders
+├── dags/                    # Production Apache Airflow DAGs
 │   └── sportspulse_pipeline.py
+├── docker-compose.yaml      # Dockerized Apache Airflow orchestration service
+├── run_pipeline.py          # Unified CLI pipeline runner with audit reporting
+├── DEMO_GUIDE.md            # Comprehensive viva & demonstration walkthrough
 ├── models/                  # Statistical and ML modeling placeholders
 ├── notebooks/               # Exploratory Jupyter analysis
-├── tests/                   # Automated pipeline test suites
+├── tests/                   # Automated pipeline test suites (21 unit tests)
+│   ├── test_runner.py
+│   ├── test_dashboard_control.py
+│   └── test_architecture.py
 ├── .env.example             # Template environment variables (safe placeholders)
+├── .dockerignore            # Clean Docker build context filters
 ├── .gitignore               # Strict ignore rules for data, secrets, caches
 ├── requirements.txt         # Pinned Python package dependencies
 └── README.md                # Project documentation
@@ -289,12 +386,11 @@ SportsPulse/
 
 ---
 
-## 🔮 Limitations & Future Roadmap
+## 🔮 Architectural Assessment & Future Roadmap
 
-- **Airflow Orchestration**: Integrating scheduled workflow DAGs in `dags/sportspulse_pipeline.py` with automated alert webhooks.
-- **PySpark Migration**: Extending the parsing and aggregation stages to distributed Spark for handling all international formats (ODIs, T20Is, Tests).
-- **Machine Learning**: Building predictive match models (in-game win probability calculator and bowler-batter matchup clustering).
-- **Automated Ingestion**: Implementing an automatic downloader and unpacker for live seasonal updates from Cricsheet.
+- **PySpark Distributed Computing Feasibility**: For the 295,732 delivery records in the IPL dataset, single-node Pandas/PyArrow vectorization completes in under 10 seconds. In enterprise production spanning all global cricket formats (50M+ balls), the pipeline architecture is designed to execute PySpark transformations via Airflow `DataprocSubmitPySparkJobOperator` or `SparkSubmitOperator` on managed clusters (Google Cloud Dataproc / AWS EMR) rather than local JVM emulation.
+- **Machine Learning Integration**: Building predictive match models (in-game win probability calculator and bowler-batter matchup clustering).
+- **Automated Ingestion**: Implementing an automatic streaming downloader and unpacker for live seasonal updates from Cricsheet.
 
 ---
 

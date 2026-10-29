@@ -215,6 +215,33 @@ class TestPipelineRunner(unittest.TestCase):
                 f"Stage {idx + 1} was not marked as SKIPPED",
             )
 
+    def test_airflow_dag_structure_and_syntax(self):
+        """Verify that dags/sportspulse_pipeline.py compiles cleanly and defines all stages."""
+        import py_compile
+
+        dag_path = PROJECT_ROOT / "dags" / "sportspulse_pipeline.py"
+        self.assertTrue(dag_path.exists(), f"Airflow DAG not found at {dag_path}")
+
+        # Ensure DAG file compiles without syntax errors
+        compiled_file = py_compile.compile(str(dag_path), doraise=True)
+        self.assertTrue(compiled_file is not None)
+
+        # Inspect DAG file contents for expected task ids and pipeline metadata
+        content = dag_path.read_text(encoding="utf-8")
+        self.assertIn("dag_id=\"sportspulse_pipeline\"", content)
+        expected_task_ids = [
+            "bronze_register_files",
+            "schema_validate",
+            "data_quality_checks",
+            "silver_parse_matches",
+            "silver_normalize_entities",
+            "gold_build_analytics",
+            "warehouse_load",
+            "pipeline_audit_summary",
+        ]
+        for tid in expected_task_ids:
+            self.assertIn(f"task_id=\"{tid}\"", content, f"Missing Airflow task {tid} in DAG definition")
+
 
 if __name__ == "__main__":
     unittest.main()
